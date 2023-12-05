@@ -1,0 +1,31 @@
+INFO  20:41:57,306 - Compiling source file: C:\pp1\workspace\MJCompiler\test\sintaksnaAnalizaGreske.mj
+INFO  20:41:57,365 - #2 program
+INFO  20:41:57,365 - #47 sintaksnaAnalizaGreske
+INFO  20:41:57,366 - #44 {
+INFO  20:41:57,367 - #13 void
+INFO  20:41:57,368 - #47 main
+INFO  20:41:57,368 - #39 (
+INFO  20:41:57,369 - #40 )
+INFO  20:41:57,370 - #47 int
+INFO  20:41:57,371 - #47 a
+INFO  20:41:57,371 - #32 =
+ERROR 20:41:57,371 - 
+Sintaksna greska na liniji 6
+INFO  20:41:57,372 - #35 ;
+INFO  20:41:57,372 - #47 chdf
+INFO  20:41:57,372 - #47 o
+INFO  20:41:57,373 - #35 ;
+ERROR 20:41:57,373 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 6
+INFO  20:41:57,374 - #44 {
+INFO  20:41:57,374 - #8 while
+INFO  20:41:57,376 - #39 (
+INFO  20:41:57,376 - #35 ;
+ERROR 20:41:57,376 - 
+Sintaksna greska na liniji 9
+INFO  20:41:57,376 - #40 )
+INFO  20:41:57,376 - #5 else
+INFO  20:41:57,376 - #44 {
+INFO  20:41:57,376 - #45 }
+INFO  20:41:57,376 - #45 }
+INFO  20:41:57,376 - #45 }
+ERROR 20:41:57,376 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14

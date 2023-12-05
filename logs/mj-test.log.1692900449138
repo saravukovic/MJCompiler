@@ -1,0 +1,271 @@
+INFO  19:41:36,216 - Compiling source file: C:\pp1\workspace\MJCompiler\test\sintaksnaAnalizaTest1.mj
+INFO  19:41:36,274 - #2 program
+INFO  19:41:36,274 - #47 sintaksnaAnalizaGreske
+INFO  19:41:36,275 - #44 {
+INFO  19:41:36,276 - #13 void
+INFO  19:41:36,277 - #47 func1
+INFO  19:41:36,277 - #39 (
+INFO  19:41:36,278 - #47 int
+INFO  19:41:36,279 - #47 i
+INFO  19:41:36,280 - #40 )
+INFO  19:41:36,281 - #44 {
+INFO  19:41:36,282 - #45 }
+INFO  19:41:36,283 - #13 void
+INFO  19:41:36,283 - #47 func2
+INFO  19:41:36,283 - #39 (
+INFO  19:41:36,283 - #47 int
+INFO  19:41:36,283 - #47 i
+INFO  19:41:36,284 - #37 ,
+INFO  19:41:36,284 - #47 char
+INFO  19:41:36,284 - #47 c
+INFO  19:41:36,284 - #40 )
+INFO  19:41:36,284 - #44 {
+INFO  19:41:36,285 - #45 }
+INFO  19:41:36,285 - #13 void
+INFO  19:41:36,285 - #47 func3
+INFO  19:41:36,285 - #39 (
+INFO  19:41:36,286 - #47 int
+INFO  19:41:36,286 - #47 a
+INFO  19:41:36,286 - #21 *
+ERROR 19:41:36,286 - 
+Sintaksna greska na liniji 9
+INFO  19:41:36,286 - #40 )
+INFO  19:41:36,286 - #44 {
+INFO  19:41:36,286 - #45 }
+INFO  19:41:36,287 - #13 void
+ERROR 19:41:36,288 - Uspesan oporavak od greske pri deklaraciji formalnih parametara funkcije na liniji 11
+INFO  19:41:36,289 - #47 func4
+INFO  19:41:36,289 - #39 (
+INFO  19:41:36,289 - #47 int
+INFO  19:41:36,289 - #47 a
+INFO  19:41:36,289 - #21 *
+ERROR 19:41:36,289 - 
+Sintaksna greska na liniji 11
+INFO  19:41:36,289 - #37 ,
+INFO  19:41:36,289 - #47 int
+INFO  19:41:36,289 - #47 b
+INFO  19:41:36,289 - #40 )
+ERROR 19:41:36,289 - Uspesan oporavak od greske pri deklaraciji formalnih parametara funkcije na liniji 11
+INFO  19:41:36,290 - #44 {
+INFO  19:41:36,290 - #45 }
+INFO  19:41:36,290 - #13 void
+INFO  19:41:36,290 - #47 func5
+INFO  19:41:36,290 - #39 (
+INFO  19:41:36,290 - #47 int
+INFO  19:41:36,290 - #47 a
+INFO  19:41:36,290 - #21 *
+ERROR 19:41:36,290 - 
+Sintaksna greska na liniji 13
+INFO  19:41:36,290 - #37 ,
+INFO  19:41:36,290 - #47 int
+INFO  19:41:36,290 - #47 b
+INFO  19:41:36,290 - #21 *
+ERROR 19:41:36,290 - Uspesan oporavak od greske pri deklaraciji formalnih parametara funkcije na liniji 11
+ERROR 19:41:36,291 - 
+Sintaksna greska na liniji 13
+INFO  19:41:36,291 - #40 )
+INFO  19:41:36,291 - #44 {
+INFO  19:41:36,291 - #45 }
+INFO  19:41:36,291 - #13 void
+ERROR 19:41:36,291 - Uspesan oporavak od greske pri deklaraciji formalnih parametara funkcije na liniji 11
+INFO  19:41:36,291 - #47 func6
+INFO  19:41:36,291 - #39 (
+INFO  19:41:36,291 - #47 int
+INFO  19:41:36,291 - #47 a
+INFO  19:41:36,292 - #37 ,
+INFO  19:41:36,292 - #47 int
+INFO  19:41:36,292 - #47 b
+INFO  19:41:36,292 - #21 *
+ERROR 19:41:36,292 - 
+Sintaksna greska na liniji 15
+INFO  19:41:36,292 - #40 )
+INFO  19:41:36,292 - #44 {
+INFO  19:41:36,292 - #45 }
+INFO  19:41:36,292 - #13 void
+ERROR 19:41:36,292 - Uspesan oporavak od greske pri deklaraciji formalnih parametara funkcije na liniji 11
+INFO  19:41:36,292 - #47 main
+INFO  19:41:36,292 - #39 (
+INFO  19:41:36,293 - #40 )
+INFO  19:41:36,293 - #44 {
+INFO  19:41:36,293 - #45 }
+INFO  19:41:36,293 - #45 }
+INFO  19:41:36,305 - Program(
+  ProgramName(
+   sintaksnaAnalizaGreske
+  ) [ProgramName]
+  NoDecl(
+  ) [NoDecl]
+  MethDeclList(
+    MethDeclList(
+      MethDeclList(
+        MethDeclList(
+          MethDeclList(
+            MethDeclList(
+              MethDeclList(
+                NoMethDeclList(
+                ) [NoMethDeclList]
+                Method(
+                  MethDeclTypeAndName(
+                    MethodVoid(
+                    ) [MethodVoid]
+                   func1
+                  ) [MethDeclTypeAndName]
+                  FormParamsList(
+                    NoFormParamsList(
+                    ) [NoFormParamsList]
+                    FormParam(
+                      FormParameter(
+                        Type(
+                         int
+                        ) [Type]
+                       i
+                      ) [FormParameter]
+                    ) [FormParam]
+                  ) [FormParamsList]
+                  NoVarDeclarList(
+                  ) [NoVarDeclarList]
+                  NoStmt(
+                  ) [NoStmt]
+                ) [Method]
+              ) [MethDeclList]
+              Method(
+                MethDeclTypeAndName(
+                  MethodVoid(
+                  ) [MethodVoid]
+                 func2
+                ) [MethDeclTypeAndName]
+                FormParamsList(
+                  NoFormParamsList(
+                  ) [NoFormParamsList]
+                  FormParams(
+                    FormParam(
+                      FormParameter(
+                        Type(
+                         int
+                        ) [Type]
+                       i
+                      ) [FormParameter]
+                    ) [FormParam]
+                    FormParameter(
+                      Type(
+                       char
+                      ) [Type]
+                     c
+                    ) [FormParameter]
+                  ) [FormParams]
+                ) [FormParamsList]
+                NoVarDeclarList(
+                ) [NoVarDeclarList]
+                NoStmt(
+                ) [NoStmt]
+              ) [Method]
+            ) [MethDeclList]
+            Method(
+              MethDeclTypeAndName(
+                MethodVoid(
+                ) [MethodVoid]
+               func3
+              ) [MethDeclTypeAndName]
+              FormParamsList(
+                NoFormParamsList(
+                ) [NoFormParamsList]
+                ErrFormParams(
+                ) [ErrFormParams]
+              ) [FormParamsList]
+              NoVarDeclarList(
+              ) [NoVarDeclarList]
+              NoStmt(
+              ) [NoStmt]
+            ) [Method]
+          ) [MethDeclList]
+          Method(
+            MethDeclTypeAndName(
+              MethodVoid(
+              ) [MethodVoid]
+             func4
+            ) [MethDeclTypeAndName]
+            FormParamsList(
+              NoFormParamsList(
+              ) [NoFormParamsList]
+              FormParams(
+                ErrFormParams(
+                ) [ErrFormParams]
+                FormParameter(
+                  Type(
+                   int
+                  ) [Type]
+                 b
+                ) [FormParameter]
+              ) [FormParams]
+            ) [FormParamsList]
+            NoVarDeclarList(
+            ) [NoVarDeclarList]
+            NoStmt(
+            ) [NoStmt]
+          ) [Method]
+        ) [MethDeclList]
+        Method(
+          MethDeclTypeAndName(
+            MethodVoid(
+            ) [MethodVoid]
+           func5
+          ) [MethDeclTypeAndName]
+          FormParamsList(
+            NoFormParamsList(
+            ) [NoFormParamsList]
+            ErrFormParams(
+            ) [ErrFormParams]
+          ) [FormParamsList]
+          NoVarDeclarList(
+          ) [NoVarDeclarList]
+          NoStmt(
+          ) [NoStmt]
+        ) [Method]
+      ) [MethDeclList]
+      Method(
+        MethDeclTypeAndName(
+          MethodVoid(
+          ) [MethodVoid]
+         func6
+        ) [MethDeclTypeAndName]
+        FormParamsList(
+          NoFormParamsList(
+          ) [NoFormParamsList]
+          ErrFormParams(
+          ) [ErrFormParams]
+        ) [FormParamsList]
+        NoVarDeclarList(
+        ) [NoVarDeclarList]
+        NoStmt(
+        ) [NoStmt]
+      ) [Method]
+    ) [MethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethDeclTypeAndName]
+      NoFormParamsList(
+      ) [NoFormParamsList]
+      NoVarDeclarList(
+      ) [NoVarDeclarList]
+      NoStmt(
+      ) [NoStmt]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  19:41:36,305 - ===================================
+INFO  19:41:36,310 - Obradjuje se funkcija func1 na liniji 5
+INFO  19:41:36,311 - Definisan je formalni argument i na liniji 5
+INFO  19:41:36,311 - Obradjuje se funkcija func2 na liniji 7
+INFO  19:41:36,311 - Definisan je formalni argument i na liniji 7
+INFO  19:41:36,311 - Definisan je formalni argument c na liniji 7
+INFO  19:41:36,311 - Obradjuje se funkcija func3 na liniji 9
+INFO  19:41:36,311 - Obradjuje se funkcija func4 na liniji 11
+INFO  19:41:36,311 - Definisan je formalni argument b na liniji 11
+INFO  19:41:36,311 - Obradjuje se funkcija func5 na liniji 13
+INFO  19:41:36,312 - Obradjuje se funkcija func6 na liniji 15
+INFO  19:41:36,312 - Obradjuje se funkcija main na liniji 17
+INFO  19:41:36,312 - ===================================
+ERROR 19:41:36,314 - Parsiranje NIJE uspesno zavrseno!

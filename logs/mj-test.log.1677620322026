@@ -1,0 +1,69 @@
+INFO  22:38:31,905 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  22:38:31,923 - #2 program
+INFO  22:38:31,923 - #45 mojProgram
+INFO  22:38:31,923 - #6 const
+INFO  22:38:31,924 - #45 int
+INFO  22:38:31,924 - #45 y
+INFO  22:38:31,925 - #30 =
+INFO  22:38:31,925 - #47 true
+INFO  22:38:31,926 - #33 ;
+INFO  22:38:31,926 - #6 const
+INFO  22:38:31,927 - #45 char
+INFO  22:38:31,928 - #45 c
+INFO  22:38:31,928 - #30 =
+INFO  22:38:31,928 - #46 '
+INFO  22:38:31,928 - #35 ,
+INFO  22:38:31,928 - #45 b
+INFO  22:38:31,928 - #30 =
+INFO  22:38:31,928 - #46 '
+INFO  22:38:31,928 - #35 ,
+INFO  22:38:31,929 - #45 d
+INFO  22:38:31,929 - #30 =
+INFO  22:38:31,929 - #46 '
+INFO  22:38:31,929 - #33 ;
+INFO  22:38:31,940 - #42 {
+INFO  22:38:31,940 - #43 }
+INFO  22:38:31,942 - Program(
+ mojProgram
+  DeclarationList(
+    DeclarationList(
+      NoDecl(
+      ) [NoDecl]
+      ConstDeclaration(
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstBoolDeclarList(
+            OneConstBoolDecl(
+             y
+             true
+            ) [OneConstBoolDecl]
+          ) [ConstBoolDeclarList]
+        ) [ConstDecl]
+      ) [ConstDeclaration]
+    ) [DeclarationList]
+    ConstDeclaration(
+      ConstDecl(
+        Type(
+         char
+        ) [Type]
+        ConstCharDeclarList(
+          MultipleConstCharDecl(
+            MultipleConstCharDecl(
+              OneConstCharDecl(
+               c
+               '
+              ) [OneConstCharDecl]
+             b
+             '
+            ) [MultipleConstCharDecl]
+           d
+           '
+          ) [MultipleConstCharDecl]
+        ) [ConstCharDeclarList]
+      ) [ConstDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationList]
+) [Program]
+INFO  22:38:31,943 - ===================================

@@ -1,0 +1,66 @@
+program sintaksnaAnaliza
+
+const int jedan = 1;
+
+int i;
+bool ibool;
+
+int niz2[];
+
+int niz[];
+int a, curr;
+
+{
+	
+	int sum(int z, int d)
+	{
+		return z + d;
+	}
+	
+
+	int inkrement(int a) 
+		int pom; 
+	{
+		pom = 1;
+		return sum(a,pom);
+	}
+	
+	void main()
+	{
+		
+		if(ibool)
+			if(i == 5) print(1);
+			else print(-1); 	
+		a = 2;	
+		
+		niz = new int[3];
+		
+		niz[0] = 1 * a;
+		niz[1] = 2 * a;
+		niz[2] = sum(niz[1], niz[0]) * a + 1;
+		
+		print(eol);
+		i = 0;
+		
+		while (i < 10) {
+			if(i == 3)
+			{
+				i++;
+				continue;
+			}
+			i = inkrement(i);
+		}
+		
+		if(i == 3) print(-4);
+		else print(4);  
+			
+		print(eol);
+		
+		print(inkrement(niz[2]));
+		
+
+		niz.foreach(curr => print(curr););
+		niz2 = niz.findAndReplace(jedan + 5, curr => curr * 3);
+	}
+}
+

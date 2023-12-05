@@ -1,0 +1,220 @@
+INFO  23:35:23,995 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  23:35:24,096 - #2 program
+INFO  23:35:24,096 - #45 mojProgram
+INFO  23:35:24,096 - #4 class
+INFO  23:35:24,098 - #45 Klasa
+INFO  23:35:24,098 - #42 {
+INFO  23:35:24,098 - #45 int
+INFO  23:35:24,099 - #45 y
+INFO  23:35:24,102 - #33 ;
+INFO  23:35:24,102 - #42 {
+INFO  23:35:24,104 - #45 int
+INFO  23:35:24,105 - #45 fun
+INFO  23:35:24,106 - #37 (
+INFO  23:35:24,107 - #38 )
+INFO  23:35:24,108 - #42 {
+INFO  23:35:24,110 - #12 return
+INFO  23:35:24,112 - #44 3
+INFO  23:35:24,112 - #33 ;
+INFO  23:35:24,113 - #43 }
+INFO  23:35:24,113 - #43 }
+INFO  23:35:24,114 - #43 }
+INFO  23:35:24,115 - #45 bool
+INFO  23:35:24,117 - #45 b
+INFO  23:35:24,128 - #33 ;
+INFO  23:35:24,128 - #45 int
+INFO  23:35:24,129 - #45 a
+INFO  23:35:24,129 - #33 ;
+INFO  23:35:24,130 - #45 a
+INFO  23:35:24,130 - #30 =
+ERROR 23:35:24,130 - 
+Sintaksna greska na liniji 10
+INFO  23:35:24,130 - #44 1
+INFO  23:35:24,130 - #33 ;
+INFO  23:35:24,130 - #42 {
+INFO  23:35:24,131 - #45 int
+INFO  23:35:24,131 - #45 fun
+INFO  23:35:24,131 - #37 (
+ERROR 23:35:24,132 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 8
+INFO  23:35:24,134 - #45 int
+INFO  23:35:24,134 - #45 x
+INFO  23:35:24,134 - #39 [
+INFO  23:35:24,134 - #40 ]
+INFO  23:35:24,134 - #39 [
+INFO  23:35:24,134 - #40 ]
+INFO  23:35:24,134 - #38 )
+INFO  23:35:24,135 - #42 {
+INFO  23:35:24,135 - #12 return
+INFO  23:35:24,135 - #45 a
+INFO  23:35:24,135 - #33 ;
+INFO  23:35:24,136 - #43 }
+INFO  23:35:24,136 - #43 }
+INFO  23:35:24,152 - Program(
+  ProgramName(
+   mojProgram
+  ) [ProgramName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          NoDecl(
+          ) [NoDecl]
+          ClassDeclaration(
+            ClassDecl(
+              ClassNameNoExt(
+               Klasa
+              ) [ClassNameNoExt]
+              ClassVarDeclarList(
+                NoClassVarDeclarList(
+                ) [NoClassVarDeclarList]
+                ClassVarDeclar(
+                  ClassVarDeclType(
+                    Type(
+                     int
+                    ) [Type]
+                  ) [ClassVarDeclType]
+                  OneClassVar(
+                    OneClassVariable(
+                     y
+                    ) [OneClassVariable]
+                  ) [OneClassVar]
+                ) [ClassVarDeclar]
+              ) [ClassVarDeclarList]
+              FunctionDeclList(
+                NoFunctionDeclList(
+                ) [NoFunctionDeclList]
+                FuncDecl(
+                  ClassMethDeclList(
+                    NoClassMethDeclList(
+                    ) [NoClassMethDeclList]
+                    ClassMethodType(
+                      Method(
+                        MethDeclTypeAndName(
+                          MethodType(
+                            Type(
+                             int
+                            ) [Type]
+                          ) [MethodType]
+                         fun
+                        ) [MethDeclTypeAndName]
+                        NoFormParamsList(
+                        ) [NoFormParamsList]
+                        NoVarDeclarList(
+                        ) [NoVarDeclarList]
+                        StmtList(
+                          NoStmt(
+                          ) [NoStmt]
+                          MatchedStm(
+                            ReturnStm(
+                              Expression(
+                                OneTerm(
+                                  OneFactor(
+                                    FactNum(
+                                     3
+                                    ) [FactNum]
+                                  ) [OneFactor]
+                                ) [OneTerm]
+                              ) [Expression]
+                            ) [ReturnStm]
+                          ) [MatchedStm]
+                        ) [StmtList]
+                      ) [Method]
+                    ) [ClassMethodType]
+                  ) [ClassMethDeclList]
+                ) [FuncDecl]
+              ) [FunctionDeclList]
+            ) [ClassDecl]
+          ) [ClassDeclaration]
+        ) [DeclarationList]
+        VarDeclaration(
+          VarDeclar(
+            Type(
+             bool
+            ) [Type]
+            OneVar(
+              OneVariable(
+               b
+              ) [OneVariable]
+            ) [OneVar]
+          ) [VarDeclar]
+        ) [VarDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          OneVar(
+            OneVariable(
+             a
+            ) [OneVariable]
+          ) [OneVar]
+        ) [VarDeclar]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      ErrVarDeclarSEMI(
+      ) [ErrVarDeclarSEMI]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    NoMethDeclList(
+    ) [NoMethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodType(
+          Type(
+           int
+          ) [Type]
+        ) [MethodType]
+       fun
+      ) [MethDeclTypeAndName]
+      FormParamsList(
+        NoFormParamsList(
+        ) [NoFormParamsList]
+        FormParam(
+          FormParameterMatrix(
+            Type(
+             int
+            ) [Type]
+           x
+          ) [FormParameterMatrix]
+        ) [FormParam]
+      ) [FormParamsList]
+      NoVarDeclarList(
+      ) [NoVarDeclarList]
+      StmtList(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStm(
+          ReturnStm(
+            Expression(
+              OneTerm(
+                OneFactor(
+                  FactDesign(
+                    Design(
+                     a
+                    ) [Design]
+                  ) [FactDesign]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [Expression]
+          ) [ReturnStm]
+        ) [MatchedStm]
+      ) [StmtList]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  23:35:24,154 - ===================================
+INFO  23:35:24,163 - Obradjuje se klasa Klasa na liniji 2
+INFO  23:35:24,163 - Definisana je promenljiva y na liniji 3
+INFO  23:35:24,163 - Obradjuje se funkcija fun na liniji 5
+ERROR 23:35:24,164 - Semanticka greska na liniji 8: tip bool ne postoji
+INFO  23:35:24,164 - Definisana je promenljiva b na liniji 8
+INFO  23:35:24,164 - Definisana je promenljiva a na liniji 9
+INFO  23:35:24,164 - Obradjuje se funkcija fun na liniji 12
+INFO  23:35:24,165 - Definisan je formalni argument x na liniji 12
+INFO  23:35:24,165 - Pristup promenljivoj a na liniji 12
+ERROR 23:35:24,165 - Metoda main mora postojati kao globalna void funkcija, bez argumenata. na liniji 1
+INFO  23:35:24,165 - ===================================
+ERROR 23:35:24,166 - Parsiranje NIJE uspesno zavrseno!

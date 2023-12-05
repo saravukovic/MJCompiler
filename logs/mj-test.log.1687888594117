@@ -1,0 +1,165 @@
+INFO  19:47:42,503 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  19:47:42,554 - #2 program
+INFO  19:47:42,554 - #45 test302
+INFO  19:47:42,554 - #6 const
+INFO  19:47:42,554 - #45 int
+INFO  19:47:42,555 - #45 jedan
+INFO  19:47:42,555 - #30 =
+INFO  19:47:42,555 - #44 1
+INFO  19:47:42,555 - #33 ;
+INFO  19:47:42,557 - #45 int
+INFO  19:47:42,557 - #45 i
+INFO  19:47:42,557 - #33 ;
+INFO  19:47:42,558 - #45 bool
+INFO  19:47:42,558 - #45 ibool
+INFO  19:47:42,558 - #33 ;
+INFO  19:47:42,558 - #45 int
+INFO  19:47:42,558 - #45 niz2
+INFO  19:47:42,558 - #39 [
+INFO  19:47:42,558 - #40 ]
+INFO  19:47:42,558 - #33 ;
+INFO  19:47:42,558 - #45 int
+INFO  19:47:42,558 - #45 niz
+INFO  19:47:42,558 - #39 [
+INFO  19:47:42,570 - #40 ]
+INFO  19:47:42,570 - #33 ;
+INFO  19:47:42,570 - #45 int
+INFO  19:47:42,570 - #45 a
+INFO  19:47:42,570 - #35 ,
+INFO  19:47:42,570 - #45 curr
+INFO  19:47:42,570 - #33 ;
+INFO  19:47:42,571 - #42 {
+INFO  19:47:42,571 - #13 void
+INFO  19:47:42,572 - #45 main
+INFO  19:47:42,572 - #37 (
+INFO  19:47:42,573 - #38 )
+INFO  19:47:42,573 - #42 {
+INFO  19:47:42,574 - #43 }
+INFO  19:47:42,574 - #43 }
+INFO  19:47:42,582 - Program(
+  ProgramName(
+   test302
+  ) [ProgramName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              NoDecl(
+              ) [NoDecl]
+              ConstDeclaration(
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  SingleConstDecl(
+                   jedan
+                    IntConstant(
+                     1
+                    ) [IntConstant]
+                  ) [SingleConstDecl]
+                  NoConstDeclarList(
+                  ) [NoConstDeclarList]
+                ) [ConstDecl]
+              ) [ConstDeclaration]
+            ) [DeclarationList]
+            VarDeclaration(
+              VarDeclar(
+                Type(
+                 int
+                ) [Type]
+                OneVar(
+                  OneVariable(
+                   i
+                  ) [OneVariable]
+                ) [OneVar]
+              ) [VarDeclar]
+            ) [VarDeclaration]
+          ) [DeclarationList]
+          VarDeclaration(
+            VarDeclar(
+              Type(
+               bool
+              ) [Type]
+              OneVar(
+                OneVariable(
+                 ibool
+                ) [OneVariable]
+              ) [OneVar]
+            ) [VarDeclar]
+          ) [VarDeclaration]
+        ) [DeclarationList]
+        VarDeclaration(
+          VarDeclar(
+            Type(
+             int
+            ) [Type]
+            OneVar(
+              ArrayVariable(
+               niz2
+              ) [ArrayVariable]
+            ) [OneVar]
+          ) [VarDeclar]
+        ) [VarDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          OneVar(
+            ArrayVariable(
+             niz
+            ) [ArrayVariable]
+          ) [OneVar]
+        ) [VarDeclar]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDeclar(
+        Type(
+         int
+        ) [Type]
+        Vars(
+          OneVar(
+            OneVariable(
+             a
+            ) [OneVariable]
+          ) [OneVar]
+          OneVariable(
+           curr
+          ) [OneVariable]
+        ) [Vars]
+      ) [VarDeclar]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    NoMethDeclList(
+    ) [NoMethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethDeclTypeAndName]
+      NoFormParamsList(
+      ) [NoFormParamsList]
+      NoVarDeclarList(
+      ) [NoVarDeclarList]
+      NoStmt(
+      ) [NoStmt]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  19:47:42,582 - ===================================
+INFO  19:47:42,587 - Definisana je konstanta jedan cija je vrednost = 1 na liniji 5
+INFO  19:47:42,587 - Definisana je promenljiva i na liniji 7
+INFO  19:47:42,587 - Definisana je promenljiva ibool na liniji 8
+INFO  19:47:42,587 - Definisan je niz niz2 na liniji 10
+INFO  19:47:42,587 - Definisan je niz niz na liniji 12
+INFO  19:47:42,587 - Definisana je promenljiva a na liniji 13
+INFO  19:47:42,587 - Definisana je promenljiva curr na liniji 13
+INFO  19:47:42,587 - Obradjuje se funkcija main na liniji 16
+INFO  19:47:42,587 - ===================================
+INFO  19:47:42,592 - Parsiranje uspesno zavrseno!

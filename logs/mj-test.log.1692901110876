@@ -1,0 +1,386 @@
+INFO  20:11:32,229 - Compiling source file: C:\pp1\workspace\MJCompiler\test\sintaksnaAnalizaTest1.mj
+INFO  20:11:32,281 - #2 program
+INFO  20:11:32,282 - #47 sintaksnaAnalizaGreske
+INFO  20:11:32,282 - #47 bool
+INFO  20:11:32,283 - #47 a
+INFO  20:11:32,283 - #35 ;
+INFO  20:11:32,284 - #6 const
+INFO  20:11:32,285 - #47 bool
+INFO  20:11:32,285 - #47 c
+INFO  20:11:32,285 - #32 =
+INFO  20:11:32,285 - #49 true
+INFO  20:11:32,285 - #35 ;
+INFO  20:11:32,286 - #6 const
+INFO  20:11:32,287 - #47 bool
+INFO  20:11:32,288 - #47 b
+INFO  20:11:32,288 - #32 =
+INFO  20:11:32,288 - #46 231
+INFO  20:11:32,288 - #35 ;
+INFO  20:11:32,288 - #47 int
+INFO  20:11:32,288 - #47 a1
+INFO  20:11:32,288 - #32 =
+ERROR 20:11:32,289 - 
+Sintaksna greska na liniji 9
+INFO  20:11:32,299 - #46 1
+INFO  20:11:32,299 - #35 ;
+INFO  20:11:32,299 - #6 const
+INFO  20:11:32,301 - #47 int
+INFO  20:11:32,301 - #47 b1
+ERROR 20:11:32,301 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 9
+INFO  20:11:32,302 - #32 =
+INFO  20:11:32,302 - #20 -
+ERROR 20:11:32,302 - 
+Sintaksna greska na liniji 11
+INFO  20:11:32,303 - #21 *
+INFO  20:11:32,303 - #46 1
+INFO  20:11:32,303 - #35 ;
+INFO  20:11:32,303 - #6 const
+INFO  20:11:32,303 - #47 int
+INFO  20:11:32,303 - #47 c1
+INFO  20:11:32,303 - #32 =
+ERROR 20:11:32,303 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 8
+INFO  20:11:32,304 - #47 faaaalse
+ERROR 20:11:32,304 - 
+Sintaksna greska na liniji 13
+INFO  20:11:32,305 - #35 ;
+INFO  20:11:32,305 - #47 char
+INFO  20:11:32,305 - #47 a2
+INFO  20:11:32,305 - #41 [
+INFO  20:11:32,305 - #48 c
+ERROR 20:11:32,305 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 8
+ERROR 20:11:32,305 - 
+Sintaksna greska na liniji 15
+INFO  20:11:32,306 - #42 ]
+INFO  20:11:32,306 - #35 ;
+INFO  20:11:32,306 - #6 const
+INFO  20:11:32,306 - #47 char
+INFO  20:11:32,306 - #47 b2
+ERROR 20:11:32,306 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 15
+INFO  20:11:32,306 - #32 =
+INFO  20:11:32,306 - #48 v
+INFO  20:11:32,306 - #35 ;
+INFO  20:11:32,307 - #6 const
+INFO  20:11:32,307 - #47 char
+INFO  20:11:32,307 - #47 c3
+INFO  20:11:32,307 - #32 =
+INFO  20:11:32,307 - #49 true
+INFO  20:11:32,307 - #35 ;
+INFO  20:11:32,307 - #44 {
+INFO  20:11:32,307 - #13 void
+INFO  20:11:32,308 - #47 voidFun
+INFO  20:11:32,309 - #39 (
+INFO  20:11:32,310 - #47 int
+INFO  20:11:32,311 - #47 i
+INFO  20:11:32,312 - #40 )
+INFO  20:11:32,313 - #44 {
+INFO  20:11:32,313 - #45 }
+INFO  20:11:32,314 - #47 int
+INFO  20:11:32,314 - #47 intFun
+INFO  20:11:32,314 - #39 (
+INFO  20:11:32,314 - #47 int
+INFO  20:11:32,315 - #47 i
+INFO  20:11:32,315 - #37 ,
+INFO  20:11:32,315 - #47 char
+INFO  20:11:32,315 - #47 c
+INFO  20:11:32,315 - #40 )
+INFO  20:11:32,315 - #44 {
+INFO  20:11:32,315 - #45 }
+INFO  20:11:32,315 - #47 int
+INFO  20:11:32,315 - #47 intFun1
+INFO  20:11:32,315 - #39 (
+INFO  20:11:32,316 - #47 int
+INFO  20:11:32,316 - #47 i
+INFO  20:11:32,316 - #37 ,
+INFO  20:11:32,316 - #47 char
+INFO  20:11:32,316 - #47 c
+INFO  20:11:32,316 - #32 =
+ERROR 20:11:32,316 - 
+Sintaksna greska na liniji 27
+INFO  20:11:32,316 - #48 a
+INFO  20:11:32,316 - #40 )
+INFO  20:11:32,316 - #44 {
+INFO  20:11:32,316 - #45 }
+INFO  20:11:32,316 - #47 bool
+ERROR 20:11:32,317 - Uspesan oporavak od greske pri deklaraciji formalnih parametara funkcije na liniji 12
+INFO  20:11:32,317 - #47 boolFun
+INFO  20:11:32,317 - #39 (
+INFO  20:11:32,317 - #47 int
+INFO  20:11:32,318 - #47 a
+INFO  20:11:32,318 - #21 *
+ERROR 20:11:32,318 - 
+Sintaksna greska na liniji 29
+INFO  20:11:32,318 - #40 )
+INFO  20:11:32,318 - #44 {
+INFO  20:11:32,318 - #45 }
+INFO  20:11:32,318 - #13 void
+ERROR 20:11:32,318 - Uspesan oporavak od greske pri deklaraciji formalnih parametara funkcije na liniji 13
+INFO  20:11:32,318 - #47 main
+INFO  20:11:32,318 - #39 (
+INFO  20:11:32,318 - #40 )
+INFO  20:11:32,318 - #44 {
+INFO  20:11:32,318 - #45 }
+INFO  20:11:32,318 - #45 }
+INFO  20:11:32,328 - Program(
+  ProgramName(
+   sintaksnaAnalizaGreske
+  ) [ProgramName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              DeclarationList(
+                DeclarationList(
+                  DeclarationList(
+                    NoDecl(
+                    ) [NoDecl]
+                    VarDeclaration(
+                      VarDeclar(
+                        Type(
+                         bool
+                        ) [Type]
+                        OneVar(
+                          OneVariable(
+                           a
+                          ) [OneVariable]
+                        ) [OneVar]
+                      ) [VarDeclar]
+                    ) [VarDeclaration]
+                  ) [DeclarationList]
+                  ConstDeclaration(
+                    ConstDecl(
+                      Type(
+                       bool
+                      ) [Type]
+                      SingleConstDecl(
+                       c
+                        BoolConstant(
+                         true
+                        ) [BoolConstant]
+                      ) [SingleConstDecl]
+                      NoConstDeclarList(
+                      ) [NoConstDeclarList]
+                    ) [ConstDecl]
+                  ) [ConstDeclaration]
+                ) [DeclarationList]
+                ConstDeclaration(
+                  ConstDecl(
+                    Type(
+                     bool
+                    ) [Type]
+                    SingleConstDecl(
+                     b
+                      IntConstant(
+                       231
+                      ) [IntConstant]
+                    ) [SingleConstDecl]
+                    NoConstDeclarList(
+                    ) [NoConstDeclarList]
+                  ) [ConstDecl]
+                ) [ConstDeclaration]
+              ) [DeclarationList]
+              VarDeclaration(
+                VarDeclar(
+                  Type(
+                   int
+                  ) [Type]
+                  ErrVarDeclarCOMMA(
+                  ) [ErrVarDeclarCOMMA]
+                ) [VarDeclar]
+              ) [VarDeclaration]
+            ) [DeclarationList]
+            VarDeclaration(
+              ErrVarDeclarSEMI(
+              ) [ErrVarDeclarSEMI]
+            ) [VarDeclaration]
+          ) [DeclarationList]
+          VarDeclaration(
+            ErrVarDeclarSEMI(
+            ) [ErrVarDeclarSEMI]
+          ) [VarDeclaration]
+        ) [DeclarationList]
+        VarDeclaration(
+          VarDeclar(
+            Type(
+             char
+            ) [Type]
+            ErrVarDeclarCOMMA(
+            ) [ErrVarDeclarCOMMA]
+          ) [VarDeclar]
+        ) [VarDeclaration]
+      ) [DeclarationList]
+      ConstDeclaration(
+        ConstDecl(
+          Type(
+           char
+          ) [Type]
+          SingleConstDecl(
+           b2
+            CharConstant(
+             v
+            ) [CharConstant]
+          ) [SingleConstDecl]
+          NoConstDeclarList(
+          ) [NoConstDeclarList]
+        ) [ConstDecl]
+      ) [ConstDeclaration]
+    ) [DeclarationList]
+    ConstDeclaration(
+      ConstDecl(
+        Type(
+         char
+        ) [Type]
+        SingleConstDecl(
+         c3
+          BoolConstant(
+           true
+          ) [BoolConstant]
+        ) [SingleConstDecl]
+        NoConstDeclarList(
+        ) [NoConstDeclarList]
+      ) [ConstDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    MethDeclList(
+      MethDeclList(
+        MethDeclList(
+          MethDeclList(
+            NoMethDeclList(
+            ) [NoMethDeclList]
+            Method(
+              MethDeclTypeAndName(
+                MethodVoid(
+                ) [MethodVoid]
+               voidFun
+              ) [MethDeclTypeAndName]
+              FormParamsList(
+                NoFormParamsList(
+                ) [NoFormParamsList]
+                FormParam(
+                  FormParameter(
+                    Type(
+                     int
+                    ) [Type]
+                   i
+                  ) [FormParameter]
+                ) [FormParam]
+              ) [FormParamsList]
+              NoVarDeclarList(
+              ) [NoVarDeclarList]
+              NoStmt(
+              ) [NoStmt]
+            ) [Method]
+          ) [MethDeclList]
+          Method(
+            MethDeclTypeAndName(
+              MethodType(
+                Type(
+                 int
+                ) [Type]
+              ) [MethodType]
+             intFun
+            ) [MethDeclTypeAndName]
+            FormParamsList(
+              NoFormParamsList(
+              ) [NoFormParamsList]
+              FormParams(
+                FormParam(
+                  FormParameter(
+                    Type(
+                     int
+                    ) [Type]
+                   i
+                  ) [FormParameter]
+                ) [FormParam]
+                FormParameter(
+                  Type(
+                   char
+                  ) [Type]
+                 c
+                ) [FormParameter]
+              ) [FormParams]
+            ) [FormParamsList]
+            NoVarDeclarList(
+            ) [NoVarDeclarList]
+            NoStmt(
+            ) [NoStmt]
+          ) [Method]
+        ) [MethDeclList]
+        Method(
+          MethDeclTypeAndName(
+            MethodType(
+              Type(
+               int
+              ) [Type]
+            ) [MethodType]
+           intFun1
+          ) [MethDeclTypeAndName]
+          FormParamsList(
+            NoFormParamsList(
+            ) [NoFormParamsList]
+            ErrFormParams(
+            ) [ErrFormParams]
+          ) [FormParamsList]
+          NoVarDeclarList(
+          ) [NoVarDeclarList]
+          NoStmt(
+          ) [NoStmt]
+        ) [Method]
+      ) [MethDeclList]
+      Method(
+        MethDeclTypeAndName(
+          MethodType(
+            Type(
+             bool
+            ) [Type]
+          ) [MethodType]
+         boolFun
+        ) [MethDeclTypeAndName]
+        FormParamsList(
+          NoFormParamsList(
+          ) [NoFormParamsList]
+          ErrFormParams(
+          ) [ErrFormParams]
+        ) [FormParamsList]
+        NoVarDeclarList(
+        ) [NoVarDeclarList]
+        NoStmt(
+        ) [NoStmt]
+      ) [Method]
+    ) [MethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethDeclTypeAndName]
+      NoFormParamsList(
+      ) [NoFormParamsList]
+      NoVarDeclarList(
+      ) [NoVarDeclarList]
+      NoStmt(
+      ) [NoStmt]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  20:11:32,329 - ===================================
+INFO  20:11:32,333 - Definisana je promenljiva a na liniji 3
+INFO  20:11:32,333 - Definisana je konstanta c cija je vrednost = 1 na liniji 5
+ERROR 20:11:32,333 - Semanticka greska na liniji 7: konstanta i tip konstante se ne poklapaju.
+INFO  20:11:32,333 - Definisana je konstanta b2 cija je vrednost = 118 na liniji 17
+ERROR 20:11:32,333 - Semanticka greska na liniji 19: konstanta i tip konstante se ne poklapaju.
+INFO  20:11:32,333 - Obradjuje se funkcija voidFun na liniji 23
+INFO  20:11:32,334 - Definisan je formalni argument i na liniji 23
+INFO  20:11:32,334 - Obradjuje se funkcija intFun na liniji 25
+INFO  20:11:32,334 - Definisan je formalni argument i na liniji 25
+INFO  20:11:32,334 - Definisan je formalni argument c na liniji 25
+ERROR 20:11:32,334 - Semanticka greska na liniji 25: funkcija intFun nema return iskaz!
+INFO  20:11:32,334 - Obradjuje se funkcija intFun1 na liniji 27
+ERROR 20:11:32,334 - Semanticka greska na liniji 27: funkcija intFun1 nema return iskaz!
+INFO  20:11:32,334 - Obradjuje se funkcija boolFun na liniji 29
+ERROR 20:11:32,334 - Semanticka greska na liniji 29: funkcija boolFun nema return iskaz!
+INFO  20:11:32,334 - Obradjuje se funkcija main na liniji 32
+INFO  20:11:32,334 - ===================================
+ERROR 20:11:32,335 - Parsiranje NIJE uspesno zavrseno!

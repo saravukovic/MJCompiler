@@ -1,0 +1,588 @@
+INFO  21:54:37,420 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  21:54:37,469 - #2 program
+INFO  21:54:37,469 - #45 test302
+INFO  21:54:37,469 - #6 const
+INFO  21:54:37,470 - #45 int
+INFO  21:54:37,470 - #45 jedan
+INFO  21:54:37,471 - #30 =
+INFO  21:54:37,471 - #44 1
+INFO  21:54:37,471 - #33 ;
+INFO  21:54:37,472 - #45 int
+INFO  21:54:37,473 - #45 i
+INFO  21:54:37,473 - #33 ;
+INFO  21:54:37,473 - #45 bool
+INFO  21:54:37,473 - #45 ibool
+INFO  21:54:37,473 - #33 ;
+INFO  21:54:37,473 - #45 int
+INFO  21:54:37,473 - #45 niz2
+INFO  21:54:37,473 - #39 [
+INFO  21:54:37,474 - #40 ]
+INFO  21:54:37,474 - #33 ;
+INFO  21:54:37,474 - #45 int
+INFO  21:54:37,474 - #45 niz
+INFO  21:54:37,474 - #39 [
+INFO  21:54:37,485 - #40 ]
+INFO  21:54:37,485 - #33 ;
+INFO  21:54:37,485 - #45 int
+INFO  21:54:37,485 - #45 a
+INFO  21:54:37,485 - #35 ,
+INFO  21:54:37,485 - #45 curr
+INFO  21:54:37,485 - #33 ;
+INFO  21:54:37,486 - #42 {
+INFO  21:54:37,486 - #45 int
+INFO  21:54:37,487 - #45 sum
+INFO  21:54:37,487 - #37 (
+INFO  21:54:37,488 - #45 int
+INFO  21:54:37,488 - #45 z
+INFO  21:54:37,488 - #35 ,
+INFO  21:54:37,489 - #45 int
+INFO  21:54:37,489 - #45 d
+INFO  21:54:37,489 - #38 )
+INFO  21:54:37,489 - #42 {
+INFO  21:54:37,489 - #12 return
+INFO  21:54:37,490 - #45 z
+INFO  21:54:37,490 - #17 +
+INFO  21:54:37,490 - #45 d
+INFO  21:54:37,492 - #33 ;
+INFO  21:54:37,492 - #43 }
+INFO  21:54:37,492 - #45 int
+INFO  21:54:37,492 - #45 inkrement
+INFO  21:54:37,493 - #37 (
+INFO  21:54:37,493 - #45 int
+INFO  21:54:37,493 - #45 a
+INFO  21:54:37,493 - #35 ,
+INFO  21:54:37,493 - #45 int
+INFO  21:54:37,493 - #45 inc
+INFO  21:54:37,493 - #38 )
+INFO  21:54:37,493 - #45 int
+INFO  21:54:37,493 - #45 pom
+INFO  21:54:37,493 - #33 ;
+INFO  21:54:37,493 - #42 {
+INFO  21:54:37,493 - #7 if
+INFO  21:54:37,493 - #37 (
+INFO  21:54:37,494 - #45 inc
+INFO  21:54:37,494 - #22 ==
+INFO  21:54:37,494 - #45 jedan
+INFO  21:54:37,495 - #38 )
+INFO  21:54:37,497 - #45 pom
+INFO  21:54:37,497 - #30 =
+INFO  21:54:37,497 - #44 1
+INFO  21:54:37,498 - #33 ;
+INFO  21:54:37,498 - #5 else
+INFO  21:54:37,499 - #7 if
+INFO  21:54:37,500 - #37 (
+INFO  21:54:37,500 - #45 inc
+INFO  21:54:37,500 - #22 ==
+INFO  21:54:37,500 - #44 2
+INFO  21:54:37,500 - #38 )
+INFO  21:54:37,500 - #45 pom
+INFO  21:54:37,500 - #30 =
+INFO  21:54:37,500 - #45 a
+INFO  21:54:37,500 - #33 ;
+INFO  21:54:37,500 - #12 return
+INFO  21:54:37,501 - #45 sum
+INFO  21:54:37,501 - #37 (
+INFO  21:54:37,501 - #45 a
+INFO  21:54:37,501 - #35 ,
+INFO  21:54:37,502 - #45 pom
+INFO  21:54:37,502 - #38 )
+INFO  21:54:37,503 - #33 ;
+INFO  21:54:37,503 - #43 }
+INFO  21:54:37,503 - #45 bool
+INFO  21:54:37,503 - #45 verify
+INFO  21:54:37,503 - #37 (
+INFO  21:54:37,503 - #38 )
+INFO  21:54:37,503 - #42 {
+INFO  21:54:37,503 - #10 print
+INFO  21:54:37,503 - #37 (
+INFO  21:54:37,503 - #46 '
+INFO  21:54:37,504 - #38 )
+INFO  21:54:37,504 - #33 ;
+INFO  21:54:37,505 - #12 return
+INFO  21:54:37,505 - #47 false
+INFO  21:54:37,505 - #33 ;
+INFO  21:54:37,505 - #43 }
+INFO  21:54:37,505 - #13 void
+INFO  21:54:37,505 - #45 main
+INFO  21:54:37,506 - #37 (
+INFO  21:54:37,506 - #38 )
+INFO  21:54:37,506 - #42 {
+INFO  21:54:37,506 - #43 }
+INFO  21:54:37,506 - #43 }
+INFO  21:54:37,517 - Program(
+  ProgramName(
+   test302
+  ) [ProgramName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              NoDecl(
+              ) [NoDecl]
+              ConstDeclaration(
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  SingleConstDecl(
+                   jedan
+                    IntConstant(
+                     1
+                    ) [IntConstant]
+                  ) [SingleConstDecl]
+                  NoConstDeclarList(
+                  ) [NoConstDeclarList]
+                ) [ConstDecl]
+              ) [ConstDeclaration]
+            ) [DeclarationList]
+            VarDeclaration(
+              VarDeclar(
+                Type(
+                 int
+                ) [Type]
+                OneVar(
+                  OneVariable(
+                   i
+                  ) [OneVariable]
+                ) [OneVar]
+              ) [VarDeclar]
+            ) [VarDeclaration]
+          ) [DeclarationList]
+          VarDeclaration(
+            VarDeclar(
+              Type(
+               bool
+              ) [Type]
+              OneVar(
+                OneVariable(
+                 ibool
+                ) [OneVariable]
+              ) [OneVar]
+            ) [VarDeclar]
+          ) [VarDeclaration]
+        ) [DeclarationList]
+        VarDeclaration(
+          VarDeclar(
+            Type(
+             int
+            ) [Type]
+            OneVar(
+              ArrayVariable(
+               niz2
+              ) [ArrayVariable]
+            ) [OneVar]
+          ) [VarDeclar]
+        ) [VarDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          OneVar(
+            ArrayVariable(
+             niz
+            ) [ArrayVariable]
+          ) [OneVar]
+        ) [VarDeclar]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDeclar(
+        Type(
+         int
+        ) [Type]
+        Vars(
+          OneVar(
+            OneVariable(
+             a
+            ) [OneVariable]
+          ) [OneVar]
+          OneVariable(
+           curr
+          ) [OneVariable]
+        ) [Vars]
+      ) [VarDeclar]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    MethDeclList(
+      MethDeclList(
+        MethDeclList(
+          NoMethDeclList(
+          ) [NoMethDeclList]
+          Method(
+            MethDeclTypeAndName(
+              MethodType(
+                Type(
+                 int
+                ) [Type]
+              ) [MethodType]
+             sum
+            ) [MethDeclTypeAndName]
+            FormParamsList(
+              NoFormParamsList(
+              ) [NoFormParamsList]
+              FormParams(
+                FormParam(
+                  FormParameter(
+                    Type(
+                     int
+                    ) [Type]
+                   z
+                  ) [FormParameter]
+                ) [FormParam]
+                FormParameter(
+                  Type(
+                   int
+                  ) [Type]
+                 d
+                ) [FormParameter]
+              ) [FormParams]
+            ) [FormParamsList]
+            NoVarDeclarList(
+            ) [NoVarDeclarList]
+            StmtList(
+              NoStmt(
+              ) [NoStmt]
+              MatchedStm(
+                ReturnStm(
+                  Expression(
+                    PlusTerm(
+                      OneTerm(
+                        OneFactor(
+                          FactDesign(
+                            Design(
+                             z
+                            ) [Design]
+                          ) [FactDesign]
+                        ) [OneFactor]
+                      ) [OneTerm]
+                      Plus(
+                      ) [Plus]
+                      OneFactor(
+                        FactDesign(
+                          Design(
+                           d
+                          ) [Design]
+                        ) [FactDesign]
+                      ) [OneFactor]
+                    ) [PlusTerm]
+                  ) [Expression]
+                ) [ReturnStm]
+              ) [MatchedStm]
+            ) [StmtList]
+          ) [Method]
+        ) [MethDeclList]
+        Method(
+          MethDeclTypeAndName(
+            MethodType(
+              Type(
+               int
+              ) [Type]
+            ) [MethodType]
+           inkrement
+          ) [MethDeclTypeAndName]
+          FormParamsList(
+            NoFormParamsList(
+            ) [NoFormParamsList]
+            FormParams(
+              FormParam(
+                FormParameter(
+                  Type(
+                   int
+                  ) [Type]
+                 a
+                ) [FormParameter]
+              ) [FormParam]
+              FormParameter(
+                Type(
+                 int
+                ) [Type]
+               inc
+              ) [FormParameter]
+            ) [FormParams]
+          ) [FormParamsList]
+          VarDeclarList(
+            NoVarDeclarList(
+            ) [NoVarDeclarList]
+            VarDeclar(
+              Type(
+               int
+              ) [Type]
+              OneVar(
+                OneVariable(
+                 pom
+                ) [OneVariable]
+              ) [OneVar]
+            ) [VarDeclar]
+          ) [VarDeclarList]
+          StmtList(
+            StmtList(
+              NoStmt(
+              ) [NoStmt]
+              UnmatchedStm(
+                UnmatchedIfElse(
+                  IfStart(
+                  ) [IfStart]
+                  IfCond(
+                    OneCondition(
+                      OneCondTerm(
+                        CondFacts(
+                          Expression(
+                            OneTerm(
+                              OneFactor(
+                                FactDesign(
+                                  Design(
+                                   inc
+                                  ) [Design]
+                                ) [FactDesign]
+                              ) [OneFactor]
+                            ) [OneTerm]
+                          ) [Expression]
+                          EqualTo(
+                          ) [EqualTo]
+                          Expression(
+                            OneTerm(
+                              OneFactor(
+                                FactDesign(
+                                  Design(
+                                   jedan
+                                  ) [Design]
+                                ) [FactDesign]
+                              ) [OneFactor]
+                            ) [OneTerm]
+                          ) [Expression]
+                        ) [CondFacts]
+                      ) [OneCondTerm]
+                    ) [OneCondition]
+                    CheckOrCond(
+                    ) [CheckOrCond]
+                  ) [IfCond]
+                  DesignStm(
+                    DesignAssign(
+                      Design(
+                       pom
+                      ) [Design]
+                      Expression(
+                        OneTerm(
+                          OneFactor(
+                            FactNum(
+                             1
+                            ) [FactNum]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [Expression]
+                    ) [DesignAssign]
+                  ) [DesignStm]
+                  ElseStart(
+                  ) [ElseStart]
+                  UnmatchedIf(
+                    IfStart(
+                    ) [IfStart]
+                    IfCond(
+                      OneCondition(
+                        OneCondTerm(
+                          CondFacts(
+                            Expression(
+                              OneTerm(
+                                OneFactor(
+                                  FactDesign(
+                                    Design(
+                                     inc
+                                    ) [Design]
+                                  ) [FactDesign]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [Expression]
+                            EqualTo(
+                            ) [EqualTo]
+                            Expression(
+                              OneTerm(
+                                OneFactor(
+                                  FactNum(
+                                   2
+                                  ) [FactNum]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [Expression]
+                          ) [CondFacts]
+                        ) [OneCondTerm]
+                      ) [OneCondition]
+                      CheckOrCond(
+                      ) [CheckOrCond]
+                    ) [IfCond]
+                    MatchedStm(
+                      DesignStm(
+                        DesignAssign(
+                          Design(
+                           pom
+                          ) [Design]
+                          Expression(
+                            OneTerm(
+                              OneFactor(
+                                FactDesign(
+                                  Design(
+                                   a
+                                  ) [Design]
+                                ) [FactDesign]
+                              ) [OneFactor]
+                            ) [OneTerm]
+                          ) [Expression]
+                        ) [DesignAssign]
+                      ) [DesignStm]
+                    ) [MatchedStm]
+                  ) [UnmatchedIf]
+                ) [UnmatchedIfElse]
+              ) [UnmatchedStm]
+            ) [StmtList]
+            MatchedStm(
+              ReturnStm(
+                Expression(
+                  OneTerm(
+                    OneFactor(
+                      FactFuncCall(
+                        Design(
+                         sum
+                        ) [Design]
+                        FunctionCalled(
+                        ) [FunctionCalled]
+                        ActParamsList(
+                          ActParams(
+                            ActParam(
+                              ActPar(
+                                Expression(
+                                  OneTerm(
+                                    OneFactor(
+                                      FactDesign(
+                                        Design(
+                                         a
+                                        ) [Design]
+                                      ) [FactDesign]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [Expression]
+                              ) [ActPar]
+                            ) [ActParam]
+                            ActPar(
+                              Expression(
+                                OneTerm(
+                                  OneFactor(
+                                    FactDesign(
+                                      Design(
+                                       pom
+                                      ) [Design]
+                                    ) [FactDesign]
+                                  ) [OneFactor]
+                                ) [OneTerm]
+                              ) [Expression]
+                            ) [ActPar]
+                          ) [ActParams]
+                        ) [ActParamsList]
+                      ) [FactFuncCall]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [Expression]
+              ) [ReturnStm]
+            ) [MatchedStm]
+          ) [StmtList]
+        ) [Method]
+      ) [MethDeclList]
+      Method(
+        MethDeclTypeAndName(
+          MethodType(
+            Type(
+             bool
+            ) [Type]
+          ) [MethodType]
+         verify
+        ) [MethDeclTypeAndName]
+        NoFormParamsList(
+        ) [NoFormParamsList]
+        NoVarDeclarList(
+        ) [NoVarDeclarList]
+        StmtList(
+          StmtList(
+            NoStmt(
+            ) [NoStmt]
+            MatchedStm(
+              PrintStm(
+                Expression(
+                  OneTerm(
+                    OneFactor(
+                      FactChar(
+                       '
+                      ) [FactChar]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [Expression]
+                NoNumConstant(
+                ) [NoNumConstant]
+              ) [PrintStm]
+            ) [MatchedStm]
+          ) [StmtList]
+          MatchedStm(
+            ReturnStm(
+              Expression(
+                OneTerm(
+                  OneFactor(
+                    FactBool(
+                     false
+                    ) [FactBool]
+                  ) [OneFactor]
+                ) [OneTerm]
+              ) [Expression]
+            ) [ReturnStm]
+          ) [MatchedStm]
+        ) [StmtList]
+      ) [Method]
+    ) [MethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethDeclTypeAndName]
+      NoFormParamsList(
+      ) [NoFormParamsList]
+      NoVarDeclarList(
+      ) [NoVarDeclarList]
+      NoStmt(
+      ) [NoStmt]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  21:54:37,518 - ===================================
+INFO  21:54:37,522 - Definisana je konstanta jedan cija je vrednost = 1 na liniji 5
+INFO  21:54:37,522 - Definisana je promenljiva i na liniji 7
+INFO  21:54:37,522 - Definisana je promenljiva ibool na liniji 8
+INFO  21:54:37,522 - Definisan je niz niz2 na liniji 10
+INFO  21:54:37,522 - Definisan je niz niz na liniji 12
+INFO  21:54:37,523 - Definisana je promenljiva a na liniji 13
+INFO  21:54:37,523 - Definisana je promenljiva curr na liniji 13
+INFO  21:54:37,523 - Obradjuje se funkcija sum na liniji 17
+INFO  21:54:37,523 - Definisan je formalni argument z na liniji 17
+INFO  21:54:37,523 - Definisan je formalni argument d na liniji 17
+INFO  21:54:37,523 - Pristup promenljivoj z na liniji 19
+INFO  21:54:37,523 - Pristup promenljivoj d na liniji 19
+INFO  21:54:37,523 - Obradjuje se funkcija inkrement na liniji 23
+INFO  21:54:37,523 - Definisan je formalni argument a na liniji 23
+INFO  21:54:37,523 - Definisan je formalni argument inc na liniji 23
+INFO  21:54:37,523 - Definisana je promenljiva pom na liniji 24
+INFO  21:54:37,523 - Pristup promenljivoj inc na liniji 26
+INFO  21:54:37,523 - Pristup promenljivoj jedan na liniji 26
+INFO  21:54:37,523 - Pristup promenljivoj pom na liniji 26
+INFO  21:54:37,523 - Pristup promenljivoj inc na liniji 27
+INFO  21:54:37,524 - Pristup promenljivoj pom na liniji 27
+INFO  21:54:37,524 - Pristup promenljivoj a na liniji 27
+INFO  21:54:37,524 - Pristup funkciji sum na liniji 29
+INFO  21:54:37,524 - Pristup promenljivoj a na liniji 29
+INFO  21:54:37,524 - Pristup promenljivoj pom na liniji 29
+INFO  21:54:37,524 - Pronadjen poziv funkcije sum na liniji 29
+INFO  21:54:37,524 - Obradjuje se funkcija verify na liniji 32
+INFO  21:54:37,524 - Obradjuje se funkcija main na liniji 37
+INFO  21:54:37,524 - ===================================
+INFO  21:54:37,525 - Parsiranje uspesno zavrseno!
+INFO  21:54:37,528 - Generisanje koda uspesno zavrseno!

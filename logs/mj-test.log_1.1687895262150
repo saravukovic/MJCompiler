@@ -1,0 +1,40 @@
+INFO  21:46:22,571 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  21:46:22,619 - #2 program
+INFO  21:46:22,619 - #45 test302
+INFO  21:46:22,619 - #42 {
+INFO  21:46:22,620 - #13 void
+INFO  21:46:22,620 - #45 main
+INFO  21:46:22,621 - #37 (
+INFO  21:46:22,621 - #38 )
+INFO  21:46:22,622 - #42 {
+INFO  21:46:22,622 - #43 }
+INFO  21:46:22,623 - #43 }
+INFO  21:46:22,633 - Program(
+  ProgramName(
+   test302
+  ) [ProgramName]
+  NoDecl(
+  ) [NoDecl]
+  MethDeclList(
+    NoMethDeclList(
+    ) [NoMethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethDeclTypeAndName]
+      NoFormParamsList(
+      ) [NoFormParamsList]
+      NoVarDeclarList(
+      ) [NoVarDeclarList]
+      NoStmt(
+      ) [NoStmt]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  21:46:22,644 - ===================================
+INFO  21:46:22,649 - Obradjuje se funkcija main na liniji 6
+INFO  21:46:22,649 - ===================================
+INFO  21:46:22,650 - Parsiranje uspesno zavrseno!
+INFO  21:46:22,653 - Generisanje koda uspesno zavrseno!

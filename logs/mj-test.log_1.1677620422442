@@ -1,0 +1,95 @@
+INFO  22:39:45,349 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  22:39:45,371 - #2 program
+INFO  22:39:45,372 - #45 mojProgram
+INFO  22:39:45,372 - #6 const
+INFO  22:39:45,373 - #45 int
+INFO  22:39:45,373 - #45 y
+INFO  22:39:45,375 - #30 =
+INFO  22:39:45,376 - #47 true
+INFO  22:39:45,376 - #33 ;
+INFO  22:39:45,377 - #6 const
+INFO  22:39:45,378 - #45 char
+INFO  22:39:45,379 - #45 c
+INFO  22:39:45,379 - #30 =
+INFO  22:39:45,379 - #46 '
+INFO  22:39:45,379 - #35 ,
+INFO  22:39:45,379 - #45 b
+INFO  22:39:45,379 - #30 =
+INFO  22:39:45,380 - #46 '
+INFO  22:39:45,380 - #35 ,
+INFO  22:39:45,380 - #45 d
+INFO  22:39:45,380 - #30 =
+INFO  22:39:45,380 - #46 '
+INFO  22:39:45,380 - #33 ;
+INFO  22:39:45,381 - #45 int
+INFO  22:39:45,381 - #45 r
+INFO  22:39:45,381 - #35 ,
+INFO  22:39:45,382 - #45 r
+INFO  22:39:45,382 - #39 [
+INFO  22:39:45,382 - #40 ]
+INFO  22:39:45,382 - #33 ;
+INFO  22:39:45,382 - #42 {
+INFO  22:39:45,384 - #43 }
+INFO  22:39:45,386 - Program(
+ mojProgram
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        NoDecl(
+        ) [NoDecl]
+        ConstDeclaration(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstBoolDeclarList(
+              OneConstBoolDecl(
+               y
+               true
+              ) [OneConstBoolDecl]
+            ) [ConstBoolDeclarList]
+          ) [ConstDecl]
+        ) [ConstDeclaration]
+      ) [DeclarationList]
+      ConstDeclaration(
+        ConstDecl(
+          Type(
+           char
+          ) [Type]
+          ConstCharDeclarList(
+            MultipleConstCharDecl(
+              MultipleConstCharDecl(
+                OneConstCharDecl(
+                 c
+                 '
+                ) [OneConstCharDecl]
+               b
+               '
+              ) [MultipleConstCharDecl]
+             d
+             '
+            ) [MultipleConstCharDecl]
+          ) [ConstCharDeclarList]
+        ) [ConstDecl]
+      ) [ConstDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclarList(
+          Vars(
+            OneVariable(
+             r
+            ) [OneVariable]
+          ) [Vars]
+          ArrayVariable(
+           r
+          ) [ArrayVariable]
+        ) [VarDeclarList]
+      ) [VarDecl]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+) [Program]
+INFO  22:39:45,386 - ===================================

@@ -1,0 +1,66 @@
+INFO  21:19:59,957 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  21:20:00,008 - #2 program
+INFO  21:20:00,008 - #45 test302
+INFO  21:20:00,008 - #45 int
+INFO  21:20:00,009 - #45 a
+INFO  21:20:00,010 - #35 ,
+INFO  21:20:00,010 - #45 curr
+INFO  21:20:00,010 - #33 ;
+INFO  21:20:00,010 - #42 {
+INFO  21:20:00,011 - #13 void
+INFO  21:20:00,012 - #45 main
+INFO  21:20:00,012 - #37 (
+INFO  21:20:00,013 - #38 )
+INFO  21:20:00,014 - #42 {
+INFO  21:20:00,014 - #43 }
+INFO  21:20:00,015 - #43 }
+INFO  21:20:00,025 - Program(
+  ProgramName(
+   test302
+  ) [ProgramName]
+  DeclarationList(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDeclar(
+        Type(
+         int
+        ) [Type]
+        Vars(
+          OneVar(
+            OneVariable(
+             a
+            ) [OneVariable]
+          ) [OneVar]
+          OneVariable(
+           curr
+          ) [OneVariable]
+        ) [Vars]
+      ) [VarDeclar]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    NoMethDeclList(
+    ) [NoMethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethDeclTypeAndName]
+      NoFormParamsList(
+      ) [NoFormParamsList]
+      NoVarDeclarList(
+      ) [NoVarDeclarList]
+      NoStmt(
+      ) [NoStmt]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  21:20:00,036 - ===================================
+INFO  21:20:00,040 - Definisana je promenljiva a na liniji 4
+INFO  21:20:00,040 - Definisana je promenljiva curr na liniji 4
+INFO  21:20:00,041 - Obradjuje se funkcija main na liniji 7
+INFO  21:20:00,041 - ===================================
+INFO  21:20:00,041 - Parsiranje uspesno zavrseno!
+INFO  21:20:00,044 - Generisanje koda uspesno zavrseno!

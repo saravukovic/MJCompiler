@@ -1,0 +1,299 @@
+INFO  14:34:59,543 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  14:34:59,597 - #2 program
+INFO  14:34:59,598 - #47 test301
+INFO  14:34:59,598 - #6 const
+INFO  14:34:59,599 - #47 int
+INFO  14:34:59,599 - #47 nula
+INFO  14:34:59,600 - #32 =
+INFO  14:34:59,600 - #46 0
+INFO  14:34:59,600 - #35 ;
+INFO  14:34:59,602 - #6 const
+INFO  14:34:59,603 - #47 int
+INFO  14:34:59,603 - #47 jedan
+INFO  14:34:59,603 - #32 =
+INFO  14:34:59,603 - #46 1
+INFO  14:34:59,603 - #35 ;
+INFO  14:34:59,603 - #6 const
+INFO  14:34:59,603 - #47 int
+INFO  14:34:59,604 - #47 pet
+INFO  14:34:59,604 - #32 =
+INFO  14:34:59,604 - #46 5
+INFO  14:34:59,604 - #35 ;
+INFO  14:34:59,604 - #47 int
+INFO  14:34:59,604 - #47 niz
+INFO  14:34:59,615 - #41 [
+INFO  14:34:59,615 - #42 ]
+INFO  14:34:59,615 - #37 ,
+INFO  14:34:59,616 - #47 niz2
+INFO  14:34:59,616 - #41 [
+INFO  14:34:59,616 - #42 ]
+INFO  14:34:59,616 - #37 ,
+INFO  14:34:59,617 - #47 a
+INFO  14:34:59,617 - #37 ,
+INFO  14:34:59,617 - #47 b
+INFO  14:34:59,617 - #35 ;
+INFO  14:34:59,617 - #47 char
+INFO  14:34:59,618 - #47 nizch
+INFO  14:34:59,618 - #41 [
+INFO  14:34:59,618 - #42 ]
+INFO  14:34:59,618 - #35 ;
+INFO  14:34:59,618 - #44 {
+INFO  14:34:59,618 - #13 void
+INFO  14:34:59,619 - #47 main
+INFO  14:34:59,621 - #39 (
+INFO  14:34:59,622 - #40 )
+INFO  14:34:59,623 - #47 int
+INFO  14:34:59,623 - #47 bodovi
+INFO  14:34:59,624 - #35 ;
+INFO  14:34:59,624 - #47 bool
+INFO  14:34:59,624 - #47 br
+INFO  14:34:59,624 - #35 ;
+INFO  14:34:59,624 - #44 {
+INFO  14:34:59,624 - #47 bodovi
+INFO  14:34:59,625 - #32 =
+INFO  14:34:59,625 - #46 0
+INFO  14:34:59,625 - #35 ;
+INFO  14:34:59,626 - #47 bodovi
+INFO  14:34:59,626 - #32 =
+INFO  14:34:59,626 - #20 -
+INFO  14:34:59,627 - #47 bodovi
+INFO  14:34:59,627 - #19 +
+INFO  14:34:59,627 - #47 pet
+INFO  14:34:59,629 - #21 *
+INFO  14:34:59,629 - #47 a
+INFO  14:34:59,630 - #35 ;
+INFO  14:34:59,631 - #10 print
+INFO  14:34:59,631 - #39 (
+INFO  14:34:59,631 - #47 bodovi
+INFO  14:34:59,631 - #40 )
+INFO  14:34:59,632 - #35 ;
+INFO  14:34:59,634 - #45 }
+INFO  14:34:59,634 - #45 }
+INFO  14:34:59,646 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            NoDecl(
+            ) [NoDecl]
+            ConstDeclaration(
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleConstDecl(
+                 nula
+                  IntConstant(
+                   0
+                  ) [IntConstant]
+                ) [SingleConstDecl]
+                NoConstDeclarList(
+                ) [NoConstDeclarList]
+              ) [ConstDecl]
+            ) [ConstDeclaration]
+          ) [DeclarationList]
+          ConstDeclaration(
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              SingleConstDecl(
+               jedan
+                IntConstant(
+                 1
+                ) [IntConstant]
+              ) [SingleConstDecl]
+              NoConstDeclarList(
+              ) [NoConstDeclarList]
+            ) [ConstDecl]
+          ) [ConstDeclaration]
+        ) [DeclarationList]
+        ConstDeclaration(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            SingleConstDecl(
+             pet
+              IntConstant(
+               5
+              ) [IntConstant]
+            ) [SingleConstDecl]
+            NoConstDeclarList(
+            ) [NoConstDeclarList]
+          ) [ConstDecl]
+        ) [ConstDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          Vars(
+            Vars(
+              Vars(
+                OneVar(
+                  ArrayVariable(
+                   niz
+                  ) [ArrayVariable]
+                ) [OneVar]
+                ArrayVariable(
+                 niz2
+                ) [ArrayVariable]
+              ) [Vars]
+              OneVariable(
+               a
+              ) [OneVariable]
+            ) [Vars]
+            OneVariable(
+             b
+            ) [OneVariable]
+          ) [Vars]
+        ) [VarDeclar]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDeclar(
+        Type(
+         char
+        ) [Type]
+        OneVar(
+          ArrayVariable(
+           nizch
+          ) [ArrayVariable]
+        ) [OneVar]
+      ) [VarDeclar]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    NoMethDeclList(
+    ) [NoMethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethDeclTypeAndName]
+      NoFormParamsList(
+      ) [NoFormParamsList]
+      VarDeclarList(
+        VarDeclarList(
+          NoVarDeclarList(
+          ) [NoVarDeclarList]
+          VarDeclar(
+            Type(
+             int
+            ) [Type]
+            OneVar(
+              OneVariable(
+               bodovi
+              ) [OneVariable]
+            ) [OneVar]
+          ) [VarDeclar]
+        ) [VarDeclarList]
+        VarDeclar(
+          Type(
+           bool
+          ) [Type]
+          OneVar(
+            OneVariable(
+             br
+            ) [OneVariable]
+          ) [OneVar]
+        ) [VarDeclar]
+      ) [VarDeclarList]
+      StmtList(
+        StmtList(
+          StmtList(
+            NoStmt(
+            ) [NoStmt]
+            DesignStm(
+              DesignAssign(
+                Design(
+                 bodovi
+                ) [Design]
+                OneTerm(
+                  OneFactor(
+                    FactNum(
+                     0
+                    ) [FactNum]
+                  ) [OneFactor]
+                ) [OneTerm]
+              ) [DesignAssign]
+            ) [DesignStm]
+          ) [StmtList]
+          DesignStm(
+            DesignAssign(
+              Design(
+               bodovi
+              ) [Design]
+              PlusTerm(
+                NegativeExpression(
+                  OneFactor(
+                    FactDesign(
+                      Design(
+                       bodovi
+                      ) [Design]
+                    ) [FactDesign]
+                  ) [OneFactor]
+                ) [NegativeExpression]
+                Plus(
+                ) [Plus]
+                TermMul(
+                  OneFactor(
+                    FactDesign(
+                      Design(
+                       pet
+                      ) [Design]
+                    ) [FactDesign]
+                  ) [OneFactor]
+                  Mul(
+                  ) [Mul]
+                  FactDesign(
+                    Design(
+                     a
+                    ) [Design]
+                  ) [FactDesign]
+                ) [TermMul]
+              ) [PlusTerm]
+            ) [DesignAssign]
+          ) [DesignStm]
+        ) [StmtList]
+        PrintStm(
+          OneTerm(
+            OneFactor(
+              FactDesign(
+                Design(
+                 bodovi
+                ) [Design]
+              ) [FactDesign]
+            ) [OneFactor]
+          ) [OneTerm]
+          NoNumConstant(
+          ) [NoNumConstant]
+        ) [PrintStm]
+      ) [StmtList]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  14:34:59,646 - ===================================
+INFO  14:34:59,651 - Definisana je konstanta nula cija je vrednost = 0 na liniji 5
+INFO  14:34:59,651 - Definisana je konstanta jedan cija je vrednost = 1 na liniji 6
+INFO  14:34:59,651 - Definisana je konstanta pet cija je vrednost = 5 na liniji 7
+INFO  14:34:59,652 - Definisana je promenljiva a na liniji 9
+INFO  14:34:59,652 - Definisana je promenljiva b na liniji 9
+INFO  14:34:59,652 - Obradjuje se funkcija main na liniji 13
+INFO  14:34:59,652 - Definisana je promenljiva bodovi na liniji 14
+INFO  14:34:59,652 - Definisana je promenljiva br na liniji 15
+INFO  14:34:59,652 - Pristup promenljivoj bodovi na liniji 17
+INFO  14:34:59,653 - Pristup promenljivoj bodovi na liniji 18
+INFO  14:34:59,653 - Pristup promenljivoj bodovi na liniji 18
+INFO  14:34:59,653 - Pristup promenljivoj pet na liniji 18
+INFO  14:34:59,653 - Pristup promenljivoj a na liniji 18
+INFO  14:34:59,654 - Pristup promenljivoj bodovi na liniji 19
+INFO  14:34:59,654 - ===================================
+INFO  14:34:59,661 - Parsiranje uspesno zavrseno!

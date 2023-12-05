@@ -1,0 +1,66 @@
+INFO  22:43:39,770 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  22:43:39,791 - #2 program
+INFO  22:43:39,791 - #45 mojProgram
+INFO  22:43:39,791 - #45 int
+INFO  22:43:39,792 - #45 r
+INFO  22:43:39,793 - #39 [
+INFO  22:43:39,794 - #40 ]
+INFO  22:43:39,794 - #39 [
+INFO  22:43:39,795 - #40 ]
+INFO  22:43:39,795 - #35 ,
+INFO  22:43:39,796 - #45 r
+INFO  22:43:39,796 - #39 [
+INFO  22:43:39,796 - #40 ]
+INFO  22:43:39,796 - #39 [
+INFO  22:43:39,796 - #40 ]
+INFO  22:43:39,797 - #39 [
+INFO  22:43:39,797 - #40 ]
+INFO  22:43:39,797 - #39 [
+INFO  22:43:39,797 - #40 ]
+INFO  22:43:39,797 - #35 ,
+INFO  22:43:39,797 - #45 r
+INFO  22:43:39,798 - #33 ;
+INFO  22:43:39,798 - #42 {
+INFO  22:43:39,799 - #43 }
+INFO  22:43:39,812 - Program(
+ mojProgram
+  DeclarationList(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclarList(
+          VarDeclarList(
+            Vars(
+              ArrayVariable(
+                ArrayVariable(
+                  OneVariable(
+                   r
+                  ) [OneVariable]
+                ) [ArrayVariable]
+              ) [ArrayVariable]
+            ) [Vars]
+            ArrayVariable(
+              ArrayVariable(
+                ArrayVariable(
+                  ArrayVariable(
+                    OneVariable(
+                     r
+                    ) [OneVariable]
+                  ) [ArrayVariable]
+                ) [ArrayVariable]
+              ) [ArrayVariable]
+            ) [ArrayVariable]
+          ) [VarDeclarList]
+          OneVariable(
+           r
+          ) [OneVariable]
+        ) [VarDeclarList]
+      ) [VarDecl]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+) [Program]
+INFO  22:43:39,812 - ===================================

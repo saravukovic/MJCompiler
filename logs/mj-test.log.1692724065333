@@ -1,0 +1,226 @@
+INFO  21:07:02,244 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  21:07:02,275 - #2 program
+INFO  21:07:02,275 - #47 test302
+INFO  21:07:02,275 - #6 const
+INFO  21:07:02,276 - #47 int
+INFO  21:07:02,276 - #47 jedan
+INFO  21:07:02,276 - #32 =
+INFO  21:07:02,276 - #46 1
+INFO  21:07:02,276 - #35 ;
+INFO  21:07:02,277 - #47 int
+INFO  21:07:02,278 - #47 i
+INFO  21:07:02,278 - #35 ;
+INFO  21:07:02,278 - #47 bool
+INFO  21:07:02,278 - #47 ibool
+INFO  21:07:02,278 - #35 ;
+INFO  21:07:02,278 - #47 int
+INFO  21:07:02,278 - #47 niz2
+INFO  21:07:02,279 - #41 [
+INFO  21:07:02,279 - #42 ]
+INFO  21:07:02,279 - #35 ;
+INFO  21:07:02,279 - #47 int
+INFO  21:07:02,279 - #47 niz
+INFO  21:07:02,279 - #41 [
+INFO  21:07:02,279 - #42 ]
+INFO  21:07:02,279 - #35 ;
+INFO  21:07:02,279 - #47 int
+INFO  21:07:02,279 - #47 a
+INFO  21:07:02,279 - #37 ,
+INFO  21:07:02,279 - #47 curr
+INFO  21:07:02,279 - #35 ;
+INFO  21:07:02,279 - #44 {
+INFO  21:07:02,280 - #13 void
+INFO  21:07:02,280 - #47 main
+INFO  21:07:02,281 - #39 (
+INFO  21:07:02,281 - #40 )
+INFO  21:07:02,281 - #44 {
+INFO  21:07:02,282 - #47 niz
+INFO  21:07:02,282 - #32 =
+INFO  21:07:02,282 - #47 niz2
+INFO  21:07:02,282 - #38 .
+INFO  21:07:02,282 - #18 findAndReplace
+INFO  21:07:02,283 - #39 (
+INFO  21:07:02,283 - #47 jedan
+INFO  21:07:02,283 - #19 +
+INFO  21:07:02,283 - #46 3
+INFO  21:07:02,284 - #37 ,
+INFO  21:07:02,284 - #47 a
+INFO  21:07:02,284 - #43 =>
+INFO  21:07:02,284 - #47 jedan
+INFO  21:07:02,284 - #40 )
+INFO  21:07:02,284 - #35 ;
+INFO  21:07:02,284 - #45 }
+INFO  21:07:02,284 - #45 }
+INFO  21:07:02,290 - Program(
+  ProgramName(
+   test302
+  ) [ProgramName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              NoDecl(
+              ) [NoDecl]
+              ConstDeclaration(
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  SingleConstDecl(
+                   jedan
+                    IntConstant(
+                     1
+                    ) [IntConstant]
+                  ) [SingleConstDecl]
+                  NoConstDeclarList(
+                  ) [NoConstDeclarList]
+                ) [ConstDecl]
+              ) [ConstDeclaration]
+            ) [DeclarationList]
+            VarDeclaration(
+              VarDeclar(
+                Type(
+                 int
+                ) [Type]
+                OneVar(
+                  OneVariable(
+                   i
+                  ) [OneVariable]
+                ) [OneVar]
+              ) [VarDeclar]
+            ) [VarDeclaration]
+          ) [DeclarationList]
+          VarDeclaration(
+            VarDeclar(
+              Type(
+               bool
+              ) [Type]
+              OneVar(
+                OneVariable(
+                 ibool
+                ) [OneVariable]
+              ) [OneVar]
+            ) [VarDeclar]
+          ) [VarDeclaration]
+        ) [DeclarationList]
+        VarDeclaration(
+          VarDeclar(
+            Type(
+             int
+            ) [Type]
+            OneVar(
+              ArrayVariable(
+               niz2
+              ) [ArrayVariable]
+            ) [OneVar]
+          ) [VarDeclar]
+        ) [VarDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          OneVar(
+            ArrayVariable(
+             niz
+            ) [ArrayVariable]
+          ) [OneVar]
+        ) [VarDeclar]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDeclar(
+        Type(
+         int
+        ) [Type]
+        Vars(
+          OneVar(
+            OneVariable(
+             a
+            ) [OneVariable]
+          ) [OneVar]
+          OneVariable(
+           curr
+          ) [OneVariable]
+        ) [Vars]
+      ) [VarDeclar]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    NoMethDeclList(
+    ) [NoMethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethDeclTypeAndName]
+      NoFormParamsList(
+      ) [NoFormParamsList]
+      NoVarDeclarList(
+      ) [NoVarDeclarList]
+      StmtList(
+        NoStmt(
+        ) [NoStmt]
+        FindAndReplaceStm(
+          Design(
+           niz
+          ) [Design]
+          Design(
+           niz2
+          ) [Design]
+          Expression(
+            PlusTerm(
+              OneTerm(
+                OneFactor(
+                  FactDesign(
+                    Design(
+                     jedan
+                    ) [Design]
+                  ) [FactDesign]
+                ) [OneFactor]
+              ) [OneTerm]
+              Plus(
+              ) [Plus]
+              OneFactor(
+                FactNum(
+                 3
+                ) [FactNum]
+              ) [OneFactor]
+            ) [PlusTerm]
+          ) [Expression]
+         a
+          Expression(
+            OneTerm(
+              OneFactor(
+                FactDesign(
+                  Design(
+                   jedan
+                  ) [Design]
+                ) [FactDesign]
+              ) [OneFactor]
+            ) [OneTerm]
+          ) [Expression]
+        ) [FindAndReplaceStm]
+      ) [StmtList]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  21:07:02,291 - ===================================
+INFO  21:07:02,293 - Definisana je konstanta jedan cija je vrednost = 1 na liniji 5
+INFO  21:07:02,293 - Definisana je promenljiva i na liniji 7
+INFO  21:07:02,293 - Definisana je promenljiva ibool na liniji 8
+INFO  21:07:02,293 - Definisan je niz niz2 na liniji 10
+INFO  21:07:02,294 - Definisan je niz niz na liniji 12
+INFO  21:07:02,294 - Definisana je promenljiva a na liniji 13
+INFO  21:07:02,294 - Definisana je promenljiva curr na liniji 13
+INFO  21:07:02,294 - Obradjuje se funkcija main na liniji 17
+INFO  21:07:02,294 - Pristup promenljivoj niz na liniji 19
+INFO  21:07:02,294 - Pristup promenljivoj niz2 na liniji 19
+INFO  21:07:02,294 - Pristup promenljivoj jedan na liniji 19
+INFO  21:07:02,294 - Pristup promenljivoj jedan na liniji 19
+INFO  21:07:02,294 - ===================================
+INFO  21:07:02,299 - Parsiranje uspesno zavrseno!

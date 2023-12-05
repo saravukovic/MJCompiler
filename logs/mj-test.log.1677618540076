@@ -1,0 +1,77 @@
+INFO  22:08:53,069 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  22:08:53,085 - #2 program
+INFO  22:08:53,085 - #45 mojProgram
+INFO  22:08:53,085 - #6 const
+INFO  22:08:53,086 - #45 int
+INFO  22:08:53,086 - #45 y
+INFO  22:08:53,087 - #30 =
+INFO  22:08:53,088 - #47 true
+INFO  22:08:53,088 - #35 ,
+INFO  22:08:53,088 - #45 y
+INFO  22:08:53,089 - #30 =
+INFO  22:08:53,089 - #47 true
+INFO  22:08:53,089 - #33 ;
+INFO  22:08:53,089 - #6 const
+INFO  22:08:53,091 - #45 char
+INFO  22:08:53,091 - #45 c
+INFO  22:08:53,091 - #30 =
+INFO  22:08:53,092 - #46 '
+INFO  22:08:53,092 - #35 ,
+INFO  22:08:53,092 - #45 b
+INFO  22:08:53,092 - #30 =
+INFO  22:08:53,092 - #46 '
+INFO  22:08:53,093 - #35 ,
+INFO  22:08:53,105 - #45 d
+INFO  22:08:53,105 - #30 =
+INFO  22:08:53,105 - #46 '
+INFO  22:08:53,105 - #33 ;
+INFO  22:08:53,105 - #42 {
+INFO  22:08:53,106 - #43 }
+INFO  22:08:53,107 - Program(
+ mojProgram
+  DeclarationList(
+    DeclarationList(
+      NoDecl(
+      ) [NoDecl]
+      ConstDeclaration(
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstBoolDeclarList(
+            MultipleConstBoolDecl(
+              OneConstBoolDecl(
+               y
+               true
+              ) [OneConstBoolDecl]
+             y
+             true
+            ) [MultipleConstBoolDecl]
+          ) [ConstBoolDeclarList]
+        ) [ConstDecl]
+      ) [ConstDeclaration]
+    ) [DeclarationList]
+    ConstDeclaration(
+      ConstDecl(
+        Type(
+         char
+        ) [Type]
+        ConstCharDeclarList(
+          MultipleConstCharDecl(
+            MultipleConstCharDecl(
+              OneConstCharDecl(
+               c
+               '
+              ) [OneConstCharDecl]
+             b
+             '
+            ) [MultipleConstCharDecl]
+           d
+           '
+          ) [MultipleConstCharDecl]
+        ) [ConstCharDeclarList]
+      ) [ConstDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationList]
+) [Program]
+INFO  22:08:53,108 - ===================================

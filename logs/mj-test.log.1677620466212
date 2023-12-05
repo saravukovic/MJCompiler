@@ -1,0 +1,28 @@
+INFO  22:40:58,729 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  22:40:58,750 - #2 program
+INFO  22:40:58,751 - #45 mojProgram
+INFO  22:40:58,751 - #45 int
+INFO  22:40:58,753 - #45 r
+INFO  22:40:58,754 - #33 ;
+INFO  22:40:58,755 - #42 {
+INFO  22:40:58,761 - #43 }
+INFO  22:40:58,762 - Program(
+ mojProgram
+  DeclarationList(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        Vars(
+          OneVariable(
+           r
+          ) [OneVariable]
+        ) [Vars]
+      ) [VarDecl]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+) [Program]
+INFO  22:40:58,762 - ===================================

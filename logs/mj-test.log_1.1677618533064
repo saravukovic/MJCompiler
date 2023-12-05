@@ -1,0 +1,90 @@
+INFO  22:08:38,661 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  22:08:38,676 - #2 program
+INFO  22:08:38,677 - #45 mojProgram
+INFO  22:08:38,677 - #6 const
+INFO  22:08:38,678 - #45 int
+INFO  22:08:38,678 - #45 y
+INFO  22:08:38,679 - #30 =
+INFO  22:08:38,680 - #47 true
+INFO  22:08:38,680 - #33 ;
+INFO  22:08:38,680 - #6 const
+INFO  22:08:38,682 - #45 bool
+INFO  22:08:38,682 - #45 y
+INFO  22:08:38,682 - #30 =
+INFO  22:08:38,682 - #47 true
+INFO  22:08:38,682 - #33 ;
+INFO  22:08:38,683 - #6 const
+INFO  22:08:38,683 - #45 char
+INFO  22:08:38,683 - #45 c
+INFO  22:08:38,683 - #30 =
+INFO  22:08:38,683 - #46 '
+INFO  22:08:38,683 - #35 ,
+INFO  22:08:38,684 - #45 b
+INFO  22:08:38,684 - #30 =
+INFO  22:08:38,684 - #46 '
+INFO  22:08:38,684 - #35 ,
+INFO  22:08:38,685 - #45 d
+INFO  22:08:38,685 - #30 =
+INFO  22:08:38,685 - #46 '
+INFO  22:08:38,685 - #33 ;
+INFO  22:08:38,685 - #42 {
+INFO  22:08:38,685 - #43 }
+INFO  22:08:38,687 - Program(
+ mojProgram
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        NoDecl(
+        ) [NoDecl]
+        ConstDeclaration(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstBoolDeclarList(
+              OneConstBoolDecl(
+               y
+               true
+              ) [OneConstBoolDecl]
+            ) [ConstBoolDeclarList]
+          ) [ConstDecl]
+        ) [ConstDeclaration]
+      ) [DeclarationList]
+      ConstDeclaration(
+        ConstDecl(
+          Type(
+           bool
+          ) [Type]
+          ConstBoolDeclarList(
+            OneConstBoolDecl(
+             y
+             true
+            ) [OneConstBoolDecl]
+          ) [ConstBoolDeclarList]
+        ) [ConstDecl]
+      ) [ConstDeclaration]
+    ) [DeclarationList]
+    ConstDeclaration(
+      ConstDecl(
+        Type(
+         char
+        ) [Type]
+        ConstCharDeclarList(
+          MultipleConstCharDecl(
+            MultipleConstCharDecl(
+              OneConstCharDecl(
+               c
+               '
+              ) [OneConstCharDecl]
+             b
+             '
+            ) [MultipleConstCharDecl]
+           d
+           '
+          ) [MultipleConstCharDecl]
+        ) [ConstCharDeclarList]
+      ) [ConstDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationList]
+) [Program]
+INFO  22:08:38,687 - ===================================

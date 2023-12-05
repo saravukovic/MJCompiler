@@ -1,0 +1,1433 @@
+INFO  01:02:07,982 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  01:02:08,073 - #2 program
+INFO  01:02:08,073 - #45 mojProgram
+INFO  01:02:08,073 - #4 class
+INFO  01:02:08,075 - #45 Klasa
+INFO  01:02:08,075 - #42 {
+INFO  01:02:08,076 - #45 int
+INFO  01:02:08,077 - #45 y
+INFO  01:02:08,079 - #33 ;
+INFO  01:02:08,080 - #42 {
+INFO  01:02:08,081 - #45 int
+INFO  01:02:08,082 - #45 fun
+INFO  01:02:08,083 - #37 (
+INFO  01:02:08,084 - #38 )
+INFO  01:02:08,085 - #42 {
+INFO  01:02:08,087 - #12 return
+INFO  01:02:08,088 - #44 3
+INFO  01:02:08,088 - #33 ;
+INFO  01:02:08,089 - #43 }
+INFO  01:02:08,090 - #43 }
+INFO  01:02:08,091 - #43 }
+INFO  01:02:08,093 - #4 class
+INFO  01:02:08,094 - #45 Klasa
+INFO  01:02:08,105 - #14 extends
+INFO  01:02:08,105 - #45 Klasa
+INFO  01:02:08,105 - #42 {
+INFO  01:02:08,106 - #45 int
+INFO  01:02:08,106 - #45 y
+INFO  01:02:08,106 - #39 [
+INFO  01:02:08,106 - #40 ]
+INFO  01:02:08,106 - #39 [
+INFO  01:02:08,106 - #40 ]
+INFO  01:02:08,106 - #33 ;
+INFO  01:02:08,107 - #45 char
+INFO  01:02:08,107 - #45 b
+INFO  01:02:08,107 - #33 ;
+INFO  01:02:08,107 - #43 }
+INFO  01:02:08,107 - #45 int
+INFO  01:02:08,107 - #45 z
+INFO  01:02:08,108 - #35 ,
+INFO  01:02:08,108 - #44 55
+ERROR 01:02:08,108 - 
+Sintaksna greska na liniji 9
+INFO  01:02:08,108 - #35 ,
+INFO  01:02:08,108 - #45 y
+INFO  01:02:08,108 - #39 [
+INFO  01:02:08,110 - #40 ]
+ERROR 01:02:08,110 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 9
+INFO  01:02:08,111 - #35 ,
+INFO  01:02:08,111 - #44 55
+ERROR 01:02:08,112 - 
+Sintaksna greska na liniji 9
+INFO  01:02:08,112 - #35 ,
+INFO  01:02:08,112 - #35 ,
+INFO  01:02:08,112 - #44 55
+INFO  01:02:08,112 - #35 ,
+INFO  01:02:08,112 - #44 55
+INFO  01:02:08,112 - #33 ;
+INFO  01:02:08,112 - #6 const
+INFO  01:02:08,113 - #45 bool
+INFO  01:02:08,113 - #45 y
+ERROR 01:02:08,113 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 9
+INFO  01:02:08,113 - #30 =
+INFO  01:02:08,113 - #47 true
+INFO  01:02:08,114 - #33 ;
+INFO  01:02:08,116 - #42 {
+INFO  01:02:08,118 - #45 int
+INFO  01:02:08,119 - #45 fun
+INFO  01:02:08,119 - #37 (
+INFO  01:02:08,119 - #45 int
+INFO  01:02:08,119 - #45 x
+INFO  01:02:08,121 - #39 [
+INFO  01:02:08,121 - #40 ]
+INFO  01:02:08,121 - #39 [
+INFO  01:02:08,121 - #40 ]
+INFO  01:02:08,121 - #38 )
+INFO  01:02:08,122 - #42 {
+INFO  01:02:08,122 - #43 }
+INFO  01:02:08,122 - #13 void
+INFO  01:02:08,122 - #45 funA
+INFO  01:02:08,124 - #37 (
+INFO  01:02:08,124 - #45 int
+INFO  01:02:08,124 - #45 x
+INFO  01:02:08,124 - #35 ,
+INFO  01:02:08,125 - #45 char
+INFO  01:02:08,125 - #45 z
+INFO  01:02:08,125 - #38 )
+INFO  01:02:08,125 - #45 bool
+INFO  01:02:08,125 - #45 z
+INFO  01:02:08,125 - #39 [
+INFO  01:02:08,125 - #40 ]
+INFO  01:02:08,126 - #33 ;
+INFO  01:02:08,126 - #45 int
+INFO  01:02:08,126 - #45 x
+INFO  01:02:08,126 - #35 ,
+INFO  01:02:08,126 - #45 t
+INFO  01:02:08,126 - #33 ;
+INFO  01:02:08,126 - #42 {
+INFO  01:02:08,127 - #8 while
+INFO  01:02:08,127 - #37 (
+INFO  01:02:08,127 - #47 true
+INFO  01:02:08,127 - #28 &&
+INFO  01:02:08,128 - #47 false
+INFO  01:02:08,128 - #29 ||
+INFO  01:02:08,128 - #47 false
+INFO  01:02:08,128 - #28 &&
+INFO  01:02:08,128 - #47 true
+INFO  01:02:08,128 - #29 ||
+INFO  01:02:08,129 - #47 true
+INFO  01:02:08,129 - #38 )
+INFO  01:02:08,129 - #3 break
+INFO  01:02:08,130 - #33 ;
+INFO  01:02:08,130 - #8 while
+INFO  01:02:08,132 - #37 (
+INFO  01:02:08,132 - #47 true
+INFO  01:02:08,132 - #22 ==
+INFO  01:02:08,133 - #47 false
+INFO  01:02:08,135 - #28 &&
+INFO  01:02:08,135 - #47 true
+INFO  01:02:08,135 - #23 !=
+INFO  01:02:08,135 - #47 false
+INFO  01:02:08,136 - #29 ||
+INFO  01:02:08,136 - #47 true
+INFO  01:02:08,137 - #23 !=
+INFO  01:02:08,137 - #47 false
+INFO  01:02:08,137 - #38 )
+INFO  01:02:08,137 - #3 break
+INFO  01:02:08,137 - #33 ;
+INFO  01:02:08,137 - #8 while
+INFO  01:02:08,137 - #37 (
+INFO  01:02:08,137 - #47 true
+INFO  01:02:08,137 - #23 !=
+INFO  01:02:08,137 - #47 false
+INFO  01:02:08,138 - #38 )
+INFO  01:02:08,138 - #3 break
+INFO  01:02:08,138 - #33 ;
+INFO  01:02:08,138 - #8 while
+INFO  01:02:08,138 - #37 (
+INFO  01:02:08,138 - #47 true
+INFO  01:02:08,138 - #24 >
+INFO  01:02:08,138 - #47 false
+INFO  01:02:08,139 - #38 )
+INFO  01:02:08,140 - #3 break
+INFO  01:02:08,140 - #33 ;
+INFO  01:02:08,140 - #8 while
+INFO  01:02:08,140 - #37 (
+INFO  01:02:08,140 - #47 true
+INFO  01:02:08,140 - #25 >=
+INFO  01:02:08,140 - #47 false
+INFO  01:02:08,142 - #38 )
+INFO  01:02:08,142 - #3 break
+INFO  01:02:08,142 - #33 ;
+INFO  01:02:08,142 - #8 while
+INFO  01:02:08,142 - #37 (
+INFO  01:02:08,142 - #47 true
+INFO  01:02:08,142 - #26 <
+INFO  01:02:08,143 - #47 false
+INFO  01:02:08,144 - #38 )
+INFO  01:02:08,144 - #3 break
+INFO  01:02:08,144 - #33 ;
+INFO  01:02:08,144 - #8 while
+INFO  01:02:08,144 - #37 (
+INFO  01:02:08,144 - #47 true
+INFO  01:02:08,144 - #27 <=
+INFO  01:02:08,145 - #47 false
+INFO  01:02:08,146 - #38 )
+INFO  01:02:08,146 - #3 break
+INFO  01:02:08,146 - #33 ;
+INFO  01:02:08,146 - #12 return
+INFO  01:02:08,146 - #33 ;
+INFO  01:02:08,146 - #11 read
+INFO  01:02:08,147 - #37 (
+INFO  01:02:08,148 - #45 x
+INFO  01:02:08,148 - #38 )
+INFO  01:02:08,148 - #33 ;
+INFO  01:02:08,148 - #10 print
+INFO  01:02:08,148 - #37 (
+INFO  01:02:08,148 - #47 true
+INFO  01:02:08,148 - #35 ,
+INFO  01:02:08,150 - #44 5
+INFO  01:02:08,150 - #35 ,
+INFO  01:02:08,151 - #44 6
+INFO  01:02:08,151 - #35 ,
+INFO  01:02:08,151 - #44 7
+INFO  01:02:08,151 - #38 )
+INFO  01:02:08,151 - #33 ;
+INFO  01:02:08,151 - #45 x
+INFO  01:02:08,152 - #30 =
+INFO  01:02:08,152 - #47 true
+INFO  01:02:08,152 - #33 ;
+INFO  01:02:08,152 - #45 x
+INFO  01:02:08,153 - #37 (
+INFO  01:02:08,154 - #47 true
+INFO  01:02:08,154 - #35 ,
+INFO  01:02:08,156 - #47 false
+INFO  01:02:08,156 - #38 )
+INFO  01:02:08,157 - #33 ;
+INFO  01:02:08,157 - #45 z
+INFO  01:02:08,157 - #31 ++
+INFO  01:02:08,157 - #33 ;
+INFO  01:02:08,157 - #45 y
+INFO  01:02:08,158 - #32 --
+INFO  01:02:08,158 - #33 ;
+INFO  01:02:08,158 - #39 [
+INFO  01:02:08,158 - #45 x
+INFO  01:02:08,158 - #35 ,
+INFO  01:02:08,159 - #45 y
+INFO  01:02:08,159 - #35 ,
+INFO  01:02:08,159 - #45 z
+INFO  01:02:08,159 - #40 ]
+INFO  01:02:08,159 - #30 =
+INFO  01:02:08,159 - #45 z
+INFO  01:02:08,159 - #33 ;
+INFO  01:02:08,159 - #8 while
+INFO  01:02:08,160 - #37 (
+INFO  01:02:08,160 - #45 y
+INFO  01:02:08,160 - #38 )
+INFO  01:02:08,160 - #42 {
+INFO  01:02:08,160 - #7 if
+INFO  01:02:08,160 - #37 (
+INFO  01:02:08,160 - #47 true
+INFO  01:02:08,160 - #28 &&
+INFO  01:02:08,161 - #47 false
+INFO  01:02:08,161 - #29 ||
+INFO  01:02:08,161 - #47 false
+INFO  01:02:08,161 - #28 &&
+INFO  01:02:08,161 - #47 true
+INFO  01:02:08,161 - #38 )
+INFO  01:02:08,161 - #15 continue
+INFO  01:02:08,161 - #33 ;
+INFO  01:02:08,162 - #5 else
+INFO  01:02:08,163 - #3 break
+INFO  01:02:08,163 - #33 ;
+INFO  01:02:08,163 - #43 }
+INFO  01:02:08,163 - #7 if
+INFO  01:02:08,163 - #37 (
+INFO  01:02:08,163 - #45 x
+INFO  01:02:08,163 - #38 )
+INFO  01:02:08,164 - #42 {
+INFO  01:02:08,164 - #3 break
+INFO  01:02:08,164 - #33 ;
+INFO  01:02:08,164 - #7 if
+INFO  01:02:08,164 - #37 (
+INFO  01:02:08,164 - #45 x
+INFO  01:02:08,164 - #22 ==
+INFO  01:02:08,164 - #45 y
+INFO  01:02:08,164 - #38 )
+INFO  01:02:08,164 - #12 return
+INFO  01:02:08,165 - #33 ;
+INFO  01:02:08,165 - #7 if
+INFO  01:02:08,165 - #37 (
+INFO  01:02:08,165 - #47 true
+INFO  01:02:08,165 - #38 )
+INFO  01:02:08,165 - #42 {
+INFO  01:02:08,166 - #45 y
+INFO  01:02:08,166 - #30 =
+INFO  01:02:08,166 - #45 x
+INFO  01:02:08,166 - #27 <=
+ERROR 01:02:08,166 - 
+Sintaksna greska na liniji 39
+INFO  01:02:08,166 - #45 y
+INFO  01:02:08,166 - #33 ;
+INFO  01:02:08,167 - #7 if
+INFO  01:02:08,167 - #37 (
+INFO  01:02:08,167 - #47 true
+ERROR 01:02:08,167 - Uspesan oporavak od greske do ";" pri dodeli vrednosti na liniji 11
+INFO  01:02:08,168 - #38 )
+INFO  01:02:08,168 - #11 read
+INFO  01:02:08,168 - #37 (
+INFO  01:02:08,168 - #45 u
+INFO  01:02:08,168 - #38 )
+INFO  01:02:08,168 - #33 ;
+INFO  01:02:08,169 - #5 else
+INFO  01:02:08,169 - #42 {
+INFO  01:02:08,169 - #45 y
+INFO  01:02:08,169 - #30 =
+INFO  01:02:08,169 - #45 x
+INFO  01:02:08,169 - #17 +
+INFO  01:02:08,169 - #45 y
+INFO  01:02:08,171 - #33 ;
+INFO  01:02:08,172 - #43 }
+INFO  01:02:08,172 - #45 x
+INFO  01:02:08,172 - #30 =
+INFO  01:02:08,172 - #45 y
+INFO  01:02:08,173 - #36 .
+INFO  01:02:08,173 - #16 map
+INFO  01:02:08,173 - #37 (
+INFO  01:02:08,173 - #45 z
+INFO  01:02:08,173 - #41 =>
+INFO  01:02:08,174 - #45 u
+INFO  01:02:08,174 - #38 )
+INFO  01:02:08,174 - #33 ;
+INFO  01:02:08,174 - #43 }
+INFO  01:02:08,174 - #43 }
+INFO  01:02:08,175 - #43 }
+INFO  01:02:08,175 - #43 }
+INFO  01:02:08,195 - Program(
+  ProgramName(
+   mojProgram
+  ) [ProgramName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          NoDecl(
+          ) [NoDecl]
+          ClassDeclaration(
+            ClassDecl(
+              ClassNameNoExt(
+               Klasa
+              ) [ClassNameNoExt]
+              ClassVarDeclarList(
+                NoClassVarDeclarList(
+                ) [NoClassVarDeclarList]
+                ClassVarDeclar(
+                  ClassVarDeclType(
+                    Type(
+                     int
+                    ) [Type]
+                  ) [ClassVarDeclType]
+                  OneClassVar(
+                    OneClassVariable(
+                     y
+                    ) [OneClassVariable]
+                  ) [OneClassVar]
+                ) [ClassVarDeclar]
+              ) [ClassVarDeclarList]
+              FunctionDeclList(
+                NoFunctionDeclList(
+                ) [NoFunctionDeclList]
+                FuncDecl(
+                  ClassMethDeclList(
+                    NoClassMethDeclList(
+                    ) [NoClassMethDeclList]
+                    ClassMethodType(
+                      Method(
+                        MethDeclTypeAndName(
+                          MethodType(
+                            Type(
+                             int
+                            ) [Type]
+                          ) [MethodType]
+                         fun
+                        ) [MethDeclTypeAndName]
+                        NoFormParamsList(
+                        ) [NoFormParamsList]
+                        NoVarDeclarList(
+                        ) [NoVarDeclarList]
+                        StmtList(
+                          NoStmt(
+                          ) [NoStmt]
+                          MatchedStm(
+                            ReturnStm(
+                              Expression(
+                                OneTerm(
+                                  OneFactor(
+                                    FactNum(
+                                     3
+                                    ) [FactNum]
+                                  ) [OneFactor]
+                                ) [OneTerm]
+                              ) [Expression]
+                            ) [ReturnStm]
+                          ) [MatchedStm]
+                        ) [StmtList]
+                      ) [Method]
+                    ) [ClassMethodType]
+                  ) [ClassMethDeclList]
+                ) [FuncDecl]
+              ) [FunctionDeclList]
+            ) [ClassDecl]
+          ) [ClassDeclaration]
+        ) [DeclarationList]
+        ClassDeclaration(
+          ClassDecl(
+            ClassNameExt(
+             Klasa
+              Type(
+               Klasa
+              ) [Type]
+            ) [ClassNameExt]
+            ClassVarDeclarList(
+              ClassVarDeclarList(
+                NoClassVarDeclarList(
+                ) [NoClassVarDeclarList]
+                ClassVarDeclar(
+                  ClassVarDeclType(
+                    Type(
+                     int
+                    ) [Type]
+                  ) [ClassVarDeclType]
+                  OneClassVar(
+                    MatrixClassVariable(
+                     y
+                    ) [MatrixClassVariable]
+                  ) [OneClassVar]
+                ) [ClassVarDeclar]
+              ) [ClassVarDeclarList]
+              ClassVarDeclar(
+                ClassVarDeclType(
+                  Type(
+                   char
+                  ) [Type]
+                ) [ClassVarDeclType]
+                OneClassVar(
+                  OneClassVariable(
+                   b
+                  ) [OneClassVariable]
+                ) [OneClassVar]
+              ) [ClassVarDeclar]
+            ) [ClassVarDeclarList]
+            NoFunctionDeclList(
+            ) [NoFunctionDeclList]
+          ) [ClassDecl]
+        ) [ClassDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          ErrVarDeclarCOMMA(
+          ) [ErrVarDeclarCOMMA]
+        ) [VarDeclar]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    ConstDeclaration(
+      ConstDecl(
+        Type(
+         bool
+        ) [Type]
+        SingleConstDecl(
+         y
+          BoolConstant(
+           true
+          ) [BoolConstant]
+        ) [SingleConstDecl]
+        NoConstDeclarList(
+        ) [NoConstDeclarList]
+      ) [ConstDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    MethDeclList(
+      NoMethDeclList(
+      ) [NoMethDeclList]
+      Method(
+        MethDeclTypeAndName(
+          MethodType(
+            Type(
+             int
+            ) [Type]
+          ) [MethodType]
+         fun
+        ) [MethDeclTypeAndName]
+        FormParamsList(
+          NoFormParamsList(
+          ) [NoFormParamsList]
+          FormParam(
+            FormParameterMatrix(
+              Type(
+               int
+              ) [Type]
+             x
+            ) [FormParameterMatrix]
+          ) [FormParam]
+        ) [FormParamsList]
+        NoVarDeclarList(
+        ) [NoVarDeclarList]
+        NoStmt(
+        ) [NoStmt]
+      ) [Method]
+    ) [MethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       funA
+      ) [MethDeclTypeAndName]
+      FormParamsList(
+        NoFormParamsList(
+        ) [NoFormParamsList]
+        FormParams(
+          FormParam(
+            FormParameter(
+              Type(
+               int
+              ) [Type]
+             x
+            ) [FormParameter]
+          ) [FormParam]
+          FormParameter(
+            Type(
+             char
+            ) [Type]
+           z
+          ) [FormParameter]
+        ) [FormParams]
+      ) [FormParamsList]
+      VarDeclarList(
+        VarDeclarList(
+          NoVarDeclarList(
+          ) [NoVarDeclarList]
+          VarDeclar(
+            Type(
+             bool
+            ) [Type]
+            OneVar(
+              ArrayVariable(
+               z
+              ) [ArrayVariable]
+            ) [OneVar]
+          ) [VarDeclar]
+        ) [VarDeclarList]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          Vars(
+            OneVar(
+              OneVariable(
+               x
+              ) [OneVariable]
+            ) [OneVar]
+            OneVariable(
+             t
+            ) [OneVariable]
+          ) [Vars]
+        ) [VarDeclar]
+      ) [VarDeclarList]
+      StmtList(
+        StmtList(
+          StmtList(
+            StmtList(
+              StmtList(
+                StmtList(
+                  StmtList(
+                    StmtList(
+                      StmtList(
+                        StmtList(
+                          StmtList(
+                            StmtList(
+                              StmtList(
+                                StmtList(
+                                  StmtList(
+                                    StmtList(
+                                      StmtList(
+                                        NoStmt(
+                                        ) [NoStmt]
+                                        MatchedStm(
+                                          WhileStm(
+                                            WhileCond(
+                                              Conditions(
+                                                Conditions(
+                                                  OneCondition(
+                                                    CondTerms(
+                                                      OneCondTerm(
+                                                        OneCondFact(
+                                                          Expression(
+                                                            OneTerm(
+                                                              OneFactor(
+                                                                FactBool(
+                                                                 true
+                                                                ) [FactBool]
+                                                              ) [OneFactor]
+                                                            ) [OneTerm]
+                                                          ) [Expression]
+                                                        ) [OneCondFact]
+                                                      ) [OneCondTerm]
+                                                      OneCondFact(
+                                                        Expression(
+                                                          OneTerm(
+                                                            OneFactor(
+                                                              FactBool(
+                                                               false
+                                                              ) [FactBool]
+                                                            ) [OneFactor]
+                                                          ) [OneTerm]
+                                                        ) [Expression]
+                                                      ) [OneCondFact]
+                                                    ) [CondTerms]
+                                                  ) [OneCondition]
+                                                  CondTerms(
+                                                    OneCondTerm(
+                                                      OneCondFact(
+                                                        Expression(
+                                                          OneTerm(
+                                                            OneFactor(
+                                                              FactBool(
+                                                               false
+                                                              ) [FactBool]
+                                                            ) [OneFactor]
+                                                          ) [OneTerm]
+                                                        ) [Expression]
+                                                      ) [OneCondFact]
+                                                    ) [OneCondTerm]
+                                                    OneCondFact(
+                                                      Expression(
+                                                        OneTerm(
+                                                          OneFactor(
+                                                            FactBool(
+                                                             true
+                                                            ) [FactBool]
+                                                          ) [OneFactor]
+                                                        ) [OneTerm]
+                                                      ) [Expression]
+                                                    ) [OneCondFact]
+                                                  ) [CondTerms]
+                                                ) [Conditions]
+                                                OneCondTerm(
+                                                  OneCondFact(
+                                                    Expression(
+                                                      OneTerm(
+                                                        OneFactor(
+                                                          FactBool(
+                                                           true
+                                                          ) [FactBool]
+                                                        ) [OneFactor]
+                                                      ) [OneTerm]
+                                                    ) [Expression]
+                                                  ) [OneCondFact]
+                                                ) [OneCondTerm]
+                                              ) [Conditions]
+                                            ) [WhileCond]
+                                            MatchedStm(
+                                              BreakStm(
+                                              ) [BreakStm]
+                                            ) [MatchedStm]
+                                            WhileLoopEnd(
+                                            ) [WhileLoopEnd]
+                                          ) [WhileStm]
+                                        ) [MatchedStm]
+                                      ) [StmtList]
+                                      MatchedStm(
+                                        WhileStm(
+                                          WhileCond(
+                                            Conditions(
+                                              OneCondition(
+                                                CondTerms(
+                                                  OneCondTerm(
+                                                    CondFacts(
+                                                      Expression(
+                                                        OneTerm(
+                                                          OneFactor(
+                                                            FactBool(
+                                                             true
+                                                            ) [FactBool]
+                                                          ) [OneFactor]
+                                                        ) [OneTerm]
+                                                      ) [Expression]
+                                                      EqualTo(
+                                                      ) [EqualTo]
+                                                      Expression(
+                                                        OneTerm(
+                                                          OneFactor(
+                                                            FactBool(
+                                                             false
+                                                            ) [FactBool]
+                                                          ) [OneFactor]
+                                                        ) [OneTerm]
+                                                      ) [Expression]
+                                                    ) [CondFacts]
+                                                  ) [OneCondTerm]
+                                                  CondFacts(
+                                                    Expression(
+                                                      OneTerm(
+                                                        OneFactor(
+                                                          FactBool(
+                                                           true
+                                                          ) [FactBool]
+                                                        ) [OneFactor]
+                                                      ) [OneTerm]
+                                                    ) [Expression]
+                                                    NotEqualTo(
+                                                    ) [NotEqualTo]
+                                                    Expression(
+                                                      OneTerm(
+                                                        OneFactor(
+                                                          FactBool(
+                                                           false
+                                                          ) [FactBool]
+                                                        ) [OneFactor]
+                                                      ) [OneTerm]
+                                                    ) [Expression]
+                                                  ) [CondFacts]
+                                                ) [CondTerms]
+                                              ) [OneCondition]
+                                              OneCondTerm(
+                                                CondFacts(
+                                                  Expression(
+                                                    OneTerm(
+                                                      OneFactor(
+                                                        FactBool(
+                                                         true
+                                                        ) [FactBool]
+                                                      ) [OneFactor]
+                                                    ) [OneTerm]
+                                                  ) [Expression]
+                                                  NotEqualTo(
+                                                  ) [NotEqualTo]
+                                                  Expression(
+                                                    OneTerm(
+                                                      OneFactor(
+                                                        FactBool(
+                                                         false
+                                                        ) [FactBool]
+                                                      ) [OneFactor]
+                                                    ) [OneTerm]
+                                                  ) [Expression]
+                                                ) [CondFacts]
+                                              ) [OneCondTerm]
+                                            ) [Conditions]
+                                          ) [WhileCond]
+                                          MatchedStm(
+                                            BreakStm(
+                                            ) [BreakStm]
+                                          ) [MatchedStm]
+                                          WhileLoopEnd(
+                                          ) [WhileLoopEnd]
+                                        ) [WhileStm]
+                                      ) [MatchedStm]
+                                    ) [StmtList]
+                                    MatchedStm(
+                                      WhileStm(
+                                        WhileCond(
+                                          OneCondition(
+                                            OneCondTerm(
+                                              CondFacts(
+                                                Expression(
+                                                  OneTerm(
+                                                    OneFactor(
+                                                      FactBool(
+                                                       true
+                                                      ) [FactBool]
+                                                    ) [OneFactor]
+                                                  ) [OneTerm]
+                                                ) [Expression]
+                                                NotEqualTo(
+                                                ) [NotEqualTo]
+                                                Expression(
+                                                  OneTerm(
+                                                    OneFactor(
+                                                      FactBool(
+                                                       false
+                                                      ) [FactBool]
+                                                    ) [OneFactor]
+                                                  ) [OneTerm]
+                                                ) [Expression]
+                                              ) [CondFacts]
+                                            ) [OneCondTerm]
+                                          ) [OneCondition]
+                                        ) [WhileCond]
+                                        MatchedStm(
+                                          BreakStm(
+                                          ) [BreakStm]
+                                        ) [MatchedStm]
+                                        WhileLoopEnd(
+                                        ) [WhileLoopEnd]
+                                      ) [WhileStm]
+                                    ) [MatchedStm]
+                                  ) [StmtList]
+                                  MatchedStm(
+                                    WhileStm(
+                                      WhileCond(
+                                        OneCondition(
+                                          OneCondTerm(
+                                            CondFacts(
+                                              Expression(
+                                                OneTerm(
+                                                  OneFactor(
+                                                    FactBool(
+                                                     true
+                                                    ) [FactBool]
+                                                  ) [OneFactor]
+                                                ) [OneTerm]
+                                              ) [Expression]
+                                              Greater(
+                                              ) [Greater]
+                                              Expression(
+                                                OneTerm(
+                                                  OneFactor(
+                                                    FactBool(
+                                                     false
+                                                    ) [FactBool]
+                                                  ) [OneFactor]
+                                                ) [OneTerm]
+                                              ) [Expression]
+                                            ) [CondFacts]
+                                          ) [OneCondTerm]
+                                        ) [OneCondition]
+                                      ) [WhileCond]
+                                      MatchedStm(
+                                        BreakStm(
+                                        ) [BreakStm]
+                                      ) [MatchedStm]
+                                      WhileLoopEnd(
+                                      ) [WhileLoopEnd]
+                                    ) [WhileStm]
+                                  ) [MatchedStm]
+                                ) [StmtList]
+                                MatchedStm(
+                                  WhileStm(
+                                    WhileCond(
+                                      OneCondition(
+                                        OneCondTerm(
+                                          CondFacts(
+                                            Expression(
+                                              OneTerm(
+                                                OneFactor(
+                                                  FactBool(
+                                                   true
+                                                  ) [FactBool]
+                                                ) [OneFactor]
+                                              ) [OneTerm]
+                                            ) [Expression]
+                                            GreaterOrEq(
+                                            ) [GreaterOrEq]
+                                            Expression(
+                                              OneTerm(
+                                                OneFactor(
+                                                  FactBool(
+                                                   false
+                                                  ) [FactBool]
+                                                ) [OneFactor]
+                                              ) [OneTerm]
+                                            ) [Expression]
+                                          ) [CondFacts]
+                                        ) [OneCondTerm]
+                                      ) [OneCondition]
+                                    ) [WhileCond]
+                                    MatchedStm(
+                                      BreakStm(
+                                      ) [BreakStm]
+                                    ) [MatchedStm]
+                                    WhileLoopEnd(
+                                    ) [WhileLoopEnd]
+                                  ) [WhileStm]
+                                ) [MatchedStm]
+                              ) [StmtList]
+                              MatchedStm(
+                                WhileStm(
+                                  WhileCond(
+                                    OneCondition(
+                                      OneCondTerm(
+                                        CondFacts(
+                                          Expression(
+                                            OneTerm(
+                                              OneFactor(
+                                                FactBool(
+                                                 true
+                                                ) [FactBool]
+                                              ) [OneFactor]
+                                            ) [OneTerm]
+                                          ) [Expression]
+                                          Less(
+                                          ) [Less]
+                                          Expression(
+                                            OneTerm(
+                                              OneFactor(
+                                                FactBool(
+                                                 false
+                                                ) [FactBool]
+                                              ) [OneFactor]
+                                            ) [OneTerm]
+                                          ) [Expression]
+                                        ) [CondFacts]
+                                      ) [OneCondTerm]
+                                    ) [OneCondition]
+                                  ) [WhileCond]
+                                  MatchedStm(
+                                    BreakStm(
+                                    ) [BreakStm]
+                                  ) [MatchedStm]
+                                  WhileLoopEnd(
+                                  ) [WhileLoopEnd]
+                                ) [WhileStm]
+                              ) [MatchedStm]
+                            ) [StmtList]
+                            MatchedStm(
+                              WhileStm(
+                                WhileCond(
+                                  OneCondition(
+                                    OneCondTerm(
+                                      CondFacts(
+                                        Expression(
+                                          OneTerm(
+                                            OneFactor(
+                                              FactBool(
+                                               true
+                                              ) [FactBool]
+                                            ) [OneFactor]
+                                          ) [OneTerm]
+                                        ) [Expression]
+                                        LessOrEq(
+                                        ) [LessOrEq]
+                                        Expression(
+                                          OneTerm(
+                                            OneFactor(
+                                              FactBool(
+                                               false
+                                              ) [FactBool]
+                                            ) [OneFactor]
+                                          ) [OneTerm]
+                                        ) [Expression]
+                                      ) [CondFacts]
+                                    ) [OneCondTerm]
+                                  ) [OneCondition]
+                                ) [WhileCond]
+                                MatchedStm(
+                                  BreakStm(
+                                  ) [BreakStm]
+                                ) [MatchedStm]
+                                WhileLoopEnd(
+                                ) [WhileLoopEnd]
+                              ) [WhileStm]
+                            ) [MatchedStm]
+                          ) [StmtList]
+                          MatchedStm(
+                            NoReturnValueStm(
+                            ) [NoReturnValueStm]
+                          ) [MatchedStm]
+                        ) [StmtList]
+                        MatchedStm(
+                          ReadStm(
+                            Design(
+                             x
+                            ) [Design]
+                          ) [ReadStm]
+                        ) [MatchedStm]
+                      ) [StmtList]
+                      MatchedStm(
+                        PrintStm(
+                          Expression(
+                            OneTerm(
+                              OneFactor(
+                                FactBool(
+                                 true
+                                ) [FactBool]
+                              ) [OneFactor]
+                            ) [OneTerm]
+                          ) [Expression]
+                          NumConstantList(
+                            NumConstantList(
+                              NumConstantList(
+                                NoNumConstantList(
+                                ) [NoNumConstantList]
+                                NumConst(
+                                 5
+                                ) [NumConst]
+                              ) [NumConstantList]
+                              NumConst(
+                               6
+                              ) [NumConst]
+                            ) [NumConstantList]
+                            NumConst(
+                             7
+                            ) [NumConst]
+                          ) [NumConstantList]
+                        ) [PrintStm]
+                      ) [MatchedStm]
+                    ) [StmtList]
+                    MatchedStm(
+                      DesignStm(
+                        DesignAssign(
+                          Design(
+                           x
+                          ) [Design]
+                          Expression(
+                            OneTerm(
+                              OneFactor(
+                                FactBool(
+                                 true
+                                ) [FactBool]
+                              ) [OneFactor]
+                            ) [OneTerm]
+                          ) [Expression]
+                        ) [DesignAssign]
+                      ) [DesignStm]
+                    ) [MatchedStm]
+                  ) [StmtList]
+                  MatchedStm(
+                    DesignStm(
+                      DesignFuncCall(
+                        Design(
+                         x
+                        ) [Design]
+                        FunctionCalled(
+                        ) [FunctionCalled]
+                        ActParamsList(
+                          ActParams(
+                            ActParam(
+                              ActPar(
+                                Expression(
+                                  OneTerm(
+                                    OneFactor(
+                                      FactBool(
+                                       true
+                                      ) [FactBool]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [Expression]
+                              ) [ActPar]
+                            ) [ActParam]
+                            ActPar(
+                              Expression(
+                                OneTerm(
+                                  OneFactor(
+                                    FactBool(
+                                     false
+                                    ) [FactBool]
+                                  ) [OneFactor]
+                                ) [OneTerm]
+                              ) [Expression]
+                            ) [ActPar]
+                          ) [ActParams]
+                        ) [ActParamsList]
+                      ) [DesignFuncCall]
+                    ) [DesignStm]
+                  ) [MatchedStm]
+                ) [StmtList]
+                MatchedStm(
+                  DesignStm(
+                    DesignInc(
+                      Design(
+                       z
+                      ) [Design]
+                    ) [DesignInc]
+                  ) [DesignStm]
+                ) [MatchedStm]
+              ) [StmtList]
+              MatchedStm(
+                DesignStm(
+                  DesignDec(
+                    Design(
+                     y
+                    ) [Design]
+                  ) [DesignDec]
+                ) [DesignStm]
+              ) [MatchedStm]
+            ) [StmtList]
+            MatchedStm(
+              DesignStm(
+                DesignArrAsign(
+                  DesignList(
+                    DesignList(
+                      DesignOrNothing(
+                        DesignatorInList(
+                          Design(
+                           x
+                          ) [Design]
+                        ) [DesignatorInList]
+                      ) [DesignOrNothing]
+                      DesignatorInList(
+                        Design(
+                         y
+                        ) [Design]
+                      ) [DesignatorInList]
+                    ) [DesignList]
+                    DesignatorInList(
+                      Design(
+                       z
+                      ) [Design]
+                    ) [DesignatorInList]
+                  ) [DesignList]
+                  Design(
+                   z
+                  ) [Design]
+                ) [DesignArrAsign]
+              ) [DesignStm]
+            ) [MatchedStm]
+          ) [StmtList]
+          MatchedStm(
+            WhileStm(
+              WhileCond(
+                OneCondition(
+                  OneCondTerm(
+                    OneCondFact(
+                      Expression(
+                        OneTerm(
+                          OneFactor(
+                            FactDesign(
+                              Design(
+                               y
+                              ) [Design]
+                            ) [FactDesign]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [Expression]
+                    ) [OneCondFact]
+                  ) [OneCondTerm]
+                ) [OneCondition]
+              ) [WhileCond]
+              MatchedStm(
+                Stm(
+                  StmtList(
+                    NoStmt(
+                    ) [NoStmt]
+                    MatchedStm(
+                      MatchedIfElseStatement(
+                        IfCond(
+                          Conditions(
+                            OneCondition(
+                              CondTerms(
+                                OneCondTerm(
+                                  OneCondFact(
+                                    Expression(
+                                      OneTerm(
+                                        OneFactor(
+                                          FactBool(
+                                           true
+                                          ) [FactBool]
+                                        ) [OneFactor]
+                                      ) [OneTerm]
+                                    ) [Expression]
+                                  ) [OneCondFact]
+                                ) [OneCondTerm]
+                                OneCondFact(
+                                  Expression(
+                                    OneTerm(
+                                      OneFactor(
+                                        FactBool(
+                                         false
+                                        ) [FactBool]
+                                      ) [OneFactor]
+                                    ) [OneTerm]
+                                  ) [Expression]
+                                ) [OneCondFact]
+                              ) [CondTerms]
+                            ) [OneCondition]
+                            CondTerms(
+                              OneCondTerm(
+                                OneCondFact(
+                                  Expression(
+                                    OneTerm(
+                                      OneFactor(
+                                        FactBool(
+                                         false
+                                        ) [FactBool]
+                                      ) [OneFactor]
+                                    ) [OneTerm]
+                                  ) [Expression]
+                                ) [OneCondFact]
+                              ) [OneCondTerm]
+                              OneCondFact(
+                                Expression(
+                                  OneTerm(
+                                    OneFactor(
+                                      FactBool(
+                                       true
+                                      ) [FactBool]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [Expression]
+                              ) [OneCondFact]
+                            ) [CondTerms]
+                          ) [Conditions]
+                        ) [IfCond]
+                        ContinueStm(
+                        ) [ContinueStm]
+                        BreakStm(
+                        ) [BreakStm]
+                      ) [MatchedIfElseStatement]
+                    ) [MatchedStm]
+                  ) [StmtList]
+                ) [Stm]
+              ) [MatchedStm]
+              WhileLoopEnd(
+              ) [WhileLoopEnd]
+            ) [WhileStm]
+          ) [MatchedStm]
+        ) [StmtList]
+        UnmatchedStm(
+          UnmatchedIf(
+            IfCond(
+              OneCondition(
+                OneCondTerm(
+                  OneCondFact(
+                    Expression(
+                      OneTerm(
+                        OneFactor(
+                          FactDesign(
+                            Design(
+                             x
+                            ) [Design]
+                          ) [FactDesign]
+                        ) [OneFactor]
+                      ) [OneTerm]
+                    ) [Expression]
+                  ) [OneCondFact]
+                ) [OneCondTerm]
+              ) [OneCondition]
+            ) [IfCond]
+            MatchedStm(
+              Stm(
+                StmtList(
+                  StmtList(
+                    StmtList(
+                      NoStmt(
+                      ) [NoStmt]
+                      MatchedStm(
+                        BreakStm(
+                        ) [BreakStm]
+                      ) [MatchedStm]
+                    ) [StmtList]
+                    UnmatchedStm(
+                      UnmatchedIf(
+                        IfCond(
+                          OneCondition(
+                            OneCondTerm(
+                              CondFacts(
+                                Expression(
+                                  OneTerm(
+                                    OneFactor(
+                                      FactDesign(
+                                        Design(
+                                         x
+                                        ) [Design]
+                                      ) [FactDesign]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [Expression]
+                                EqualTo(
+                                ) [EqualTo]
+                                Expression(
+                                  OneTerm(
+                                    OneFactor(
+                                      FactDesign(
+                                        Design(
+                                         y
+                                        ) [Design]
+                                      ) [FactDesign]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [Expression]
+                              ) [CondFacts]
+                            ) [OneCondTerm]
+                          ) [OneCondition]
+                        ) [IfCond]
+                        MatchedStm(
+                          NoReturnValueStm(
+                          ) [NoReturnValueStm]
+                        ) [MatchedStm]
+                      ) [UnmatchedIf]
+                    ) [UnmatchedStm]
+                  ) [StmtList]
+                  UnmatchedStm(
+                    UnmatchedIf(
+                      IfCond(
+                        OneCondition(
+                          OneCondTerm(
+                            OneCondFact(
+                              Expression(
+                                OneTerm(
+                                  OneFactor(
+                                    FactBool(
+                                     true
+                                    ) [FactBool]
+                                  ) [OneFactor]
+                                ) [OneTerm]
+                              ) [Expression]
+                            ) [OneCondFact]
+                          ) [OneCondTerm]
+                        ) [OneCondition]
+                      ) [IfCond]
+                      MatchedStm(
+                        Stm(
+                          StmtList(
+                            StmtList(
+                              StmtList(
+                                NoStmt(
+                                ) [NoStmt]
+                                MatchedStm(
+                                  DesignStm(
+                                    ErrAssignment(
+                                    ) [ErrAssignment]
+                                  ) [DesignStm]
+                                ) [MatchedStm]
+                              ) [StmtList]
+                              MatchedStm(
+                                MatchedIfElseStatement(
+                                  IfCond(
+                                    OneCondition(
+                                      OneCondTerm(
+                                        OneCondFact(
+                                          Expression(
+                                            OneTerm(
+                                              OneFactor(
+                                                FactBool(
+                                                 true
+                                                ) [FactBool]
+                                              ) [OneFactor]
+                                            ) [OneTerm]
+                                          ) [Expression]
+                                        ) [OneCondFact]
+                                      ) [OneCondTerm]
+                                    ) [OneCondition]
+                                  ) [IfCond]
+                                  ReadStm(
+                                    Design(
+                                     u
+                                    ) [Design]
+                                  ) [ReadStm]
+                                  Stm(
+                                    StmtList(
+                                      NoStmt(
+                                      ) [NoStmt]
+                                      MatchedStm(
+                                        DesignStm(
+                                          DesignAssign(
+                                            Design(
+                                             y
+                                            ) [Design]
+                                            Expression(
+                                              PlusTerm(
+                                                OneTerm(
+                                                  OneFactor(
+                                                    FactDesign(
+                                                      Design(
+                                                       x
+                                                      ) [Design]
+                                                    ) [FactDesign]
+                                                  ) [OneFactor]
+                                                ) [OneTerm]
+                                                Plus(
+                                                ) [Plus]
+                                                OneFactor(
+                                                  FactDesign(
+                                                    Design(
+                                                     y
+                                                    ) [Design]
+                                                  ) [FactDesign]
+                                                ) [OneFactor]
+                                              ) [PlusTerm]
+                                            ) [Expression]
+                                          ) [DesignAssign]
+                                        ) [DesignStm]
+                                      ) [MatchedStm]
+                                    ) [StmtList]
+                                  ) [Stm]
+                                ) [MatchedIfElseStatement]
+                              ) [MatchedStm]
+                            ) [StmtList]
+                            MatchedStm(
+                              MapStm(
+                                Design(
+                                 x
+                                ) [Design]
+                                Design(
+                                 y
+                                ) [Design]
+                               z
+                                Expression(
+                                  OneTerm(
+                                    OneFactor(
+                                      FactDesign(
+                                        Design(
+                                         u
+                                        ) [Design]
+                                      ) [FactDesign]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [Expression]
+                              ) [MapStm]
+                            ) [MatchedStm]
+                          ) [StmtList]
+                        ) [Stm]
+                      ) [MatchedStm]
+                    ) [UnmatchedIf]
+                  ) [UnmatchedStm]
+                ) [StmtList]
+              ) [Stm]
+            ) [MatchedStm]
+          ) [UnmatchedIf]
+        ) [UnmatchedStm]
+      ) [StmtList]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  01:02:08,197 - ===================================
+INFO  01:02:08,205 - Obradjuje se klasa Klasa na liniji 2
+INFO  01:02:08,205 - Definisana je promenljiva y na liniji 3
+INFO  01:02:08,205 - Obradjuje se funkcija fun na liniji 5
+ERROR 01:02:08,206 - Semanticka greska na liniji 8: klasa sa imenom Klasa vec postoji
+INFO  01:02:08,206 - Definisana je matrica y na liniji 8
+INFO  01:02:08,206 - Definisana je promenljiva b na liniji 8
+INFO  01:02:08,207 - Definisana je konstanta y cija je vrednost = 1 na liniji 10
+INFO  01:02:08,207 - Obradjuje se funkcija fun na liniji 12
+INFO  01:02:08,207 - Definisan je formalni argument x na liniji 12
+ERROR 01:02:08,207 - Semanticka greska na liniji 12: funkcija fun nema return iskaz!
+INFO  01:02:08,208 - Obradjuje se funkcija funA na liniji 13
+INFO  01:02:08,208 - Definisan je formalni argument x na liniji 13
+INFO  01:02:08,208 - Definisan je formalni argument z na liniji 13
+ERROR 01:02:08,208 - Semanticka greska na liniji 14: promenljiva sa imenom z vec postoji
+ERROR 01:02:08,208 - Semanticka greska na liniji 14: promenljiva sa imenom x vec postoji
+INFO  01:02:08,208 - Definisana je promenljiva t na liniji 14
+INFO  01:02:08,209 - Pristup promenljivoj x na liniji 24
+INFO  01:02:08,209 - Pristup promenljivoj x na liniji 26
+ERROR 01:02:08,209 - Semanticka greska na liniji 26: tipovi moraju biti kompatibilni.
+INFO  01:02:08,209 - Pristup promenljivoj x na liniji 27
+ERROR 01:02:08,209 - Semanticka greska na liniji 27: x mora biti globalna funkcija ili metoda klase.
+INFO  01:02:08,209 - Pristup promenljivoj z na liniji 28
+ERROR 01:02:08,210 - Semanticka greska na liniji 28: z mora biti tipa int.
+INFO  01:02:08,210 - Pristup promenljivoj y na liniji 29
+INFO  01:02:08,210 - Pristup promenljivoj x na liniji 30
+INFO  01:02:08,210 - Pristup promenljivoj y na liniji 30
+ERROR 01:02:08,210 - Semanticka greska na liniji 30: y mora biti promenljiva, element niza ili polje objekta.
+INFO  01:02:08,210 - Pristup promenljivoj z na liniji 30
+INFO  01:02:08,210 - Pristup promenljivoj z na liniji 30
+ERROR 01:02:08,210 - Semanticka greska na liniji 30: z mora biti niz.
+INFO  01:02:08,210 - Pristup promenljivoj y na liniji 31
+INFO  01:02:08,210 - Pristup promenljivoj x na liniji 35
+ERROR 01:02:08,211 - Greska na liniji 35 : tip uslova mora biti BOOL!
+ERROR 01:02:08,211 - Greska na liniji 0 : naredba break moze da se nadje samo u okviru while petlje
+INFO  01:02:08,211 - Pristup promenljivoj x na liniji 37
+INFO  01:02:08,211 - Pristup promenljivoj y na liniji 37
+ERROR 01:02:08,211 - Semanticka greska na liniji 37: tipovi promenljivih moraju biti kompatibilni.
+ERROR 01:02:08,211 - Greska na liniji 37 : tip uslova mora biti BOOL!
+ERROR 01:02:08,211 - Semanticka greska na liniji 40: promenljiva u ne postoji
+INFO  01:02:08,211 - Pristup promenljivoj u na liniji 40
+ERROR 01:02:08,211 - Semanticka greska na liniji 40: noObj mora biti tipa int, char ili bool.
+INFO  01:02:08,211 - Pristup promenljivoj y na liniji 42
+INFO  01:02:08,211 - Pristup promenljivoj x na liniji 42
+INFO  01:02:08,211 - Pristup promenljivoj y na liniji 42
+ERROR 01:02:08,211 - Semanticka greska na liniji 42: y mora biti promenljiva, element niza ili polje objekta.
+INFO  01:02:08,211 - Pristup promenljivoj x na liniji 44
+INFO  01:02:08,211 - Pristup promenljivoj y na liniji 44
+ERROR 01:02:08,211 - Semanticka greska na liniji 44: promenljiva u ne postoji
+INFO  01:02:08,211 - Pristup promenljivoj u na liniji 44
+ERROR 01:02:08,211 - Semanticka greska na liniji 44: promenljiva sa desne strane jednakosti mora biti niz.
+ERROR 01:02:08,211 - Semanticka greska na liniji 13: funkcija funA nema return iskaz!
+ERROR 01:02:08,212 - Metoda main mora postojati kao globalna void funkcija, bez argumenata. na liniji 1
+INFO  01:02:08,212 - ===================================
+ERROR 01:02:08,212 - Parsiranje NIJE uspesno zavrseno!

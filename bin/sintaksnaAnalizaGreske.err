@@ -1,0 +1,30 @@
+INFO  21:37:48,873 - Compiling source file: C:\pp1\workspace\MJCompiler\test\sintaksnaAnalizaGreske.mj
+INFO  21:37:48,933 - #2 program
+INFO  21:37:48,933 - #47 sintaksnaAnalizaGreske
+INFO  21:37:48,934 - #44 {
+INFO  21:37:48,935 - #13 void
+INFO  21:37:48,935 - #47 main
+INFO  21:37:48,937 - #39 (
+INFO  21:37:48,938 - #40 )
+INFO  21:37:48,938 - #44 {
+INFO  21:37:48,939 - #8 while
+INFO  21:37:48,940 - #39 (
+INFO  21:37:48,940 - #35 ;
+ERROR 21:37:48,940 - 
+Sintaksna greska na liniji 8
+INFO  21:37:48,940 - #40 )
+INFO  21:37:48,940 - #5 else
+INFO  21:37:48,940 - #44 {
+INFO  21:37:48,941 - #45 }
+INFO  21:37:48,941 - #7 if
+INFO  21:37:48,941 - #44 {
+INFO  21:37:48,941 - #45 }
+INFO  21:37:48,942 - #47 a
+INFO  21:37:48,942 - #38 .
+INFO  21:37:48,951 - #8 while
+INFO  21:37:48,951 - #19 +
+INFO  21:37:48,951 - #45 }
+INFO  21:37:48,951 - #45 }
+ERROR 21:37:48,952 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 17
+Exception in thread "main" java.lang.ClassCastException: rs.ac.bg.etf.pp1.ast.NoStmt cannot be cast to rs.ac.bg.etf.pp1.ast.Program
+	at rs.ac.bg.etf.pp1.MJParserTest.main(MJParserTest.java:43)

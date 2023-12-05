@@ -1,0 +1,364 @@
+INFO  23:56:43,123 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  23:56:43,155 - #2 program
+INFO  23:56:43,155 - #45 mojProgram
+INFO  23:56:43,155 - #4 class
+INFO  23:56:43,156 - #45 Klasa
+INFO  23:56:43,156 - #42 {
+INFO  23:56:43,156 - #43 }
+INFO  23:56:43,158 - #4 class
+INFO  23:56:43,158 - #45 Klasa
+INFO  23:56:43,158 - #14 extends
+INFO  23:56:43,158 - #45 UpperKlasa
+INFO  23:56:43,158 - #42 {
+INFO  23:56:43,159 - #43 }
+INFO  23:56:43,159 - #4 class
+INFO  23:56:43,160 - #45 Klasa
+INFO  23:56:43,160 - #42 {
+INFO  23:56:43,160 - #45 int
+INFO  23:56:43,160 - #45 y
+INFO  23:56:43,160 - #33 ;
+INFO  23:56:43,160 - #42 {
+INFO  23:56:43,162 - #45 int
+INFO  23:56:43,163 - #45 fun
+INFO  23:56:43,174 - #37 (
+INFO  23:56:43,174 - #38 )
+INFO  23:56:43,175 - #42 {
+INFO  23:56:43,175 - #43 }
+INFO  23:56:43,176 - #43 }
+INFO  23:56:43,177 - #43 }
+INFO  23:56:43,178 - #4 class
+INFO  23:56:43,178 - #45 Klasa
+INFO  23:56:43,178 - #14 extends
+INFO  23:56:43,178 - #45 UpperKlasa
+INFO  23:56:43,179 - #42 {
+INFO  23:56:43,179 - #45 int
+INFO  23:56:43,179 - #45 y
+INFO  23:56:43,179 - #39 [
+INFO  23:56:43,179 - #40 ]
+INFO  23:56:43,179 - #39 [
+INFO  23:56:43,179 - #40 ]
+INFO  23:56:43,179 - #39 [
+INFO  23:56:43,179 - #40 ]
+INFO  23:56:43,179 - #33 ;
+INFO  23:56:43,179 - #45 char
+INFO  23:56:43,180 - #45 b
+INFO  23:56:43,180 - #33 ;
+INFO  23:56:43,180 - #43 }
+INFO  23:56:43,180 - #45 int
+INFO  23:56:43,180 - #45 x
+INFO  23:56:43,180 - #35 ,
+INFO  23:56:43,180 - #45 y
+INFO  23:56:43,180 - #39 [
+INFO  23:56:43,180 - #40 ]
+INFO  23:56:43,180 - #33 ;
+INFO  23:56:43,180 - #6 const
+INFO  23:56:43,181 - #45 bool
+INFO  23:56:43,181 - #45 y
+INFO  23:56:43,181 - #30 =
+INFO  23:56:43,181 - #47 true
+INFO  23:56:43,181 - #33 ;
+INFO  23:56:43,182 - #42 {
+INFO  23:56:43,184 - #45 int
+INFO  23:56:43,184 - #45 fun
+INFO  23:56:43,184 - #37 (
+INFO  23:56:43,184 - #45 int
+INFO  23:56:43,184 - #45 x
+INFO  23:56:43,185 - #39 [
+INFO  23:56:43,185 - #40 ]
+INFO  23:56:43,185 - #39 [
+INFO  23:56:43,185 - #40 ]
+INFO  23:56:43,185 - #39 [
+INFO  23:56:43,185 - #40 ]
+INFO  23:56:43,185 - #39 [
+INFO  23:56:43,185 - #40 ]
+INFO  23:56:43,186 - #38 )
+INFO  23:56:43,186 - #42 {
+INFO  23:56:43,186 - #43 }
+INFO  23:56:43,186 - #13 void
+INFO  23:56:43,186 - #45 fun
+INFO  23:56:43,186 - #37 (
+INFO  23:56:43,186 - #45 int
+INFO  23:56:43,186 - #45 x
+INFO  23:56:43,186 - #35 ,
+INFO  23:56:43,187 - #45 char
+INFO  23:56:43,187 - #45 y
+INFO  23:56:43,187 - #35 ,
+INFO  23:56:43,187 - #45 bool
+INFO  23:56:43,187 - #45 z
+INFO  23:56:43,187 - #38 )
+INFO  23:56:43,187 - #45 bool
+INFO  23:56:43,187 - #45 y
+INFO  23:56:43,187 - #35 ,
+INFO  23:56:43,187 - #45 z
+INFO  23:56:43,187 - #39 [
+INFO  23:56:43,188 - #40 ]
+INFO  23:56:43,188 - #33 ;
+INFO  23:56:43,188 - #45 int
+INFO  23:56:43,188 - #45 x
+INFO  23:56:43,188 - #35 ,
+INFO  23:56:43,188 - #45 t
+INFO  23:56:43,188 - #33 ;
+INFO  23:56:43,188 - #42 {
+INFO  23:56:43,188 - #43 }
+INFO  23:56:43,188 - #43 }
+INFO  23:56:43,191 - Program(
+ mojProgram
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              NoDecl(
+              ) [NoDecl]
+              ClassDeclaration(
+                ClassDeclar(
+                 Klasa
+                  NoVarDeclarList(
+                  ) [NoVarDeclarList]
+                  NoFunctionDeclList(
+                  ) [NoFunctionDeclList]
+                ) [ClassDeclar]
+              ) [ClassDeclaration]
+            ) [DeclarationList]
+            ClassDeclaration(
+              ClassExtDeclar(
+               Klasa
+                Type(
+                 UpperKlasa
+                ) [Type]
+                NoVarDeclarList(
+                ) [NoVarDeclarList]
+                NoFunctionDeclList(
+                ) [NoFunctionDeclList]
+              ) [ClassExtDeclar]
+            ) [ClassDeclaration]
+          ) [DeclarationList]
+          ClassDeclaration(
+            ClassDeclar(
+             Klasa
+              VarDeclarList(
+                NoVarDeclarList(
+                ) [NoVarDeclarList]
+                VarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  OneVar(
+                    OneVariable(
+                     y
+                    ) [OneVariable]
+                  ) [OneVar]
+                ) [VarDecl]
+              ) [VarDeclarList]
+              FunctionDeclList(
+                NoFunctionDeclList(
+                ) [NoFunctionDeclList]
+                FuncDecl(
+                  MethDeclList(
+                    NoMethDeclList(
+                    ) [NoMethDeclList]
+                    MethodType(
+                      Type(
+                       int
+                      ) [Type]
+                      Method(
+                       fun
+                        NoFormParamsList(
+                        ) [NoFormParamsList]
+                        NoVarDeclarList(
+                        ) [NoVarDeclarList]
+                      ) [Method]
+                    ) [MethodType]
+                  ) [MethDeclList]
+                ) [FuncDecl]
+              ) [FunctionDeclList]
+            ) [ClassDeclar]
+          ) [ClassDeclaration]
+        ) [DeclarationList]
+        ClassDeclaration(
+          ClassExtDeclar(
+           Klasa
+            Type(
+             UpperKlasa
+            ) [Type]
+            VarDeclarList(
+              VarDeclarList(
+                NoVarDeclarList(
+                ) [NoVarDeclarList]
+                VarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  OneVar(
+                    ArrayVariable(
+                      ArrayVariable(
+                        ArrayVariable(
+                          OneVariable(
+                           y
+                          ) [OneVariable]
+                        ) [ArrayVariable]
+                      ) [ArrayVariable]
+                    ) [ArrayVariable]
+                  ) [OneVar]
+                ) [VarDecl]
+              ) [VarDeclarList]
+              VarDecl(
+                Type(
+                 char
+                ) [Type]
+                OneVar(
+                  OneVariable(
+                   b
+                  ) [OneVariable]
+                ) [OneVar]
+              ) [VarDecl]
+            ) [VarDeclarList]
+            NoFunctionDeclList(
+            ) [NoFunctionDeclList]
+          ) [ClassExtDeclar]
+        ) [ClassDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          Vars(
+            OneVar(
+              OneVariable(
+               x
+              ) [OneVariable]
+            ) [OneVar]
+            ArrayVariable(
+              OneVariable(
+               y
+              ) [OneVariable]
+            ) [ArrayVariable]
+          ) [Vars]
+        ) [VarDecl]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    ConstDeclaration(
+      ConstDecl(
+        Type(
+         bool
+        ) [Type]
+        ConstBoolDeclarList(
+          OneConstBoolDecl(
+           y
+           true
+          ) [OneConstBoolDecl]
+        ) [ConstBoolDeclarList]
+      ) [ConstDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    MethDeclList(
+      NoMethDeclList(
+      ) [NoMethDeclList]
+      MethodType(
+        Type(
+         int
+        ) [Type]
+        Method(
+         fun
+          FormParamsList(
+            NoFormParamsList(
+            ) [NoFormParamsList]
+            FormParam(
+              FormParameter(
+                FormParameter(
+                  FormParameter(
+                    FormParameter(
+                      FormParameterArray(
+                        Type(
+                         int
+                        ) [Type]
+                       x
+                      ) [FormParameterArray]
+                    ) [FormParameter]
+                  ) [FormParameter]
+                ) [FormParameter]
+              ) [FormParameter]
+            ) [FormParam]
+          ) [FormParamsList]
+          NoVarDeclarList(
+          ) [NoVarDeclarList]
+        ) [Method]
+      ) [MethodType]
+    ) [MethDeclList]
+    MethodVoid(
+      Method(
+       fun
+        FormParamsList(
+          NoFormParamsList(
+          ) [NoFormParamsList]
+          FormParams(
+            FormParams(
+              FormParam(
+                FormParameterArray(
+                  Type(
+                   int
+                  ) [Type]
+                 x
+                ) [FormParameterArray]
+              ) [FormParam]
+              FormParameterArray(
+                Type(
+                 char
+                ) [Type]
+               y
+              ) [FormParameterArray]
+            ) [FormParams]
+            FormParameterArray(
+              Type(
+               bool
+              ) [Type]
+             z
+            ) [FormParameterArray]
+          ) [FormParams]
+        ) [FormParamsList]
+        VarDeclarList(
+          VarDeclarList(
+            NoVarDeclarList(
+            ) [NoVarDeclarList]
+            VarDecl(
+              Type(
+               bool
+              ) [Type]
+              Vars(
+                OneVar(
+                  OneVariable(
+                   y
+                  ) [OneVariable]
+                ) [OneVar]
+                ArrayVariable(
+                  OneVariable(
+                   z
+                  ) [OneVariable]
+                ) [ArrayVariable]
+              ) [Vars]
+            ) [VarDecl]
+          ) [VarDeclarList]
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            Vars(
+              OneVar(
+                OneVariable(
+                 x
+                ) [OneVariable]
+              ) [OneVar]
+              OneVariable(
+               t
+              ) [OneVariable]
+            ) [Vars]
+          ) [VarDecl]
+        ) [VarDeclarList]
+      ) [Method]
+    ) [MethodVoid]
+  ) [MethDeclList]
+) [Program]
+INFO  23:56:43,191 - ===================================

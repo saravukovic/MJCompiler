@@ -1,0 +1,200 @@
+INFO  23:26:02,886 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  23:26:02,971 - #2 program
+INFO  23:26:02,971 - #45 mojProgram
+INFO  23:26:02,972 - #4 class
+INFO  23:26:02,973 - #45 Klasa
+INFO  23:26:02,973 - #42 {
+INFO  23:26:02,973 - #45 int
+INFO  23:26:02,974 - #45 y
+INFO  23:26:02,976 - #33 ;
+INFO  23:26:02,976 - #42 {
+INFO  23:26:02,977 - #45 int
+INFO  23:26:02,978 - #45 fun
+INFO  23:26:02,979 - #37 (
+INFO  23:26:02,980 - #38 )
+INFO  23:26:02,981 - #42 {
+INFO  23:26:02,982 - #12 return
+INFO  23:26:02,983 - #44 3
+INFO  23:26:02,983 - #33 ;
+INFO  23:26:02,983 - #43 }
+INFO  23:26:02,984 - #43 }
+INFO  23:26:02,985 - #43 }
+INFO  23:26:02,986 - #45 int
+INFO  23:26:02,987 - #45 a
+INFO  23:26:02,998 - #33 ;
+INFO  23:26:02,998 - #45 a
+INFO  23:26:02,999 - #30 =
+ERROR 23:26:02,999 - 
+Sintaksna greska na liniji 9
+INFO  23:26:02,999 - #44 1
+INFO  23:26:02,999 - #33 ;
+INFO  23:26:02,999 - #42 {
+INFO  23:26:03,000 - #45 int
+INFO  23:26:03,000 - #45 fun
+INFO  23:26:03,000 - #37 (
+ERROR 23:26:03,001 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 8
+INFO  23:26:03,002 - #45 int
+INFO  23:26:03,002 - #45 x
+INFO  23:26:03,003 - #39 [
+INFO  23:26:03,003 - #40 ]
+INFO  23:26:03,003 - #39 [
+INFO  23:26:03,003 - #40 ]
+INFO  23:26:03,003 - #38 )
+INFO  23:26:03,003 - #42 {
+INFO  23:26:03,004 - #12 return
+INFO  23:26:03,004 - #45 a
+INFO  23:26:03,004 - #33 ;
+INFO  23:26:03,004 - #43 }
+INFO  23:26:03,004 - #43 }
+INFO  23:26:03,018 - Program(
+  ProgramName(
+   mojProgram
+  ) [ProgramName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        NoDecl(
+        ) [NoDecl]
+        ClassDeclaration(
+          ClassDecl(
+            ClassNameNoExt(
+             Klasa
+            ) [ClassNameNoExt]
+            ClassVarDeclarList(
+              NoClassVarDeclarList(
+              ) [NoClassVarDeclarList]
+              ClassVarDeclar(
+                ClassVarDeclType(
+                  Type(
+                   int
+                  ) [Type]
+                ) [ClassVarDeclType]
+                OneClassVar(
+                  OneClassVariable(
+                   y
+                  ) [OneClassVariable]
+                ) [OneClassVar]
+              ) [ClassVarDeclar]
+            ) [ClassVarDeclarList]
+            FunctionDeclList(
+              NoFunctionDeclList(
+              ) [NoFunctionDeclList]
+              FuncDecl(
+                ClassMethDeclList(
+                  NoClassMethDeclList(
+                  ) [NoClassMethDeclList]
+                  ClassMethodType(
+                    Method(
+                      MethDeclTypeAndName(
+                        MethodType(
+                          Type(
+                           int
+                          ) [Type]
+                        ) [MethodType]
+                       fun
+                      ) [MethDeclTypeAndName]
+                      NoFormParamsList(
+                      ) [NoFormParamsList]
+                      NoVarDeclarList(
+                      ) [NoVarDeclarList]
+                      StmtList(
+                        NoStmt(
+                        ) [NoStmt]
+                        MatchedStm(
+                          ReturnStm(
+                            Expression(
+                              OneTerm(
+                                OneFactor(
+                                  FactNum(
+                                   3
+                                  ) [FactNum]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [Expression]
+                          ) [ReturnStm]
+                        ) [MatchedStm]
+                      ) [StmtList]
+                    ) [Method]
+                  ) [ClassMethodType]
+                ) [ClassMethDeclList]
+              ) [FuncDecl]
+            ) [FunctionDeclList]
+          ) [ClassDecl]
+        ) [ClassDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          OneVar(
+            OneVariable(
+             a
+            ) [OneVariable]
+          ) [OneVar]
+        ) [VarDeclar]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      ErrVarDeclarSEMI(
+      ) [ErrVarDeclarSEMI]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    NoMethDeclList(
+    ) [NoMethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodType(
+          Type(
+           int
+          ) [Type]
+        ) [MethodType]
+       fun
+      ) [MethDeclTypeAndName]
+      FormParamsList(
+        NoFormParamsList(
+        ) [NoFormParamsList]
+        FormParam(
+          FormParameterMatrix(
+            Type(
+             int
+            ) [Type]
+           x
+          ) [FormParameterMatrix]
+        ) [FormParam]
+      ) [FormParamsList]
+      NoVarDeclarList(
+      ) [NoVarDeclarList]
+      StmtList(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStm(
+          ReturnStm(
+            Expression(
+              OneTerm(
+                OneFactor(
+                  FactDesign(
+                    Design(
+                     a
+                    ) [Design]
+                  ) [FactDesign]
+                ) [OneFactor]
+              ) [OneTerm]
+            ) [Expression]
+          ) [ReturnStm]
+        ) [MatchedStm]
+      ) [StmtList]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  23:26:03,019 - ===================================
+INFO  23:26:03,026 - Obradjuje se klasa Klasa na liniji 2
+INFO  23:26:03,026 - Definisana je promenljiva y na liniji 3
+INFO  23:26:03,027 - Obradjuje se funkcija fun na liniji 5
+INFO  23:26:03,028 - Definisana je promenljiva a na liniji 8
+INFO  23:26:03,028 - Obradjuje se funkcija fun na liniji 11
+INFO  23:26:03,028 - Definisan je formalni argument x na liniji 11
+INFO  23:26:03,029 - Pristup promenljivoj a na liniji 11
+INFO  23:26:03,029 - ===================================
+INFO  23:26:03,030 - Parsiranje uspesno zavrseno!

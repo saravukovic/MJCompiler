@@ -1,0 +1,252 @@
+INFO  21:49:13,196 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  21:49:13,242 - #2 program
+INFO  21:49:13,242 - #45 test302
+INFO  21:49:13,242 - #6 const
+INFO  21:49:13,243 - #45 int
+INFO  21:49:13,243 - #45 jedan
+INFO  21:49:13,244 - #30 =
+INFO  21:49:13,244 - #44 1
+INFO  21:49:13,244 - #33 ;
+INFO  21:49:13,245 - #45 int
+INFO  21:49:13,246 - #45 i
+INFO  21:49:13,246 - #33 ;
+INFO  21:49:13,246 - #45 bool
+INFO  21:49:13,246 - #45 ibool
+INFO  21:49:13,246 - #33 ;
+INFO  21:49:13,246 - #45 int
+INFO  21:49:13,246 - #45 niz2
+INFO  21:49:13,246 - #39 [
+INFO  21:49:13,247 - #40 ]
+INFO  21:49:13,247 - #33 ;
+INFO  21:49:13,247 - #45 int
+INFO  21:49:13,247 - #45 niz
+INFO  21:49:13,247 - #39 [
+INFO  21:49:13,247 - #40 ]
+INFO  21:49:13,247 - #33 ;
+INFO  21:49:13,247 - #45 int
+INFO  21:49:13,247 - #45 a
+INFO  21:49:13,247 - #35 ,
+INFO  21:49:13,247 - #45 curr
+INFO  21:49:13,247 - #33 ;
+INFO  21:49:13,248 - #42 {
+INFO  21:49:13,248 - #13 void
+INFO  21:49:13,248 - #45 main
+INFO  21:49:13,249 - #37 (
+INFO  21:49:13,249 - #38 )
+INFO  21:49:13,250 - #42 {
+INFO  21:49:13,250 - #7 if
+INFO  21:49:13,251 - #37 (
+INFO  21:49:13,251 - #44 1
+INFO  21:49:13,251 - #23 !=
+INFO  21:49:13,252 - #44 1
+INFO  21:49:13,253 - #38 )
+INFO  21:49:13,254 - #10 print
+INFO  21:49:13,254 - #37 (
+INFO  21:49:13,254 - #18 -
+INFO  21:49:13,254 - #44 6
+INFO  21:49:13,254 - #38 )
+INFO  21:49:13,254 - #33 ;
+INFO  21:49:13,255 - #5 else
+INFO  21:49:13,255 - #10 print
+INFO  21:49:13,255 - #37 (
+INFO  21:49:13,255 - #44 0
+INFO  21:49:13,256 - #38 )
+INFO  21:49:13,256 - #33 ;
+INFO  21:49:13,256 - #43 }
+INFO  21:49:13,256 - #43 }
+INFO  21:49:13,266 - Program(
+  ProgramName(
+   test302
+  ) [ProgramName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              NoDecl(
+              ) [NoDecl]
+              ConstDeclaration(
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  SingleConstDecl(
+                   jedan
+                    IntConstant(
+                     1
+                    ) [IntConstant]
+                  ) [SingleConstDecl]
+                  NoConstDeclarList(
+                  ) [NoConstDeclarList]
+                ) [ConstDecl]
+              ) [ConstDeclaration]
+            ) [DeclarationList]
+            VarDeclaration(
+              VarDeclar(
+                Type(
+                 int
+                ) [Type]
+                OneVar(
+                  OneVariable(
+                   i
+                  ) [OneVariable]
+                ) [OneVar]
+              ) [VarDeclar]
+            ) [VarDeclaration]
+          ) [DeclarationList]
+          VarDeclaration(
+            VarDeclar(
+              Type(
+               bool
+              ) [Type]
+              OneVar(
+                OneVariable(
+                 ibool
+                ) [OneVariable]
+              ) [OneVar]
+            ) [VarDeclar]
+          ) [VarDeclaration]
+        ) [DeclarationList]
+        VarDeclaration(
+          VarDeclar(
+            Type(
+             int
+            ) [Type]
+            OneVar(
+              ArrayVariable(
+               niz2
+              ) [ArrayVariable]
+            ) [OneVar]
+          ) [VarDeclar]
+        ) [VarDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          OneVar(
+            ArrayVariable(
+             niz
+            ) [ArrayVariable]
+          ) [OneVar]
+        ) [VarDeclar]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDeclar(
+        Type(
+         int
+        ) [Type]
+        Vars(
+          OneVar(
+            OneVariable(
+             a
+            ) [OneVariable]
+          ) [OneVar]
+          OneVariable(
+           curr
+          ) [OneVariable]
+        ) [Vars]
+      ) [VarDeclar]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    NoMethDeclList(
+    ) [NoMethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethDeclTypeAndName]
+      NoFormParamsList(
+      ) [NoFormParamsList]
+      NoVarDeclarList(
+      ) [NoVarDeclarList]
+      StmtList(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStm(
+          MatchedIfElseStatement(
+            IfStart(
+            ) [IfStart]
+            IfCond(
+              OneCondition(
+                OneCondTerm(
+                  CondFacts(
+                    Expression(
+                      OneTerm(
+                        OneFactor(
+                          FactNum(
+                           1
+                          ) [FactNum]
+                        ) [OneFactor]
+                      ) [OneTerm]
+                    ) [Expression]
+                    NotEqualTo(
+                    ) [NotEqualTo]
+                    Expression(
+                      OneTerm(
+                        OneFactor(
+                          FactNum(
+                           1
+                          ) [FactNum]
+                        ) [OneFactor]
+                      ) [OneTerm]
+                    ) [Expression]
+                  ) [CondFacts]
+                ) [OneCondTerm]
+              ) [OneCondition]
+              CheckOrCond(
+              ) [CheckOrCond]
+            ) [IfCond]
+            PrintStm(
+              NegativeExpression(
+                Expression(
+                  OneTerm(
+                    OneFactor(
+                      FactNum(
+                       6
+                      ) [FactNum]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [Expression]
+              ) [NegativeExpression]
+              NoNumConstant(
+              ) [NoNumConstant]
+            ) [PrintStm]
+            ElseStart(
+            ) [ElseStart]
+            PrintStm(
+              Expression(
+                OneTerm(
+                  OneFactor(
+                    FactNum(
+                     0
+                    ) [FactNum]
+                  ) [OneFactor]
+                ) [OneTerm]
+              ) [Expression]
+              NoNumConstant(
+              ) [NoNumConstant]
+            ) [PrintStm]
+          ) [MatchedIfElseStatement]
+        ) [MatchedStm]
+      ) [StmtList]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  21:49:13,266 - ===================================
+INFO  21:49:13,271 - Definisana je konstanta jedan cija je vrednost = 1 na liniji 5
+INFO  21:49:13,271 - Definisana je promenljiva i na liniji 7
+INFO  21:49:13,271 - Definisana je promenljiva ibool na liniji 8
+INFO  21:49:13,271 - Definisan je niz niz2 na liniji 10
+INFO  21:49:13,271 - Definisan je niz niz na liniji 12
+INFO  21:49:13,271 - Definisana je promenljiva a na liniji 13
+INFO  21:49:13,271 - Definisana je promenljiva curr na liniji 13
+INFO  21:49:13,271 - Obradjuje se funkcija main na liniji 19
+INFO  21:49:13,272 - ===================================
+INFO  21:49:13,272 - Parsiranje uspesno zavrseno!
+INFO  21:49:13,277 - Generisanje koda uspesno zavrseno!

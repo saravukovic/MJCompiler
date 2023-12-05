@@ -1,0 +1,32 @@
+INFO  20:28:36,699 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  20:28:36,714 - #2 program
+INFO  20:28:36,714 - #45 mojProgram
+INFO  20:28:36,714 - #6 const
+INFO  20:28:36,716 - #45 int
+INFO  20:28:36,716 - #45 x
+INFO  20:28:36,717 - #30 =
+INFO  20:28:36,718 - #44 10
+INFO  20:28:36,718 - #33 ;
+INFO  20:28:36,718 - #42 {
+INFO  20:28:36,720 - #43 }
+INFO  20:28:36,723 - Program(
+ mojProgram
+  DeclarationList(
+    NoDecl(
+    ) [NoDecl]
+    ConstDeclaration(
+      ConstDecl(
+        Type(
+         int
+        ) [Type]
+        OneConstDecl(
+          ConstNum(
+           x
+           10
+          ) [ConstNum]
+        ) [OneConstDecl]
+      ) [ConstDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationList]
+) [Program]
+INFO  20:28:36,733 - ===================================

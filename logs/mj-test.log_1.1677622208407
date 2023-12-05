@@ -1,0 +1,130 @@
+INFO  23:08:57,440 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  23:08:57,452 - #2 program
+INFO  23:08:57,452 - #45 mojProgram
+INFO  23:08:57,452 - #4 class
+INFO  23:08:57,452 - #45 Klasa
+INFO  23:08:57,453 - #42 {
+INFO  23:08:57,453 - #43 }
+INFO  23:08:57,453 - #4 class
+INFO  23:08:57,453 - #45 Klasa
+INFO  23:08:57,454 - #14 extends
+INFO  23:08:57,454 - #45 UpperKlasa
+INFO  23:08:57,454 - #42 {
+INFO  23:08:57,454 - #43 }
+INFO  23:08:57,454 - #4 class
+INFO  23:08:57,454 - #45 Klasa
+INFO  23:08:57,454 - #42 {
+INFO  23:08:57,455 - #45 int
+INFO  23:08:57,455 - #45 y
+INFO  23:08:57,455 - #33 ;
+INFO  23:08:57,455 - #43 }
+INFO  23:08:57,455 - #4 class
+INFO  23:08:57,456 - #45 Klasa
+INFO  23:08:57,466 - #14 extends
+INFO  23:08:57,466 - #45 UpperKlasa
+INFO  23:08:57,466 - #42 {
+INFO  23:08:57,466 - #45 int
+INFO  23:08:57,466 - #45 y
+INFO  23:08:57,466 - #39 [
+INFO  23:08:57,466 - #40 ]
+INFO  23:08:57,466 - #39 [
+INFO  23:08:57,467 - #40 ]
+INFO  23:08:57,467 - #39 [
+INFO  23:08:57,467 - #40 ]
+INFO  23:08:57,467 - #33 ;
+INFO  23:08:57,467 - #45 char
+INFO  23:08:57,467 - #45 b
+INFO  23:08:57,467 - #33 ;
+INFO  23:08:57,467 - #43 }
+INFO  23:08:57,467 - #42 {
+INFO  23:08:57,467 - #43 }
+INFO  23:08:57,468 - Program(
+ mojProgram
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          NoDecl(
+          ) [NoDecl]
+          ClassDeclaration(
+            ClassDeclar(
+             Klasa
+              NoVarDeclarList(
+              ) [NoVarDeclarList]
+            ) [ClassDeclar]
+          ) [ClassDeclaration]
+        ) [DeclarationList]
+        ClassDeclaration(
+          ClassExtDeclar(
+           Klasa
+            Type(
+             UpperKlasa
+            ) [Type]
+            NoVarDeclarList(
+            ) [NoVarDeclarList]
+          ) [ClassExtDeclar]
+        ) [ClassDeclaration]
+      ) [DeclarationList]
+      ClassDeclaration(
+        ClassDeclar(
+         Klasa
+          VarDeclarList(
+            NoVarDeclarList(
+            ) [NoVarDeclarList]
+            VarDecl(
+              Type(
+               int
+              ) [Type]
+              OneVar(
+                OneVariable(
+                 y
+                ) [OneVariable]
+              ) [OneVar]
+            ) [VarDecl]
+          ) [VarDeclarList]
+        ) [ClassDeclar]
+      ) [ClassDeclaration]
+    ) [DeclarationList]
+    ClassDeclaration(
+      ClassExtDeclar(
+       Klasa
+        Type(
+         UpperKlasa
+        ) [Type]
+        VarDeclarList(
+          VarDeclarList(
+            NoVarDeclarList(
+            ) [NoVarDeclarList]
+            VarDecl(
+              Type(
+               int
+              ) [Type]
+              OneVar(
+                ArrayVariable(
+                  ArrayVariable(
+                    ArrayVariable(
+                      OneVariable(
+                       y
+                      ) [OneVariable]
+                    ) [ArrayVariable]
+                  ) [ArrayVariable]
+                ) [ArrayVariable]
+              ) [OneVar]
+            ) [VarDecl]
+          ) [VarDeclarList]
+          VarDecl(
+            Type(
+             char
+            ) [Type]
+            OneVar(
+              OneVariable(
+               b
+              ) [OneVariable]
+            ) [OneVar]
+          ) [VarDecl]
+        ) [VarDeclarList]
+      ) [ClassExtDeclar]
+    ) [ClassDeclaration]
+  ) [DeclarationList]
+) [Program]
+INFO  23:08:57,468 - ===================================

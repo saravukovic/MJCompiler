@@ -1,0 +1,197 @@
+INFO  23:49:00,158 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  23:49:00,191 - #2 program
+INFO  23:49:00,192 - #45 mojProgram
+INFO  23:49:00,192 - #4 class
+INFO  23:49:00,193 - #45 Klasa
+INFO  23:49:00,193 - #42 {
+INFO  23:49:00,193 - #43 }
+INFO  23:49:00,195 - #4 class
+INFO  23:49:00,196 - #45 Klasa
+INFO  23:49:00,196 - #14 extends
+INFO  23:49:00,196 - #45 UpperKlasa
+INFO  23:49:00,196 - #42 {
+INFO  23:49:00,197 - #43 }
+INFO  23:49:00,198 - #4 class
+INFO  23:49:00,198 - #45 Klasa
+INFO  23:49:00,198 - #42 {
+INFO  23:49:00,198 - #45 int
+INFO  23:49:00,198 - #45 y
+INFO  23:49:00,199 - #33 ;
+INFO  23:49:00,199 - #42 {
+INFO  23:49:00,200 - #43 }
+INFO  23:49:00,201 - #43 }
+INFO  23:49:00,203 - #4 class
+INFO  23:49:00,203 - #45 Klasa
+INFO  23:49:00,203 - #14 extends
+INFO  23:49:00,203 - #45 UpperKlasa
+INFO  23:49:00,204 - #42 {
+INFO  23:49:00,204 - #45 int
+INFO  23:49:00,204 - #45 y
+INFO  23:49:00,204 - #39 [
+INFO  23:49:00,204 - #40 ]
+INFO  23:49:00,204 - #39 [
+INFO  23:49:00,204 - #40 ]
+INFO  23:49:00,205 - #39 [
+INFO  23:49:00,205 - #40 ]
+INFO  23:49:00,205 - #33 ;
+INFO  23:49:00,205 - #45 char
+INFO  23:49:00,205 - #45 b
+INFO  23:49:00,205 - #33 ;
+INFO  23:49:00,205 - #43 }
+INFO  23:49:00,205 - #45 int
+INFO  23:49:00,205 - #45 x
+INFO  23:49:00,205 - #35 ,
+INFO  23:49:00,206 - #45 y
+INFO  23:49:00,206 - #39 [
+INFO  23:49:00,206 - #40 ]
+INFO  23:49:00,206 - #33 ;
+INFO  23:49:00,207 - #6 const
+INFO  23:49:00,207 - #45 bool
+INFO  23:49:00,207 - #45 y
+INFO  23:49:00,208 - #30 =
+INFO  23:49:00,208 - #47 true
+INFO  23:49:00,208 - #33 ;
+INFO  23:49:00,208 - #42 {
+INFO  23:49:00,209 - #43 }
+INFO  23:49:00,212 - Program(
+ mojProgram
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              NoDecl(
+              ) [NoDecl]
+              ClassDeclaration(
+                ClassDeclar(
+                 Klasa
+                  NoVarDeclarList(
+                  ) [NoVarDeclarList]
+                  NoFunctionDeclList(
+                  ) [NoFunctionDeclList]
+                ) [ClassDeclar]
+              ) [ClassDeclaration]
+            ) [DeclarationList]
+            ClassDeclaration(
+              ClassExtDeclar(
+               Klasa
+                Type(
+                 UpperKlasa
+                ) [Type]
+                NoVarDeclarList(
+                ) [NoVarDeclarList]
+                NoFunctionDeclList(
+                ) [NoFunctionDeclList]
+              ) [ClassExtDeclar]
+            ) [ClassDeclaration]
+          ) [DeclarationList]
+          ClassDeclaration(
+            ClassDeclar(
+             Klasa
+              VarDeclarList(
+                NoVarDeclarList(
+                ) [NoVarDeclarList]
+                VarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  OneVar(
+                    OneVariable(
+                     y
+                    ) [OneVariable]
+                  ) [OneVar]
+                ) [VarDecl]
+              ) [VarDeclarList]
+              FunctionDeclList(
+                NoFunctionDeclList(
+                ) [NoFunctionDeclList]
+                FuncDecl(
+                  NoMethDeclList(
+                  ) [NoMethDeclList]
+                ) [FuncDecl]
+              ) [FunctionDeclList]
+            ) [ClassDeclar]
+          ) [ClassDeclaration]
+        ) [DeclarationList]
+        ClassDeclaration(
+          ClassExtDeclar(
+           Klasa
+            Type(
+             UpperKlasa
+            ) [Type]
+            VarDeclarList(
+              VarDeclarList(
+                NoVarDeclarList(
+                ) [NoVarDeclarList]
+                VarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  OneVar(
+                    ArrayVariable(
+                      ArrayVariable(
+                        ArrayVariable(
+                          OneVariable(
+                           y
+                          ) [OneVariable]
+                        ) [ArrayVariable]
+                      ) [ArrayVariable]
+                    ) [ArrayVariable]
+                  ) [OneVar]
+                ) [VarDecl]
+              ) [VarDeclarList]
+              VarDecl(
+                Type(
+                 char
+                ) [Type]
+                OneVar(
+                  OneVariable(
+                   b
+                  ) [OneVariable]
+                ) [OneVar]
+              ) [VarDecl]
+            ) [VarDeclarList]
+            NoFunctionDeclList(
+            ) [NoFunctionDeclList]
+          ) [ClassExtDeclar]
+        ) [ClassDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          Vars(
+            OneVar(
+              OneVariable(
+               x
+              ) [OneVariable]
+            ) [OneVar]
+            ArrayVariable(
+              OneVariable(
+               y
+              ) [OneVariable]
+            ) [ArrayVariable]
+          ) [Vars]
+        ) [VarDecl]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    ConstDeclaration(
+      ConstDecl(
+        Type(
+         bool
+        ) [Type]
+        ConstBoolDeclarList(
+          OneConstBoolDecl(
+           y
+           true
+          ) [OneConstBoolDecl]
+        ) [ConstBoolDeclarList]
+      ) [ConstDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationList]
+  NoMethDeclList(
+  ) [NoMethDeclList]
+) [Program]
+INFO  23:49:00,213 - ===================================

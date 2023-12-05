@@ -1,0 +1,71 @@
+INFO  23:10:08,409 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  23:10:08,421 - #2 program
+INFO  23:10:08,421 - #45 mojProgram
+INFO  23:10:08,421 - #4 class
+INFO  23:10:08,421 - #45 Klasa
+INFO  23:10:08,421 - #14 extends
+INFO  23:10:08,421 - #45 UpperKlasa
+INFO  23:10:08,421 - #42 {
+INFO  23:10:08,422 - #45 int
+INFO  23:10:08,422 - #45 y
+INFO  23:10:08,422 - #39 [
+INFO  23:10:08,423 - #40 ]
+INFO  23:10:08,423 - #39 [
+INFO  23:10:08,423 - #40 ]
+INFO  23:10:08,423 - #39 [
+INFO  23:10:08,423 - #40 ]
+INFO  23:10:08,423 - #33 ;
+INFO  23:10:08,423 - #45 char
+INFO  23:10:08,424 - #45 b
+INFO  23:10:08,424 - #33 ;
+INFO  23:10:08,424 - #43 }
+INFO  23:10:08,424 - #42 {
+INFO  23:10:08,424 - #43 }
+INFO  23:10:08,436 - Program(
+ mojProgram
+  DeclarationList(
+    NoDecl(
+    ) [NoDecl]
+    ClassDeclaration(
+      ClassExtDeclar(
+       Klasa
+        Type(
+         UpperKlasa
+        ) [Type]
+        VarDeclarList(
+          VarDeclarList(
+            NoVarDeclarList(
+            ) [NoVarDeclarList]
+            VarDecl(
+              Type(
+               int
+              ) [Type]
+              OneVar(
+                ArrayVariable(
+                  ArrayVariable(
+                    ArrayVariable(
+                      OneVariable(
+                       y
+                      ) [OneVariable]
+                    ) [ArrayVariable]
+                  ) [ArrayVariable]
+                ) [ArrayVariable]
+              ) [OneVar]
+            ) [VarDecl]
+          ) [VarDeclarList]
+          VarDecl(
+            Type(
+             char
+            ) [Type]
+            OneVar(
+              OneVariable(
+               b
+              ) [OneVariable]
+            ) [OneVar]
+          ) [VarDecl]
+        ) [VarDeclarList]
+      ) [ClassExtDeclar]
+    ) [ClassDeclaration]
+  ) [DeclarationList]
+) [Program]
+INFO  23:10:08,436 - ===================================

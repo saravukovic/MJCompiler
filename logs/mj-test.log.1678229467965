@@ -1,0 +1,295 @@
+INFO  23:50:30,778 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  23:50:30,808 - #2 program
+INFO  23:50:30,808 - #45 mojProgram
+INFO  23:50:30,808 - #4 class
+INFO  23:50:30,809 - #45 Klasa
+INFO  23:50:30,809 - #42 {
+INFO  23:50:30,810 - #43 }
+INFO  23:50:30,811 - #4 class
+INFO  23:50:30,812 - #45 Klasa
+INFO  23:50:30,812 - #14 extends
+INFO  23:50:30,812 - #45 UpperKlasa
+INFO  23:50:30,812 - #42 {
+INFO  23:50:30,813 - #43 }
+INFO  23:50:30,813 - #4 class
+INFO  23:50:30,814 - #45 Klasa
+INFO  23:50:30,814 - #42 {
+INFO  23:50:30,814 - #45 int
+INFO  23:50:30,814 - #45 y
+INFO  23:50:30,814 - #33 ;
+INFO  23:50:30,814 - #42 {
+INFO  23:50:30,816 - #45 int
+INFO  23:50:30,817 - #45 fun
+INFO  23:50:30,828 - #37 (
+INFO  23:50:30,828 - #38 )
+INFO  23:50:30,828 - #42 {
+INFO  23:50:30,828 - #43 }
+INFO  23:50:30,828 - #43 }
+INFO  23:50:30,830 - #43 }
+INFO  23:50:30,831 - #4 class
+INFO  23:50:30,831 - #45 Klasa
+INFO  23:50:30,831 - #14 extends
+INFO  23:50:30,832 - #45 UpperKlasa
+INFO  23:50:30,832 - #42 {
+INFO  23:50:30,832 - #45 int
+INFO  23:50:30,832 - #45 y
+INFO  23:50:30,832 - #39 [
+INFO  23:50:30,832 - #40 ]
+INFO  23:50:30,832 - #39 [
+INFO  23:50:30,832 - #40 ]
+INFO  23:50:30,832 - #39 [
+INFO  23:50:30,833 - #40 ]
+INFO  23:50:30,833 - #33 ;
+INFO  23:50:30,833 - #45 char
+INFO  23:50:30,833 - #45 b
+INFO  23:50:30,833 - #33 ;
+INFO  23:50:30,833 - #43 }
+INFO  23:50:30,833 - #45 int
+INFO  23:50:30,833 - #45 x
+INFO  23:50:30,833 - #35 ,
+INFO  23:50:30,833 - #45 y
+INFO  23:50:30,834 - #39 [
+INFO  23:50:30,834 - #40 ]
+INFO  23:50:30,834 - #33 ;
+INFO  23:50:30,834 - #6 const
+INFO  23:50:30,834 - #45 bool
+INFO  23:50:30,834 - #45 y
+INFO  23:50:30,834 - #30 =
+INFO  23:50:30,835 - #47 true
+INFO  23:50:30,835 - #33 ;
+INFO  23:50:30,835 - #42 {
+INFO  23:50:30,836 - #45 int
+INFO  23:50:30,837 - #45 fun
+INFO  23:50:30,837 - #37 (
+INFO  23:50:30,837 - #38 )
+INFO  23:50:30,837 - #42 {
+INFO  23:50:30,837 - #43 }
+INFO  23:50:30,837 - #45 int
+INFO  23:50:30,837 - #45 fun
+INFO  23:50:30,837 - #37 (
+INFO  23:50:30,837 - #38 )
+INFO  23:50:30,837 - #45 bool
+INFO  23:50:30,837 - #45 y
+INFO  23:50:30,838 - #35 ,
+INFO  23:50:30,838 - #45 z
+INFO  23:50:30,838 - #33 ;
+INFO  23:50:30,838 - #45 int
+INFO  23:50:30,838 - #45 x
+INFO  23:50:30,838 - #35 ,
+INFO  23:50:30,838 - #45 t
+INFO  23:50:30,838 - #33 ;
+INFO  23:50:30,838 - #42 {
+INFO  23:50:30,838 - #43 }
+INFO  23:50:30,838 - #43 }
+INFO  23:50:30,845 - Program(
+ mojProgram
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              NoDecl(
+              ) [NoDecl]
+              ClassDeclaration(
+                ClassDeclar(
+                 Klasa
+                  NoVarDeclarList(
+                  ) [NoVarDeclarList]
+                  NoFunctionDeclList(
+                  ) [NoFunctionDeclList]
+                ) [ClassDeclar]
+              ) [ClassDeclaration]
+            ) [DeclarationList]
+            ClassDeclaration(
+              ClassExtDeclar(
+               Klasa
+                Type(
+                 UpperKlasa
+                ) [Type]
+                NoVarDeclarList(
+                ) [NoVarDeclarList]
+                NoFunctionDeclList(
+                ) [NoFunctionDeclList]
+              ) [ClassExtDeclar]
+            ) [ClassDeclaration]
+          ) [DeclarationList]
+          ClassDeclaration(
+            ClassDeclar(
+             Klasa
+              VarDeclarList(
+                NoVarDeclarList(
+                ) [NoVarDeclarList]
+                VarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  OneVar(
+                    OneVariable(
+                     y
+                    ) [OneVariable]
+                  ) [OneVar]
+                ) [VarDecl]
+              ) [VarDeclarList]
+              FunctionDeclList(
+                NoFunctionDeclList(
+                ) [NoFunctionDeclList]
+                FuncDecl(
+                  MethDeclList(
+                    NoMethDeclList(
+                    ) [NoMethDeclList]
+                    MethodType(
+                      Type(
+                       int
+                      ) [Type]
+                      Method(
+                       fun
+                        NoVarDeclarList(
+                        ) [NoVarDeclarList]
+                      ) [Method]
+                    ) [MethodType]
+                  ) [MethDeclList]
+                ) [FuncDecl]
+              ) [FunctionDeclList]
+            ) [ClassDeclar]
+          ) [ClassDeclaration]
+        ) [DeclarationList]
+        ClassDeclaration(
+          ClassExtDeclar(
+           Klasa
+            Type(
+             UpperKlasa
+            ) [Type]
+            VarDeclarList(
+              VarDeclarList(
+                NoVarDeclarList(
+                ) [NoVarDeclarList]
+                VarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  OneVar(
+                    ArrayVariable(
+                      ArrayVariable(
+                        ArrayVariable(
+                          OneVariable(
+                           y
+                          ) [OneVariable]
+                        ) [ArrayVariable]
+                      ) [ArrayVariable]
+                    ) [ArrayVariable]
+                  ) [OneVar]
+                ) [VarDecl]
+              ) [VarDeclarList]
+              VarDecl(
+                Type(
+                 char
+                ) [Type]
+                OneVar(
+                  OneVariable(
+                   b
+                  ) [OneVariable]
+                ) [OneVar]
+              ) [VarDecl]
+            ) [VarDeclarList]
+            NoFunctionDeclList(
+            ) [NoFunctionDeclList]
+          ) [ClassExtDeclar]
+        ) [ClassDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          Vars(
+            OneVar(
+              OneVariable(
+               x
+              ) [OneVariable]
+            ) [OneVar]
+            ArrayVariable(
+              OneVariable(
+               y
+              ) [OneVariable]
+            ) [ArrayVariable]
+          ) [Vars]
+        ) [VarDecl]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    ConstDeclaration(
+      ConstDecl(
+        Type(
+         bool
+        ) [Type]
+        ConstBoolDeclarList(
+          OneConstBoolDecl(
+           y
+           true
+          ) [OneConstBoolDecl]
+        ) [ConstBoolDeclarList]
+      ) [ConstDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    MethDeclList(
+      NoMethDeclList(
+      ) [NoMethDeclList]
+      MethodType(
+        Type(
+         int
+        ) [Type]
+        Method(
+         fun
+          NoVarDeclarList(
+          ) [NoVarDeclarList]
+        ) [Method]
+      ) [MethodType]
+    ) [MethDeclList]
+    MethodType(
+      Type(
+       int
+      ) [Type]
+      Method(
+       fun
+        VarDeclarList(
+          VarDeclarList(
+            NoVarDeclarList(
+            ) [NoVarDeclarList]
+            VarDecl(
+              Type(
+               bool
+              ) [Type]
+              Vars(
+                OneVar(
+                  OneVariable(
+                   y
+                  ) [OneVariable]
+                ) [OneVar]
+                OneVariable(
+                 z
+                ) [OneVariable]
+              ) [Vars]
+            ) [VarDecl]
+          ) [VarDeclarList]
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            Vars(
+              OneVar(
+                OneVariable(
+                 x
+                ) [OneVariable]
+              ) [OneVar]
+              OneVariable(
+               t
+              ) [OneVariable]
+            ) [Vars]
+          ) [VarDecl]
+        ) [VarDeclarList]
+      ) [Method]
+    ) [MethodType]
+  ) [MethDeclList]
+) [Program]
+INFO  23:50:30,846 - ===================================

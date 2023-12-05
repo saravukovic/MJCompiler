@@ -1,0 +1,2832 @@
+INFO  15:23:26,927 - Compiling source file: C:\pp1\workspace\MJCompiler\test\program.mj
+INFO  15:23:26,981 - #2 program
+INFO  15:23:26,982 - #47 test_303
+INFO  15:23:26,982 - #6 const
+INFO  15:23:26,983 - #47 int
+INFO  15:23:26,983 - #47 cinilac
+INFO  15:23:26,984 - #32 =
+INFO  15:23:26,984 - #46 4
+INFO  15:23:26,984 - #37 ,
+INFO  15:23:26,986 - #47 delilac
+INFO  15:23:26,986 - #32 =
+INFO  15:23:26,986 - #46 3
+INFO  15:23:26,986 - #35 ;
+INFO  15:23:26,986 - #4 class
+INFO  15:23:26,987 - #47 Predmet
+INFO  15:23:26,987 - #44 {
+INFO  15:23:26,988 - #47 int
+INFO  15:23:26,988 - #47 tezina
+INFO  15:23:26,989 - #35 ;
+INFO  15:23:26,990 - #47 char
+INFO  15:23:26,990 - #47 vrsta
+INFO  15:23:26,990 - #35 ;
+INFO  15:23:27,001 - #44 {
+INFO  15:23:27,002 - #13 void
+INFO  15:23:27,003 - #47 postaviTezinu
+INFO  15:23:27,004 - #39 (
+INFO  15:23:27,005 - #47 int
+INFO  15:23:27,005 - #47 tezina
+INFO  15:23:27,005 - #40 )
+INFO  15:23:27,006 - #44 {
+INFO  15:23:27,006 - #47 this
+INFO  15:23:27,007 - #38 .
+INFO  15:23:27,007 - #47 tezina
+INFO  15:23:27,007 - #32 =
+INFO  15:23:27,008 - #47 tezina
+INFO  15:23:27,008 - #35 ;
+INFO  15:23:27,008 - #45 }
+INFO  15:23:27,008 - #13 void
+INFO  15:23:27,009 - #47 ucitajTezinu
+INFO  15:23:27,009 - #39 (
+INFO  15:23:27,009 - #40 )
+INFO  15:23:27,009 - #44 {
+INFO  15:23:27,009 - #11 read
+INFO  15:23:27,009 - #39 (
+INFO  15:23:27,009 - #47 tezina
+INFO  15:23:27,009 - #40 )
+INFO  15:23:27,009 - #35 ;
+INFO  15:23:27,010 - #45 }
+INFO  15:23:27,010 - #47 int
+INFO  15:23:27,010 - #47 zapremina
+INFO  15:23:27,010 - #39 (
+INFO  15:23:27,010 - #40 )
+INFO  15:23:27,010 - #44 {
+INFO  15:23:27,010 - #12 return
+INFO  15:23:27,010 - #46 0
+INFO  15:23:27,011 - #35 ;
+INFO  15:23:27,011 - #45 }
+INFO  15:23:27,011 - #47 int
+INFO  15:23:27,011 - #47 Q
+INFO  15:23:27,011 - #39 (
+INFO  15:23:27,011 - #40 )
+INFO  15:23:27,011 - #44 {
+INFO  15:23:27,011 - #12 return
+INFO  15:23:27,012 - #47 zapremina
+INFO  15:23:27,012 - #39 (
+INFO  15:23:27,013 - #40 )
+INFO  15:23:27,014 - #21 *
+INFO  15:23:27,014 - #47 tezina
+INFO  15:23:27,016 - #35 ;
+INFO  15:23:27,018 - #45 }
+INFO  15:23:27,019 - #13 void
+INFO  15:23:27,019 - #47 postaviVrstu
+INFO  15:23:27,019 - #39 (
+INFO  15:23:27,019 - #47 char
+INFO  15:23:27,019 - #47 vrsta
+INFO  15:23:27,019 - #40 )
+INFO  15:23:27,019 - #44 {
+INFO  15:23:27,019 - #47 this
+INFO  15:23:27,019 - #38 .
+INFO  15:23:27,019 - #47 vrsta
+INFO  15:23:27,019 - #32 =
+INFO  15:23:27,019 - #47 vrsta
+INFO  15:23:27,019 - #35 ;
+INFO  15:23:27,020 - #45 }
+INFO  15:23:27,020 - #47 char
+INFO  15:23:27,020 - #47 dohvVrstu
+INFO  15:23:27,020 - #39 (
+INFO  15:23:27,020 - #40 )
+INFO  15:23:27,020 - #44 {
+INFO  15:23:27,020 - #12 return
+INFO  15:23:27,020 - #47 vrsta
+INFO  15:23:27,020 - #35 ;
+INFO  15:23:27,020 - #45 }
+INFO  15:23:27,021 - #47 int
+INFO  15:23:27,021 - #47 dohvTezinu
+INFO  15:23:27,021 - #39 (
+INFO  15:23:27,021 - #40 )
+INFO  15:23:27,021 - #44 {
+INFO  15:23:27,021 - #12 return
+INFO  15:23:27,021 - #47 tezina
+INFO  15:23:27,021 - #35 ;
+INFO  15:23:27,021 - #45 }
+INFO  15:23:27,021 - #13 void
+INFO  15:23:27,022 - #47 ispisi
+INFO  15:23:27,022 - #39 (
+INFO  15:23:27,022 - #40 )
+INFO  15:23:27,022 - #44 {
+INFO  15:23:27,022 - #10 print
+INFO  15:23:27,022 - #39 (
+INFO  15:23:27,022 - #47 vrsta
+INFO  15:23:27,022 - #40 )
+INFO  15:23:27,023 - #35 ;
+INFO  15:23:27,023 - #10 print
+INFO  15:23:27,023 - #39 (
+INFO  15:23:27,023 - #47 Q
+INFO  15:23:27,023 - #39 (
+INFO  15:23:27,024 - #40 )
+INFO  15:23:27,024 - #40 )
+INFO  15:23:27,024 - #35 ;
+INFO  15:23:27,024 - #45 }
+INFO  15:23:27,024 - #45 }
+INFO  15:23:27,024 - #45 }
+INFO  15:23:27,025 - #4 class
+INFO  15:23:27,026 - #47 Sfera
+INFO  15:23:27,026 - #14 extends
+INFO  15:23:27,026 - #47 Predmet
+INFO  15:23:27,026 - #44 {
+INFO  15:23:27,027 - #47 int
+INFO  15:23:27,027 - #47 r
+INFO  15:23:27,027 - #35 ;
+INFO  15:23:27,027 - #44 {
+INFO  15:23:27,027 - #47 vrsta
+INFO  15:23:27,027 - #32 =
+ERROR 15:23:27,027 - 
+Sintaksna greska na liniji 32
+INFO  15:23:27,028 - #48 s
+INFO  15:23:27,028 - #35 ;
+INFO  15:23:27,028 - #47 r
+INFO  15:23:27,029 - #32 =
+INFO  15:23:27,029 - #46 1
+INFO  15:23:27,029 - #35 ;
+INFO  15:23:27,029 - #13 void
+INFO  15:23:27,029 - #47 postaviPoluprecnik
+INFO  15:23:27,029 - #39 (
+INFO  15:23:27,029 - #47 int
+INFO  15:23:27,029 - #47 r
+INFO  15:23:27,029 - #40 )
+INFO  15:23:27,030 - #44 {
+INFO  15:23:27,030 - #47 this
+INFO  15:23:27,030 - #38 .
+INFO  15:23:27,030 - #47 r
+INFO  15:23:27,030 - #32 =
+INFO  15:23:27,030 - #47 r
+INFO  15:23:27,030 - #35 ;
+INFO  15:23:27,030 - #45 }
+INFO  15:23:27,030 - #47 int
+INFO  15:23:27,030 - #47 zapremina
+INFO  15:23:27,030 - #39 (
+ERROR 15:23:27,030 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 0
+ERROR 15:23:27,032 - 
+Sintaksna greska na liniji 37
+INFO  15:23:27,032 - #40 )
+INFO  15:23:27,032 - #47 int
+INFO  15:23:27,032 - #47 z
+INFO  15:23:27,032 - #35 ;
+INFO  15:23:27,032 - #44 {
+INFO  15:23:27,032 - #47 z
+INFO  15:23:27,032 - #32 =
+ERROR 15:23:27,032 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 37
+ERROR 15:23:27,035 - 
+Sintaksna greska na liniji 40
+INFO  15:23:27,035 - #47 cinilac
+INFO  15:23:27,035 - #35 ;
+INFO  15:23:27,035 - #12 return
+INFO  15:23:27,035 - #47 z
+INFO  15:23:27,035 - #21 *
+INFO  15:23:27,035 - #39 (
+INFO  15:23:27,035 - #47 r
+INFO  15:23:27,035 - #22 /
+INFO  15:23:27,035 - #47 delilac
+INFO  15:23:27,035 - #40 )
+INFO  15:23:27,036 - #35 ;
+INFO  15:23:27,036 - #45 }
+INFO  15:23:27,036 - #45 }
+INFO  15:23:27,036 - #45 }
+INFO  15:23:27,036 - #4 class
+INFO  15:23:27,036 - #47 Kvadar
+INFO  15:23:27,036 - #14 extends
+INFO  15:23:27,036 - #47 Predmet
+ERROR 15:23:27,036 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 8
+INFO  15:23:27,037 - #44 {
+INFO  15:23:27,037 - #47 int
+INFO  15:23:27,037 - #47 a
+INFO  15:23:27,037 - #37 ,
+INFO  15:23:27,038 - #47 b
+INFO  15:23:27,038 - #37 ,
+INFO  15:23:27,038 - #47 c
+INFO  15:23:27,038 - #35 ;
+INFO  15:23:27,038 - #44 {
+INFO  15:23:27,038 - #47 vrsta
+INFO  15:23:27,038 - #32 =
+ERROR 15:23:27,038 - 
+Sintaksna greska na liniji 51
+INFO  15:23:27,038 - #48 k
+INFO  15:23:27,038 - #35 ;
+INFO  15:23:27,038 - #47 a
+INFO  15:23:27,038 - #32 =
+INFO  15:23:27,039 - #46 1
+INFO  15:23:27,039 - #35 ;
+INFO  15:23:27,039 - #47 b
+INFO  15:23:27,039 - #32 =
+INFO  15:23:27,039 - #46 2
+INFO  15:23:27,039 - #35 ;
+INFO  15:23:27,039 - #47 c
+INFO  15:23:27,039 - #32 =
+INFO  15:23:27,039 - #46 3
+INFO  15:23:27,039 - #35 ;
+INFO  15:23:27,039 - #13 void
+INFO  15:23:27,039 - #47 postaviStranice
+INFO  15:23:27,039 - #39 (
+INFO  15:23:27,039 - #47 int
+INFO  15:23:27,040 - #47 a
+INFO  15:23:27,040 - #37 ,
+INFO  15:23:27,040 - #47 int
+ERROR 15:23:27,040 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 0
+INFO  15:23:27,040 - #47 b
+ERROR 15:23:27,040 - 
+Sintaksna greska na liniji 56
+INFO  15:23:27,040 - #37 ,
+INFO  15:23:27,040 - #47 int
+INFO  15:23:27,040 - #47 c
+INFO  15:23:27,040 - #40 )
+INFO  15:23:27,040 - #44 {
+INFO  15:23:27,040 - #47 this
+INFO  15:23:27,040 - #38 .
+INFO  15:23:27,040 - #47 a
+INFO  15:23:27,041 - #32 =
+INFO  15:23:27,041 - #47 a
+INFO  15:23:27,041 - #35 ;
+INFO  15:23:27,041 - #47 this
+INFO  15:23:27,041 - #38 .
+INFO  15:23:27,041 - #47 b
+INFO  15:23:27,041 - #32 =
+INFO  15:23:27,041 - #47 b
+INFO  15:23:27,041 - #35 ;
+INFO  15:23:27,041 - #47 this
+INFO  15:23:27,041 - #38 .
+INFO  15:23:27,041 - #47 c
+INFO  15:23:27,041 - #32 =
+INFO  15:23:27,041 - #47 c
+INFO  15:23:27,041 - #35 ;
+INFO  15:23:27,041 - #45 }
+INFO  15:23:27,041 - #47 int
+INFO  15:23:27,042 - #47 zapremina
+ERROR 15:23:27,042 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 56
+INFO  15:23:27,043 - #39 (
+ERROR 15:23:27,043 - 
+Sintaksna greska na liniji 57
+INFO  15:23:27,043 - #40 )
+INFO  15:23:27,043 - #47 int
+INFO  15:23:27,043 - #47 z
+INFO  15:23:27,043 - #35 ;
+INFO  15:23:27,043 - #44 {
+INFO  15:23:27,043 - #47 z
+INFO  15:23:27,043 - #32 =
+ERROR 15:23:27,043 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 57
+ERROR 15:23:27,044 - 
+Sintaksna greska na liniji 60
+INFO  15:23:27,044 - #47 a
+INFO  15:23:27,044 - #21 *
+INFO  15:23:27,044 - #47 b
+INFO  15:23:27,044 - #21 *
+INFO  15:23:27,044 - #47 c
+INFO  15:23:27,044 - #35 ;
+INFO  15:23:27,044 - #12 return
+INFO  15:23:27,044 - #47 z
+INFO  15:23:27,044 - #35 ;
+INFO  15:23:27,044 - #45 }
+INFO  15:23:27,044 - #45 }
+INFO  15:23:27,044 - #45 }
+INFO  15:23:27,044 - #47 int
+INFO  15:23:27,044 - #47 zapreminaK
+INFO  15:23:27,044 - #37 ,
+INFO  15:23:27,044 - #47 zapreminaS
+ERROR 15:23:27,044 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 8
+INFO  15:23:27,045 - #35 ;
+INFO  15:23:27,045 - #47 int
+INFO  15:23:27,045 - #47 tezinaK
+INFO  15:23:27,045 - #37 ,
+INFO  15:23:27,045 - #47 tezinaS
+INFO  15:23:27,045 - #35 ;
+INFO  15:23:27,045 - #44 {
+INFO  15:23:27,045 - #13 void
+INFO  15:23:27,045 - #47 ispis
+INFO  15:23:27,045 - #39 (
+INFO  15:23:27,045 - #47 Predmet
+INFO  15:23:27,045 - #47 p
+INFO  15:23:27,045 - #40 )
+INFO  15:23:27,045 - #44 {
+INFO  15:23:27,045 - #47 p
+INFO  15:23:27,045 - #38 .
+INFO  15:23:27,045 - #47 ispisi
+INFO  15:23:27,045 - #39 (
+INFO  15:23:27,045 - #40 )
+INFO  15:23:27,045 - #35 ;
+INFO  15:23:27,046 - #10 print
+INFO  15:23:27,046 - #39 (
+INFO  15:23:27,046 - #47 eol
+INFO  15:23:27,046 - #40 )
+INFO  15:23:27,046 - #35 ;
+INFO  15:23:27,046 - #10 print
+INFO  15:23:27,046 - #39 (
+INFO  15:23:27,046 - #47 p
+INFO  15:23:27,046 - #38 .
+INFO  15:23:27,046 - #47 dohvTezinu
+INFO  15:23:27,046 - #39 (
+INFO  15:23:27,046 - #40 )
+INFO  15:23:27,046 - #40 )
+INFO  15:23:27,046 - #35 ;
+INFO  15:23:27,046 - #45 }
+INFO  15:23:27,046 - #13 void
+INFO  15:23:27,047 - #47 main
+INFO  15:23:27,047 - #39 (
+INFO  15:23:27,047 - #40 )
+INFO  15:23:27,047 - #47 Predmet
+INFO  15:23:27,047 - #47 predmeti
+INFO  15:23:27,047 - #41 [
+INFO  15:23:27,047 - #42 ]
+INFO  15:23:27,047 - #35 ;
+INFO  15:23:27,047 - #47 int
+INFO  15:23:27,047 - #47 i
+INFO  15:23:27,047 - #35 ;
+INFO  15:23:27,047 - #47 Sfera
+INFO  15:23:27,047 - #47 s1
+INFO  15:23:27,048 - #37 ,
+INFO  15:23:27,048 - #47 s2
+INFO  15:23:27,048 - #37 ,
+INFO  15:23:27,048 - #47 s3
+INFO  15:23:27,048 - #35 ;
+INFO  15:23:27,048 - #47 Kvadar
+INFO  15:23:27,048 - #47 k1
+INFO  15:23:27,048 - #37 ,
+INFO  15:23:27,048 - #47 k2
+INFO  15:23:27,048 - #37 ,
+INFO  15:23:27,048 - #47 k3
+INFO  15:23:27,048 - #35 ;
+INFO  15:23:27,048 - #47 int
+INFO  15:23:27,048 - #47 t
+INFO  15:23:27,048 - #35 ;
+INFO  15:23:27,048 - #44 {
+INFO  15:23:27,048 - #47 predmeti
+INFO  15:23:27,048 - #32 =
+INFO  15:23:27,048 - #9 new
+INFO  15:23:27,048 - #47 Predmet
+INFO  15:23:27,048 - #41 [
+INFO  15:23:27,048 - #46 6
+INFO  15:23:27,049 - #42 ]
+INFO  15:23:27,049 - #35 ;
+INFO  15:23:27,049 - #47 s1
+INFO  15:23:27,049 - #32 =
+INFO  15:23:27,049 - #9 new
+INFO  15:23:27,049 - #47 Sfera
+INFO  15:23:27,049 - #39 (
+INFO  15:23:27,049 - #40 )
+INFO  15:23:27,049 - #35 ;
+INFO  15:23:27,049 - #47 s2
+INFO  15:23:27,049 - #32 =
+INFO  15:23:27,050 - #9 new
+INFO  15:23:27,050 - #47 Sfera
+INFO  15:23:27,050 - #39 (
+INFO  15:23:27,050 - #46 2
+INFO  15:23:27,050 - #40 )
+INFO  15:23:27,051 - #35 ;
+INFO  15:23:27,052 - #47 s3
+INFO  15:23:27,052 - #32 =
+INFO  15:23:27,052 - #9 new
+INFO  15:23:27,052 - #47 Sfera
+INFO  15:23:27,052 - #39 (
+INFO  15:23:27,052 - #46 3
+INFO  15:23:27,052 - #40 )
+INFO  15:23:27,052 - #35 ;
+INFO  15:23:27,052 - #47 k3
+INFO  15:23:27,052 - #32 =
+INFO  15:23:27,052 - #9 new
+INFO  15:23:27,052 - #47 Kvadar
+INFO  15:23:27,052 - #39 (
+INFO  15:23:27,052 - #40 )
+INFO  15:23:27,052 - #35 ;
+INFO  15:23:27,052 - #47 k1
+INFO  15:23:27,052 - #32 =
+INFO  15:23:27,052 - #9 new
+INFO  15:23:27,053 - #47 Kvadar
+INFO  15:23:27,053 - #39 (
+INFO  15:23:27,053 - #46 2
+INFO  15:23:27,053 - #40 )
+INFO  15:23:27,053 - #35 ;
+INFO  15:23:27,053 - #47 k2
+INFO  15:23:27,053 - #32 =
+INFO  15:23:27,053 - #9 new
+INFO  15:23:27,053 - #47 Kvadar
+INFO  15:23:27,053 - #39 (
+INFO  15:23:27,053 - #46 3
+INFO  15:23:27,053 - #37 ,
+INFO  15:23:27,053 - #46 4
+INFO  15:23:27,053 - #37 ,
+INFO  15:23:27,053 - #46 5
+INFO  15:23:27,053 - #40 )
+INFO  15:23:27,053 - #35 ;
+INFO  15:23:27,053 - #47 predmeti
+INFO  15:23:27,054 - #41 [
+INFO  15:23:27,055 - #46 0
+INFO  15:23:27,055 - #42 ]
+INFO  15:23:27,055 - #32 =
+INFO  15:23:27,055 - #47 s1
+INFO  15:23:27,055 - #35 ;
+INFO  15:23:27,055 - #47 predmeti
+INFO  15:23:27,055 - #41 [
+INFO  15:23:27,055 - #46 2
+INFO  15:23:27,055 - #42 ]
+INFO  15:23:27,055 - #32 =
+INFO  15:23:27,055 - #47 s2
+INFO  15:23:27,055 - #35 ;
+INFO  15:23:27,055 - #47 predmeti
+INFO  15:23:27,055 - #41 [
+INFO  15:23:27,055 - #46 4
+INFO  15:23:27,055 - #42 ]
+INFO  15:23:27,055 - #32 =
+INFO  15:23:27,055 - #47 s3
+INFO  15:23:27,055 - #35 ;
+INFO  15:23:27,056 - #47 predmeti
+INFO  15:23:27,056 - #41 [
+INFO  15:23:27,056 - #46 1
+INFO  15:23:27,056 - #42 ]
+INFO  15:23:27,056 - #32 =
+INFO  15:23:27,056 - #47 k1
+INFO  15:23:27,056 - #35 ;
+INFO  15:23:27,056 - #47 predmeti
+INFO  15:23:27,056 - #41 [
+INFO  15:23:27,056 - #46 3
+INFO  15:23:27,056 - #42 ]
+INFO  15:23:27,056 - #32 =
+INFO  15:23:27,056 - #47 k2
+INFO  15:23:27,056 - #35 ;
+INFO  15:23:27,056 - #47 predmeti
+INFO  15:23:27,056 - #41 [
+INFO  15:23:27,056 - #46 5
+INFO  15:23:27,056 - #42 ]
+INFO  15:23:27,056 - #32 =
+INFO  15:23:27,056 - #47 k3
+INFO  15:23:27,056 - #35 ;
+INFO  15:23:27,056 - #11 read
+INFO  15:23:27,056 - #39 (
+INFO  15:23:27,056 - #47 t
+INFO  15:23:27,056 - #40 )
+INFO  15:23:27,056 - #35 ;
+INFO  15:23:27,056 - #47 i
+INFO  15:23:27,057 - #32 =
+INFO  15:23:27,057 - #46 0
+INFO  15:23:27,057 - #35 ;
+INFO  15:23:27,057 - #8 while
+INFO  15:23:27,057 - #39 (
+INFO  15:23:27,057 - #47 i
+INFO  15:23:27,062 - #28 <
+INFO  15:23:27,062 - #46 6
+INFO  15:23:27,063 - #40 )
+INFO  15:23:27,064 - #44 {
+INFO  15:23:27,065 - #47 predmeti
+INFO  15:23:27,065 - #41 [
+INFO  15:23:27,065 - #47 i
+INFO  15:23:27,065 - #42 ]
+INFO  15:23:27,065 - #38 .
+INFO  15:23:27,065 - #47 postaviTezinu
+INFO  15:23:27,065 - #39 (
+INFO  15:23:27,065 - #47 t
+INFO  15:23:27,065 - #40 )
+INFO  15:23:27,065 - #35 ;
+INFO  15:23:27,065 - #47 i
+INFO  15:23:27,065 - #33 ++
+INFO  15:23:27,066 - #35 ;
+INFO  15:23:27,066 - #45 }
+INFO  15:23:27,066 - #47 zapreminaS
+INFO  15:23:27,069 - #32 =
+INFO  15:23:27,069 - #46 0
+INFO  15:23:27,069 - #35 ;
+INFO  15:23:27,069 - #47 tezinaS
+INFO  15:23:27,069 - #32 =
+INFO  15:23:27,069 - #46 0
+INFO  15:23:27,069 - #35 ;
+INFO  15:23:27,069 - #47 i
+INFO  15:23:27,069 - #32 =
+INFO  15:23:27,069 - #46 1
+INFO  15:23:27,069 - #35 ;
+INFO  15:23:27,069 - #8 while
+INFO  15:23:27,069 - #39 (
+INFO  15:23:27,069 - #47 i
+INFO  15:23:27,070 - #28 <
+INFO  15:23:27,070 - #46 6
+INFO  15:23:27,070 - #40 )
+INFO  15:23:27,070 - #44 {
+INFO  15:23:27,070 - #7 if
+INFO  15:23:27,070 - #39 (
+INFO  15:23:27,071 - #47 i
+INFO  15:23:27,071 - #23 %
+INFO  15:23:27,071 - #46 2
+INFO  15:23:27,073 - #24 ==
+INFO  15:23:27,073 - #46 0
+INFO  15:23:27,074 - #40 )
+INFO  15:23:27,075 - #44 {
+INFO  15:23:27,075 - #47 i
+INFO  15:23:27,075 - #33 ++
+INFO  15:23:27,075 - #35 ;
+INFO  15:23:27,075 - #15 continue
+INFO  15:23:27,076 - #35 ;
+INFO  15:23:27,076 - #45 }
+INFO  15:23:27,077 - #47 zapreminaS
+INFO  15:23:27,077 - #32 =
+INFO  15:23:27,077 - #47 zapreminaS
+INFO  15:23:27,077 - #19 +
+INFO  15:23:27,077 - #47 predmeti
+INFO  15:23:27,079 - #41 [
+INFO  15:23:27,080 - #47 i
+INFO  15:23:27,080 - #20 -
+INFO  15:23:27,080 - #46 1
+INFO  15:23:27,081 - #42 ]
+INFO  15:23:27,081 - #38 .
+INFO  15:23:27,081 - #47 zapremina
+INFO  15:23:27,081 - #39 (
+INFO  15:23:27,081 - #40 )
+INFO  15:23:27,081 - #35 ;
+INFO  15:23:27,081 - #47 tezinaS
+INFO  15:23:27,081 - #32 =
+INFO  15:23:27,081 - #47 tezinaS
+INFO  15:23:27,081 - #19 +
+INFO  15:23:27,081 - #47 predmeti
+INFO  15:23:27,081 - #41 [
+INFO  15:23:27,082 - #47 i
+INFO  15:23:27,082 - #20 -
+INFO  15:23:27,082 - #46 1
+INFO  15:23:27,082 - #42 ]
+INFO  15:23:27,082 - #38 .
+INFO  15:23:27,082 - #47 Q
+INFO  15:23:27,082 - #39 (
+INFO  15:23:27,082 - #40 )
+INFO  15:23:27,082 - #35 ;
+INFO  15:23:27,082 - #47 ispis
+INFO  15:23:27,082 - #39 (
+INFO  15:23:27,082 - #47 predmeti
+INFO  15:23:27,082 - #41 [
+INFO  15:23:27,082 - #47 i
+INFO  15:23:27,082 - #20 -
+INFO  15:23:27,082 - #46 1
+INFO  15:23:27,082 - #42 ]
+INFO  15:23:27,083 - #40 )
+INFO  15:23:27,083 - #35 ;
+INFO  15:23:27,083 - #47 i
+INFO  15:23:27,083 - #33 ++
+INFO  15:23:27,083 - #35 ;
+INFO  15:23:27,083 - #45 }
+INFO  15:23:27,083 - #47 zapreminaK
+INFO  15:23:27,083 - #32 =
+INFO  15:23:27,083 - #46 0
+INFO  15:23:27,083 - #35 ;
+INFO  15:23:27,083 - #47 tezinaK
+INFO  15:23:27,083 - #32 =
+INFO  15:23:27,083 - #46 0
+INFO  15:23:27,083 - #35 ;
+INFO  15:23:27,083 - #47 i
+INFO  15:23:27,083 - #32 =
+INFO  15:23:27,083 - #46 1
+INFO  15:23:27,083 - #35 ;
+INFO  15:23:27,083 - #8 while
+INFO  15:23:27,083 - #39 (
+INFO  15:23:27,083 - #47 i
+INFO  15:23:27,083 - #28 <
+INFO  15:23:27,083 - #46 6
+INFO  15:23:27,083 - #40 )
+INFO  15:23:27,083 - #44 {
+INFO  15:23:27,083 - #7 if
+INFO  15:23:27,083 - #39 (
+INFO  15:23:27,084 - #47 i
+INFO  15:23:27,084 - #23 %
+INFO  15:23:27,084 - #46 2
+INFO  15:23:27,084 - #24 ==
+INFO  15:23:27,084 - #46 1
+INFO  15:23:27,084 - #40 )
+INFO  15:23:27,084 - #44 {
+INFO  15:23:27,084 - #47 i
+INFO  15:23:27,084 - #33 ++
+INFO  15:23:27,084 - #35 ;
+INFO  15:23:27,084 - #15 continue
+INFO  15:23:27,084 - #35 ;
+INFO  15:23:27,084 - #45 }
+INFO  15:23:27,084 - #47 zapreminaS
+INFO  15:23:27,084 - #32 =
+INFO  15:23:27,084 - #47 zapreminaS
+INFO  15:23:27,084 - #19 +
+INFO  15:23:27,084 - #47 predmeti
+INFO  15:23:27,084 - #41 [
+INFO  15:23:27,084 - #47 i
+INFO  15:23:27,084 - #20 -
+INFO  15:23:27,084 - #46 1
+INFO  15:23:27,084 - #42 ]
+INFO  15:23:27,084 - #38 .
+INFO  15:23:27,084 - #47 zapremina
+INFO  15:23:27,084 - #39 (
+INFO  15:23:27,084 - #40 )
+INFO  15:23:27,084 - #35 ;
+INFO  15:23:27,084 - #47 tezinaS
+INFO  15:23:27,085 - #32 =
+INFO  15:23:27,085 - #47 tezinaS
+INFO  15:23:27,085 - #19 +
+INFO  15:23:27,085 - #47 predmeti
+INFO  15:23:27,085 - #41 [
+INFO  15:23:27,085 - #47 i
+INFO  15:23:27,085 - #20 -
+INFO  15:23:27,085 - #46 1
+INFO  15:23:27,085 - #42 ]
+INFO  15:23:27,085 - #38 .
+INFO  15:23:27,085 - #47 Q
+INFO  15:23:27,085 - #39 (
+INFO  15:23:27,085 - #40 )
+INFO  15:23:27,085 - #35 ;
+INFO  15:23:27,085 - #47 ispis
+INFO  15:23:27,085 - #39 (
+INFO  15:23:27,085 - #47 predmeti
+INFO  15:23:27,085 - #41 [
+INFO  15:23:27,085 - #47 i
+INFO  15:23:27,085 - #20 -
+INFO  15:23:27,085 - #46 1
+INFO  15:23:27,085 - #42 ]
+INFO  15:23:27,085 - #40 )
+INFO  15:23:27,085 - #35 ;
+INFO  15:23:27,085 - #47 i
+INFO  15:23:27,085 - #33 ++
+INFO  15:23:27,085 - #35 ;
+INFO  15:23:27,085 - #45 }
+INFO  15:23:27,085 - #10 print
+INFO  15:23:27,085 - #39 (
+INFO  15:23:27,085 - #47 zapreminaS
+INFO  15:23:27,085 - #40 )
+INFO  15:23:27,085 - #35 ;
+INFO  15:23:27,085 - #10 print
+INFO  15:23:27,086 - #39 (
+INFO  15:23:27,086 - #47 eol
+INFO  15:23:27,086 - #40 )
+INFO  15:23:27,086 - #35 ;
+INFO  15:23:27,086 - #10 print
+INFO  15:23:27,086 - #39 (
+INFO  15:23:27,086 - #47 zapreminaK
+INFO  15:23:27,086 - #40 )
+INFO  15:23:27,086 - #35 ;
+INFO  15:23:27,086 - #10 print
+INFO  15:23:27,086 - #39 (
+INFO  15:23:27,086 - #47 eol
+INFO  15:23:27,086 - #40 )
+INFO  15:23:27,086 - #35 ;
+INFO  15:23:27,086 - #10 print
+INFO  15:23:27,086 - #39 (
+INFO  15:23:27,086 - #47 tezinaS
+INFO  15:23:27,086 - #40 )
+INFO  15:23:27,086 - #35 ;
+INFO  15:23:27,086 - #10 print
+INFO  15:23:27,086 - #39 (
+INFO  15:23:27,086 - #47 eol
+INFO  15:23:27,087 - #40 )
+INFO  15:23:27,087 - #35 ;
+INFO  15:23:27,087 - #10 print
+INFO  15:23:27,087 - #39 (
+INFO  15:23:27,087 - #47 tezinaK
+INFO  15:23:27,087 - #40 )
+INFO  15:23:27,087 - #35 ;
+INFO  15:23:27,087 - #10 print
+INFO  15:23:27,087 - #39 (
+INFO  15:23:27,087 - #47 eol
+INFO  15:23:27,087 - #40 )
+INFO  15:23:27,087 - #35 ;
+INFO  15:23:27,087 - #45 }
+INFO  15:23:27,087 - #45 }
+INFO  15:23:27,107 - Program(
+  ProgramName(
+   test_303
+  ) [ProgramName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              DeclarationList(
+                DeclarationList(
+                  DeclarationList(
+                    DeclarationList(
+                      NoDecl(
+                      ) [NoDecl]
+                      ConstDeclaration(
+                        ConstDecl(
+                          Type(
+                           int
+                          ) [Type]
+                          SingleConstDecl(
+                           cinilac
+                            IntConstant(
+                             4
+                            ) [IntConstant]
+                          ) [SingleConstDecl]
+                          ConstDeclarList(
+                            NoConstDeclarList(
+                            ) [NoConstDeclarList]
+                            SingleConstDecl(
+                             delilac
+                              IntConstant(
+                               3
+                              ) [IntConstant]
+                            ) [SingleConstDecl]
+                          ) [ConstDeclarList]
+                        ) [ConstDecl]
+                      ) [ConstDeclaration]
+                    ) [DeclarationList]
+                    ClassDeclaration(
+                      ClassDecl(
+                        ClassNameNoExt(
+                         Predmet
+                        ) [ClassNameNoExt]
+                        ClassVarDeclarList(
+                          ClassVarDeclarList(
+                            NoClassVarDeclarList(
+                            ) [NoClassVarDeclarList]
+                            ClassVarDeclar(
+                              ClassVarDeclType(
+                                Type(
+                                 int
+                                ) [Type]
+                              ) [ClassVarDeclType]
+                              OneClassVar(
+                                OneClassVariable(
+                                 tezina
+                                ) [OneClassVariable]
+                              ) [OneClassVar]
+                            ) [ClassVarDeclar]
+                          ) [ClassVarDeclarList]
+                          ClassVarDeclar(
+                            ClassVarDeclType(
+                              Type(
+                               char
+                              ) [Type]
+                            ) [ClassVarDeclType]
+                            OneClassVar(
+                              OneClassVariable(
+                               vrsta
+                              ) [OneClassVariable]
+                            ) [OneClassVar]
+                          ) [ClassVarDeclar]
+                        ) [ClassVarDeclarList]
+                        FunctionDeclList(
+                          NoFunctionDeclList(
+                          ) [NoFunctionDeclList]
+                          FuncDecl(
+                            ClassMethDeclList(
+                              ClassMethDeclList(
+                                ClassMethDeclList(
+                                  ClassMethDeclList(
+                                    ClassMethDeclList(
+                                      ClassMethDeclList(
+                                        ClassMethDeclList(
+                                          ClassMethDeclList(
+                                            NoClassMethDeclList(
+                                            ) [NoClassMethDeclList]
+                                            ClassMethodType(
+                                              Method(
+                                                MethDeclTypeAndName(
+                                                  MethodVoid(
+                                                  ) [MethodVoid]
+                                                 postaviTezinu
+                                                ) [MethDeclTypeAndName]
+                                                FormParamsList(
+                                                  NoFormParamsList(
+                                                  ) [NoFormParamsList]
+                                                  FormParam(
+                                                    FormParameter(
+                                                      Type(
+                                                       int
+                                                      ) [Type]
+                                                     tezina
+                                                    ) [FormParameter]
+                                                  ) [FormParam]
+                                                ) [FormParamsList]
+                                                NoVarDeclarList(
+                                                ) [NoVarDeclarList]
+                                                StmtList(
+                                                  NoStmt(
+                                                  ) [NoStmt]
+                                                  DesignStm(
+                                                    DesignAssign(
+                                                      DesignField(
+                                                        Design(
+                                                         this
+                                                        ) [Design]
+                                                       tezina
+                                                      ) [DesignField]
+                                                      OneTerm(
+                                                        OneFactor(
+                                                          FactDesign(
+                                                            Design(
+                                                             tezina
+                                                            ) [Design]
+                                                          ) [FactDesign]
+                                                        ) [OneFactor]
+                                                      ) [OneTerm]
+                                                    ) [DesignAssign]
+                                                  ) [DesignStm]
+                                                ) [StmtList]
+                                              ) [Method]
+                                            ) [ClassMethodType]
+                                          ) [ClassMethDeclList]
+                                          ClassMethodType(
+                                            Method(
+                                              MethDeclTypeAndName(
+                                                MethodVoid(
+                                                ) [MethodVoid]
+                                               ucitajTezinu
+                                              ) [MethDeclTypeAndName]
+                                              NoFormParamsList(
+                                              ) [NoFormParamsList]
+                                              NoVarDeclarList(
+                                              ) [NoVarDeclarList]
+                                              StmtList(
+                                                NoStmt(
+                                                ) [NoStmt]
+                                                ReadStm(
+                                                  Design(
+                                                   tezina
+                                                  ) [Design]
+                                                ) [ReadStm]
+                                              ) [StmtList]
+                                            ) [Method]
+                                          ) [ClassMethodType]
+                                        ) [ClassMethDeclList]
+                                        ClassMethodType(
+                                          Method(
+                                            MethDeclTypeAndName(
+                                              MethodType(
+                                                Type(
+                                                 int
+                                                ) [Type]
+                                              ) [MethodType]
+                                             zapremina
+                                            ) [MethDeclTypeAndName]
+                                            NoFormParamsList(
+                                            ) [NoFormParamsList]
+                                            NoVarDeclarList(
+                                            ) [NoVarDeclarList]
+                                            StmtList(
+                                              NoStmt(
+                                              ) [NoStmt]
+                                              ReturnStm(
+                                                OneTerm(
+                                                  OneFactor(
+                                                    FactNum(
+                                                     0
+                                                    ) [FactNum]
+                                                  ) [OneFactor]
+                                                ) [OneTerm]
+                                              ) [ReturnStm]
+                                            ) [StmtList]
+                                          ) [Method]
+                                        ) [ClassMethodType]
+                                      ) [ClassMethDeclList]
+                                      ClassMethodType(
+                                        Method(
+                                          MethDeclTypeAndName(
+                                            MethodType(
+                                              Type(
+                                               int
+                                              ) [Type]
+                                            ) [MethodType]
+                                           Q
+                                          ) [MethDeclTypeAndName]
+                                          NoFormParamsList(
+                                          ) [NoFormParamsList]
+                                          NoVarDeclarList(
+                                          ) [NoVarDeclarList]
+                                          StmtList(
+                                            NoStmt(
+                                            ) [NoStmt]
+                                            ReturnStm(
+                                              OneTerm(
+                                                TermMul(
+                                                  OneFactor(
+                                                    FactFuncCall(
+                                                      Design(
+                                                       zapremina
+                                                      ) [Design]
+                                                      FunctionCalled(
+                                                      ) [FunctionCalled]
+                                                      NoActParamsList(
+                                                      ) [NoActParamsList]
+                                                    ) [FactFuncCall]
+                                                  ) [OneFactor]
+                                                  Mul(
+                                                  ) [Mul]
+                                                  FactDesign(
+                                                    Design(
+                                                     tezina
+                                                    ) [Design]
+                                                  ) [FactDesign]
+                                                ) [TermMul]
+                                              ) [OneTerm]
+                                            ) [ReturnStm]
+                                          ) [StmtList]
+                                        ) [Method]
+                                      ) [ClassMethodType]
+                                    ) [ClassMethDeclList]
+                                    ClassMethodType(
+                                      Method(
+                                        MethDeclTypeAndName(
+                                          MethodVoid(
+                                          ) [MethodVoid]
+                                         postaviVrstu
+                                        ) [MethDeclTypeAndName]
+                                        FormParamsList(
+                                          NoFormParamsList(
+                                          ) [NoFormParamsList]
+                                          FormParam(
+                                            FormParameter(
+                                              Type(
+                                               char
+                                              ) [Type]
+                                             vrsta
+                                            ) [FormParameter]
+                                          ) [FormParam]
+                                        ) [FormParamsList]
+                                        NoVarDeclarList(
+                                        ) [NoVarDeclarList]
+                                        StmtList(
+                                          NoStmt(
+                                          ) [NoStmt]
+                                          DesignStm(
+                                            DesignAssign(
+                                              DesignField(
+                                                Design(
+                                                 this
+                                                ) [Design]
+                                               vrsta
+                                              ) [DesignField]
+                                              OneTerm(
+                                                OneFactor(
+                                                  FactDesign(
+                                                    Design(
+                                                     vrsta
+                                                    ) [Design]
+                                                  ) [FactDesign]
+                                                ) [OneFactor]
+                                              ) [OneTerm]
+                                            ) [DesignAssign]
+                                          ) [DesignStm]
+                                        ) [StmtList]
+                                      ) [Method]
+                                    ) [ClassMethodType]
+                                  ) [ClassMethDeclList]
+                                  ClassMethodType(
+                                    Method(
+                                      MethDeclTypeAndName(
+                                        MethodType(
+                                          Type(
+                                           char
+                                          ) [Type]
+                                        ) [MethodType]
+                                       dohvVrstu
+                                      ) [MethDeclTypeAndName]
+                                      NoFormParamsList(
+                                      ) [NoFormParamsList]
+                                      NoVarDeclarList(
+                                      ) [NoVarDeclarList]
+                                      StmtList(
+                                        NoStmt(
+                                        ) [NoStmt]
+                                        ReturnStm(
+                                          OneTerm(
+                                            OneFactor(
+                                              FactDesign(
+                                                Design(
+                                                 vrsta
+                                                ) [Design]
+                                              ) [FactDesign]
+                                            ) [OneFactor]
+                                          ) [OneTerm]
+                                        ) [ReturnStm]
+                                      ) [StmtList]
+                                    ) [Method]
+                                  ) [ClassMethodType]
+                                ) [ClassMethDeclList]
+                                ClassMethodType(
+                                  Method(
+                                    MethDeclTypeAndName(
+                                      MethodType(
+                                        Type(
+                                         int
+                                        ) [Type]
+                                      ) [MethodType]
+                                     dohvTezinu
+                                    ) [MethDeclTypeAndName]
+                                    NoFormParamsList(
+                                    ) [NoFormParamsList]
+                                    NoVarDeclarList(
+                                    ) [NoVarDeclarList]
+                                    StmtList(
+                                      NoStmt(
+                                      ) [NoStmt]
+                                      ReturnStm(
+                                        OneTerm(
+                                          OneFactor(
+                                            FactDesign(
+                                              Design(
+                                               tezina
+                                              ) [Design]
+                                            ) [FactDesign]
+                                          ) [OneFactor]
+                                        ) [OneTerm]
+                                      ) [ReturnStm]
+                                    ) [StmtList]
+                                  ) [Method]
+                                ) [ClassMethodType]
+                              ) [ClassMethDeclList]
+                              ClassMethodType(
+                                Method(
+                                  MethDeclTypeAndName(
+                                    MethodVoid(
+                                    ) [MethodVoid]
+                                   ispisi
+                                  ) [MethDeclTypeAndName]
+                                  NoFormParamsList(
+                                  ) [NoFormParamsList]
+                                  NoVarDeclarList(
+                                  ) [NoVarDeclarList]
+                                  StmtList(
+                                    StmtList(
+                                      NoStmt(
+                                      ) [NoStmt]
+                                      PrintStm(
+                                        OneTerm(
+                                          OneFactor(
+                                            FactDesign(
+                                              Design(
+                                               vrsta
+                                              ) [Design]
+                                            ) [FactDesign]
+                                          ) [OneFactor]
+                                        ) [OneTerm]
+                                        NoNumConstant(
+                                        ) [NoNumConstant]
+                                      ) [PrintStm]
+                                    ) [StmtList]
+                                    PrintStm(
+                                      OneTerm(
+                                        OneFactor(
+                                          FactFuncCall(
+                                            Design(
+                                             Q
+                                            ) [Design]
+                                            FunctionCalled(
+                                            ) [FunctionCalled]
+                                            NoActParamsList(
+                                            ) [NoActParamsList]
+                                          ) [FactFuncCall]
+                                        ) [OneFactor]
+                                      ) [OneTerm]
+                                      NoNumConstant(
+                                      ) [NoNumConstant]
+                                    ) [PrintStm]
+                                  ) [StmtList]
+                                ) [Method]
+                              ) [ClassMethodType]
+                            ) [ClassMethDeclList]
+                          ) [FuncDecl]
+                        ) [FunctionDeclList]
+                      ) [ClassDecl]
+                    ) [ClassDeclaration]
+                  ) [DeclarationList]
+                  ClassDeclaration(
+                    ClassDecl(
+                      ClassNameExt(
+                       Sfera
+                        Type(
+                         Predmet
+                        ) [Type]
+                      ) [ClassNameExt]
+                      ClassVarDeclarList(
+                        ClassVarDeclarList(
+                          NoClassVarDeclarList(
+                          ) [NoClassVarDeclarList]
+                          ClassVarDeclar(
+                            ClassVarDeclType(
+                              Type(
+                               int
+                              ) [Type]
+                            ) [ClassVarDeclType]
+                            OneClassVar(
+                              OneClassVariable(
+                               r
+                              ) [OneClassVariable]
+                            ) [OneClassVar]
+                          ) [ClassVarDeclar]
+                        ) [ClassVarDeclarList]
+                        ErrClassVarDeclarSEMI(
+                        ) [ErrClassVarDeclarSEMI]
+                      ) [ClassVarDeclarList]
+                      NoFunctionDeclList(
+                      ) [NoFunctionDeclList]
+                    ) [ClassDecl]
+                  ) [ClassDeclaration]
+                ) [DeclarationList]
+                VarDeclaration(
+                  VarDeclar(
+                    Type(
+                     int
+                    ) [Type]
+                    ErrVarDeclarCOMMA(
+                    ) [ErrVarDeclarCOMMA]
+                  ) [VarDeclar]
+                ) [VarDeclaration]
+              ) [DeclarationList]
+              VarDeclaration(
+                ErrVarDeclarSEMI(
+                ) [ErrVarDeclarSEMI]
+              ) [VarDeclaration]
+            ) [DeclarationList]
+            ClassDeclaration(
+              ClassDecl(
+                ClassNameExt(
+                 Kvadar
+                  Type(
+                   Predmet
+                  ) [Type]
+                ) [ClassNameExt]
+                ClassVarDeclarList(
+                  ClassVarDeclarList(
+                    ClassVarDeclarList(
+                      NoClassVarDeclarList(
+                      ) [NoClassVarDeclarList]
+                      ClassVarDeclar(
+                        ClassVarDeclType(
+                          Type(
+                           int
+                          ) [Type]
+                        ) [ClassVarDeclType]
+                        ClassVars(
+                          ClassVars(
+                            OneClassVar(
+                              OneClassVariable(
+                               a
+                              ) [OneClassVariable]
+                            ) [OneClassVar]
+                            OneClassVariable(
+                             b
+                            ) [OneClassVariable]
+                          ) [ClassVars]
+                          OneClassVariable(
+                           c
+                          ) [OneClassVariable]
+                        ) [ClassVars]
+                      ) [ClassVarDeclar]
+                    ) [ClassVarDeclarList]
+                    ErrClassVarDeclarSEMI(
+                    ) [ErrClassVarDeclarSEMI]
+                  ) [ClassVarDeclarList]
+                  ClassVarDeclar(
+                    ClassVarDeclType(
+                      Type(
+                       int
+                      ) [Type]
+                    ) [ClassVarDeclType]
+                    ErrClassVarDeclarCOMMA(
+                    ) [ErrClassVarDeclarCOMMA]
+                  ) [ClassVarDeclar]
+                ) [ClassVarDeclarList]
+                NoFunctionDeclList(
+                ) [NoFunctionDeclList]
+              ) [ClassDecl]
+            ) [ClassDeclaration]
+          ) [DeclarationList]
+          VarDeclaration(
+            VarDeclar(
+              Type(
+               int
+              ) [Type]
+              ErrVarDeclarCOMMA(
+              ) [ErrVarDeclarCOMMA]
+            ) [VarDeclar]
+          ) [VarDeclaration]
+        ) [DeclarationList]
+        VarDeclaration(
+          ErrVarDeclarSEMI(
+          ) [ErrVarDeclarSEMI]
+        ) [VarDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          Vars(
+            OneVar(
+              OneVariable(
+               zapreminaK
+              ) [OneVariable]
+            ) [OneVar]
+            OneVariable(
+             zapreminaS
+            ) [OneVariable]
+          ) [Vars]
+        ) [VarDeclar]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDeclar(
+        Type(
+         int
+        ) [Type]
+        Vars(
+          OneVar(
+            OneVariable(
+             tezinaK
+            ) [OneVariable]
+          ) [OneVar]
+          OneVariable(
+           tezinaS
+          ) [OneVariable]
+        ) [Vars]
+      ) [VarDeclar]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    MethDeclList(
+      NoMethDeclList(
+      ) [NoMethDeclList]
+      Method(
+        MethDeclTypeAndName(
+          MethodVoid(
+          ) [MethodVoid]
+         ispis
+        ) [MethDeclTypeAndName]
+        FormParamsList(
+          NoFormParamsList(
+          ) [NoFormParamsList]
+          FormParam(
+            FormParameter(
+              Type(
+               Predmet
+              ) [Type]
+             p
+            ) [FormParameter]
+          ) [FormParam]
+        ) [FormParamsList]
+        NoVarDeclarList(
+        ) [NoVarDeclarList]
+        StmtList(
+          StmtList(
+            StmtList(
+              NoStmt(
+              ) [NoStmt]
+              DesignStm(
+                DesignFuncCall(
+                  DesignField(
+                    Design(
+                     p
+                    ) [Design]
+                   ispisi
+                  ) [DesignField]
+                  FunctionCalled(
+                  ) [FunctionCalled]
+                  NoActParamsList(
+                  ) [NoActParamsList]
+                ) [DesignFuncCall]
+              ) [DesignStm]
+            ) [StmtList]
+            PrintStm(
+              OneTerm(
+                OneFactor(
+                  FactDesign(
+                    Design(
+                     eol
+                    ) [Design]
+                  ) [FactDesign]
+                ) [OneFactor]
+              ) [OneTerm]
+              NoNumConstant(
+              ) [NoNumConstant]
+            ) [PrintStm]
+          ) [StmtList]
+          PrintStm(
+            OneTerm(
+              OneFactor(
+                FactFuncCall(
+                  DesignField(
+                    Design(
+                     p
+                    ) [Design]
+                   dohvTezinu
+                  ) [DesignField]
+                  FunctionCalled(
+                  ) [FunctionCalled]
+                  NoActParamsList(
+                  ) [NoActParamsList]
+                ) [FactFuncCall]
+              ) [OneFactor]
+            ) [OneTerm]
+            NoNumConstant(
+            ) [NoNumConstant]
+          ) [PrintStm]
+        ) [StmtList]
+      ) [Method]
+    ) [MethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethDeclTypeAndName]
+      NoFormParamsList(
+      ) [NoFormParamsList]
+      VarDeclarList(
+        VarDeclarList(
+          VarDeclarList(
+            VarDeclarList(
+              VarDeclarList(
+                NoVarDeclarList(
+                ) [NoVarDeclarList]
+                VarDeclar(
+                  Type(
+                   Predmet
+                  ) [Type]
+                  OneVar(
+                    ArrayVariable(
+                     predmeti
+                    ) [ArrayVariable]
+                  ) [OneVar]
+                ) [VarDeclar]
+              ) [VarDeclarList]
+              VarDeclar(
+                Type(
+                 int
+                ) [Type]
+                OneVar(
+                  OneVariable(
+                   i
+                  ) [OneVariable]
+                ) [OneVar]
+              ) [VarDeclar]
+            ) [VarDeclarList]
+            VarDeclar(
+              Type(
+               Sfera
+              ) [Type]
+              Vars(
+                Vars(
+                  OneVar(
+                    OneVariable(
+                     s1
+                    ) [OneVariable]
+                  ) [OneVar]
+                  OneVariable(
+                   s2
+                  ) [OneVariable]
+                ) [Vars]
+                OneVariable(
+                 s3
+                ) [OneVariable]
+              ) [Vars]
+            ) [VarDeclar]
+          ) [VarDeclarList]
+          VarDeclar(
+            Type(
+             Kvadar
+            ) [Type]
+            Vars(
+              Vars(
+                OneVar(
+                  OneVariable(
+                   k1
+                  ) [OneVariable]
+                ) [OneVar]
+                OneVariable(
+                 k2
+                ) [OneVariable]
+              ) [Vars]
+              OneVariable(
+               k3
+              ) [OneVariable]
+            ) [Vars]
+          ) [VarDeclar]
+        ) [VarDeclarList]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          OneVar(
+            OneVariable(
+             t
+            ) [OneVariable]
+          ) [OneVar]
+        ) [VarDeclar]
+      ) [VarDeclarList]
+      StmtList(
+        StmtList(
+          StmtList(
+            StmtList(
+              StmtList(
+                StmtList(
+                  StmtList(
+                    StmtList(
+                      StmtList(
+                        StmtList(
+                          StmtList(
+                            StmtList(
+                              StmtList(
+                                StmtList(
+                                  StmtList(
+                                    StmtList(
+                                      StmtList(
+                                        StmtList(
+                                          StmtList(
+                                            StmtList(
+                                              StmtList(
+                                                StmtList(
+                                                  StmtList(
+                                                    StmtList(
+                                                      StmtList(
+                                                        StmtList(
+                                                          StmtList(
+                                                            StmtList(
+                                                              StmtList(
+                                                                StmtList(
+                                                                  StmtList(
+                                                                    StmtList(
+                                                                      NoStmt(
+                                                                      ) [NoStmt]
+                                                                      DesignStm(
+                                                                        DesignAssign(
+                                                                          Design(
+                                                                           predmeti
+                                                                          ) [Design]
+                                                                          OneTerm(
+                                                                            OneFactor(
+                                                                              FactNewArray(
+                                                                                Type(
+                                                                                 Predmet
+                                                                                ) [Type]
+                                                                                OneTerm(
+                                                                                  OneFactor(
+                                                                                    FactNum(
+                                                                                     6
+                                                                                    ) [FactNum]
+                                                                                  ) [OneFactor]
+                                                                                ) [OneTerm]
+                                                                              ) [FactNewArray]
+                                                                            ) [OneFactor]
+                                                                          ) [OneTerm]
+                                                                        ) [DesignAssign]
+                                                                      ) [DesignStm]
+                                                                    ) [StmtList]
+                                                                    DesignStm(
+                                                                      DesignAssign(
+                                                                        Design(
+                                                                         s1
+                                                                        ) [Design]
+                                                                        OneTerm(
+                                                                          OneFactor(
+                                                                            FactNewObject(
+                                                                              Type(
+                                                                               Sfera
+                                                                              ) [Type]
+                                                                              NoActParamsList(
+                                                                              ) [NoActParamsList]
+                                                                            ) [FactNewObject]
+                                                                          ) [OneFactor]
+                                                                        ) [OneTerm]
+                                                                      ) [DesignAssign]
+                                                                    ) [DesignStm]
+                                                                  ) [StmtList]
+                                                                  DesignStm(
+                                                                    DesignAssign(
+                                                                      Design(
+                                                                       s2
+                                                                      ) [Design]
+                                                                      OneTerm(
+                                                                        OneFactor(
+                                                                          FactNewObject(
+                                                                            Type(
+                                                                             Sfera
+                                                                            ) [Type]
+                                                                            ActParamsList(
+                                                                              ActParam(
+                                                                                ActPar(
+                                                                                  OneTerm(
+                                                                                    OneFactor(
+                                                                                      FactNum(
+                                                                                       2
+                                                                                      ) [FactNum]
+                                                                                    ) [OneFactor]
+                                                                                  ) [OneTerm]
+                                                                                ) [ActPar]
+                                                                              ) [ActParam]
+                                                                            ) [ActParamsList]
+                                                                          ) [FactNewObject]
+                                                                        ) [OneFactor]
+                                                                      ) [OneTerm]
+                                                                    ) [DesignAssign]
+                                                                  ) [DesignStm]
+                                                                ) [StmtList]
+                                                                DesignStm(
+                                                                  DesignAssign(
+                                                                    Design(
+                                                                     s3
+                                                                    ) [Design]
+                                                                    OneTerm(
+                                                                      OneFactor(
+                                                                        FactNewObject(
+                                                                          Type(
+                                                                           Sfera
+                                                                          ) [Type]
+                                                                          ActParamsList(
+                                                                            ActParam(
+                                                                              ActPar(
+                                                                                OneTerm(
+                                                                                  OneFactor(
+                                                                                    FactNum(
+                                                                                     3
+                                                                                    ) [FactNum]
+                                                                                  ) [OneFactor]
+                                                                                ) [OneTerm]
+                                                                              ) [ActPar]
+                                                                            ) [ActParam]
+                                                                          ) [ActParamsList]
+                                                                        ) [FactNewObject]
+                                                                      ) [OneFactor]
+                                                                    ) [OneTerm]
+                                                                  ) [DesignAssign]
+                                                                ) [DesignStm]
+                                                              ) [StmtList]
+                                                              DesignStm(
+                                                                DesignAssign(
+                                                                  Design(
+                                                                   k3
+                                                                  ) [Design]
+                                                                  OneTerm(
+                                                                    OneFactor(
+                                                                      FactNewObject(
+                                                                        Type(
+                                                                         Kvadar
+                                                                        ) [Type]
+                                                                        NoActParamsList(
+                                                                        ) [NoActParamsList]
+                                                                      ) [FactNewObject]
+                                                                    ) [OneFactor]
+                                                                  ) [OneTerm]
+                                                                ) [DesignAssign]
+                                                              ) [DesignStm]
+                                                            ) [StmtList]
+                                                            DesignStm(
+                                                              DesignAssign(
+                                                                Design(
+                                                                 k1
+                                                                ) [Design]
+                                                                OneTerm(
+                                                                  OneFactor(
+                                                                    FactNewObject(
+                                                                      Type(
+                                                                       Kvadar
+                                                                      ) [Type]
+                                                                      ActParamsList(
+                                                                        ActParam(
+                                                                          ActPar(
+                                                                            OneTerm(
+                                                                              OneFactor(
+                                                                                FactNum(
+                                                                                 2
+                                                                                ) [FactNum]
+                                                                              ) [OneFactor]
+                                                                            ) [OneTerm]
+                                                                          ) [ActPar]
+                                                                        ) [ActParam]
+                                                                      ) [ActParamsList]
+                                                                    ) [FactNewObject]
+                                                                  ) [OneFactor]
+                                                                ) [OneTerm]
+                                                              ) [DesignAssign]
+                                                            ) [DesignStm]
+                                                          ) [StmtList]
+                                                          DesignStm(
+                                                            DesignAssign(
+                                                              Design(
+                                                               k2
+                                                              ) [Design]
+                                                              OneTerm(
+                                                                OneFactor(
+                                                                  FactNewObject(
+                                                                    Type(
+                                                                     Kvadar
+                                                                    ) [Type]
+                                                                    ActParamsList(
+                                                                      ActParams(
+                                                                        ActParams(
+                                                                          ActParam(
+                                                                            ActPar(
+                                                                              OneTerm(
+                                                                                OneFactor(
+                                                                                  FactNum(
+                                                                                   3
+                                                                                  ) [FactNum]
+                                                                                ) [OneFactor]
+                                                                              ) [OneTerm]
+                                                                            ) [ActPar]
+                                                                          ) [ActParam]
+                                                                          ActPar(
+                                                                            OneTerm(
+                                                                              OneFactor(
+                                                                                FactNum(
+                                                                                 4
+                                                                                ) [FactNum]
+                                                                              ) [OneFactor]
+                                                                            ) [OneTerm]
+                                                                          ) [ActPar]
+                                                                        ) [ActParams]
+                                                                        ActPar(
+                                                                          OneTerm(
+                                                                            OneFactor(
+                                                                              FactNum(
+                                                                               5
+                                                                              ) [FactNum]
+                                                                            ) [OneFactor]
+                                                                          ) [OneTerm]
+                                                                        ) [ActPar]
+                                                                      ) [ActParams]
+                                                                    ) [ActParamsList]
+                                                                  ) [FactNewObject]
+                                                                ) [OneFactor]
+                                                              ) [OneTerm]
+                                                            ) [DesignAssign]
+                                                          ) [DesignStm]
+                                                        ) [StmtList]
+                                                        DesignStm(
+                                                          DesignAssign(
+                                                            DesignArray(
+                                                              ArrayDes(
+                                                                Design(
+                                                                 predmeti
+                                                                ) [Design]
+                                                              ) [ArrayDes]
+                                                              OneTerm(
+                                                                OneFactor(
+                                                                  FactNum(
+                                                                   0
+                                                                  ) [FactNum]
+                                                                ) [OneFactor]
+                                                              ) [OneTerm]
+                                                            ) [DesignArray]
+                                                            OneTerm(
+                                                              OneFactor(
+                                                                FactDesign(
+                                                                  Design(
+                                                                   s1
+                                                                  ) [Design]
+                                                                ) [FactDesign]
+                                                              ) [OneFactor]
+                                                            ) [OneTerm]
+                                                          ) [DesignAssign]
+                                                        ) [DesignStm]
+                                                      ) [StmtList]
+                                                      DesignStm(
+                                                        DesignAssign(
+                                                          DesignArray(
+                                                            ArrayDes(
+                                                              Design(
+                                                               predmeti
+                                                              ) [Design]
+                                                            ) [ArrayDes]
+                                                            OneTerm(
+                                                              OneFactor(
+                                                                FactNum(
+                                                                 2
+                                                                ) [FactNum]
+                                                              ) [OneFactor]
+                                                            ) [OneTerm]
+                                                          ) [DesignArray]
+                                                          OneTerm(
+                                                            OneFactor(
+                                                              FactDesign(
+                                                                Design(
+                                                                 s2
+                                                                ) [Design]
+                                                              ) [FactDesign]
+                                                            ) [OneFactor]
+                                                          ) [OneTerm]
+                                                        ) [DesignAssign]
+                                                      ) [DesignStm]
+                                                    ) [StmtList]
+                                                    DesignStm(
+                                                      DesignAssign(
+                                                        DesignArray(
+                                                          ArrayDes(
+                                                            Design(
+                                                             predmeti
+                                                            ) [Design]
+                                                          ) [ArrayDes]
+                                                          OneTerm(
+                                                            OneFactor(
+                                                              FactNum(
+                                                               4
+                                                              ) [FactNum]
+                                                            ) [OneFactor]
+                                                          ) [OneTerm]
+                                                        ) [DesignArray]
+                                                        OneTerm(
+                                                          OneFactor(
+                                                            FactDesign(
+                                                              Design(
+                                                               s3
+                                                              ) [Design]
+                                                            ) [FactDesign]
+                                                          ) [OneFactor]
+                                                        ) [OneTerm]
+                                                      ) [DesignAssign]
+                                                    ) [DesignStm]
+                                                  ) [StmtList]
+                                                  DesignStm(
+                                                    DesignAssign(
+                                                      DesignArray(
+                                                        ArrayDes(
+                                                          Design(
+                                                           predmeti
+                                                          ) [Design]
+                                                        ) [ArrayDes]
+                                                        OneTerm(
+                                                          OneFactor(
+                                                            FactNum(
+                                                             1
+                                                            ) [FactNum]
+                                                          ) [OneFactor]
+                                                        ) [OneTerm]
+                                                      ) [DesignArray]
+                                                      OneTerm(
+                                                        OneFactor(
+                                                          FactDesign(
+                                                            Design(
+                                                             k1
+                                                            ) [Design]
+                                                          ) [FactDesign]
+                                                        ) [OneFactor]
+                                                      ) [OneTerm]
+                                                    ) [DesignAssign]
+                                                  ) [DesignStm]
+                                                ) [StmtList]
+                                                DesignStm(
+                                                  DesignAssign(
+                                                    DesignArray(
+                                                      ArrayDes(
+                                                        Design(
+                                                         predmeti
+                                                        ) [Design]
+                                                      ) [ArrayDes]
+                                                      OneTerm(
+                                                        OneFactor(
+                                                          FactNum(
+                                                           3
+                                                          ) [FactNum]
+                                                        ) [OneFactor]
+                                                      ) [OneTerm]
+                                                    ) [DesignArray]
+                                                    OneTerm(
+                                                      OneFactor(
+                                                        FactDesign(
+                                                          Design(
+                                                           k2
+                                                          ) [Design]
+                                                        ) [FactDesign]
+                                                      ) [OneFactor]
+                                                    ) [OneTerm]
+                                                  ) [DesignAssign]
+                                                ) [DesignStm]
+                                              ) [StmtList]
+                                              DesignStm(
+                                                DesignAssign(
+                                                  DesignArray(
+                                                    ArrayDes(
+                                                      Design(
+                                                       predmeti
+                                                      ) [Design]
+                                                    ) [ArrayDes]
+                                                    OneTerm(
+                                                      OneFactor(
+                                                        FactNum(
+                                                         5
+                                                        ) [FactNum]
+                                                      ) [OneFactor]
+                                                    ) [OneTerm]
+                                                  ) [DesignArray]
+                                                  OneTerm(
+                                                    OneFactor(
+                                                      FactDesign(
+                                                        Design(
+                                                         k3
+                                                        ) [Design]
+                                                      ) [FactDesign]
+                                                    ) [OneFactor]
+                                                  ) [OneTerm]
+                                                ) [DesignAssign]
+                                              ) [DesignStm]
+                                            ) [StmtList]
+                                            ReadStm(
+                                              Design(
+                                               t
+                                              ) [Design]
+                                            ) [ReadStm]
+                                          ) [StmtList]
+                                          DesignStm(
+                                            DesignAssign(
+                                              Design(
+                                               i
+                                              ) [Design]
+                                              OneTerm(
+                                                OneFactor(
+                                                  FactNum(
+                                                   0
+                                                  ) [FactNum]
+                                                ) [OneFactor]
+                                              ) [OneTerm]
+                                            ) [DesignAssign]
+                                          ) [DesignStm]
+                                        ) [StmtList]
+                                        WhileStm(
+                                          WhileCond(
+                                          ) [WhileCond]
+                                          OneCondition(
+                                            OneCondTerm(
+                                              CondFacts(
+                                                OneTerm(
+                                                  OneFactor(
+                                                    FactDesign(
+                                                      Design(
+                                                       i
+                                                      ) [Design]
+                                                    ) [FactDesign]
+                                                  ) [OneFactor]
+                                                ) [OneTerm]
+                                                Less(
+                                                ) [Less]
+                                                OneTerm(
+                                                  OneFactor(
+                                                    FactNum(
+                                                     6
+                                                    ) [FactNum]
+                                                  ) [OneFactor]
+                                                ) [OneTerm]
+                                              ) [CondFacts]
+                                            ) [OneCondTerm]
+                                          ) [OneCondition]
+                                          WhileStart(
+                                          ) [WhileStart]
+                                          Stm(
+                                            StmtList(
+                                              StmtList(
+                                                NoStmt(
+                                                ) [NoStmt]
+                                                DesignStm(
+                                                  DesignFuncCall(
+                                                    DesignField(
+                                                      DesignArray(
+                                                        ArrayDes(
+                                                          Design(
+                                                           predmeti
+                                                          ) [Design]
+                                                        ) [ArrayDes]
+                                                        OneTerm(
+                                                          OneFactor(
+                                                            FactDesign(
+                                                              Design(
+                                                               i
+                                                              ) [Design]
+                                                            ) [FactDesign]
+                                                          ) [OneFactor]
+                                                        ) [OneTerm]
+                                                      ) [DesignArray]
+                                                     postaviTezinu
+                                                    ) [DesignField]
+                                                    FunctionCalled(
+                                                    ) [FunctionCalled]
+                                                    ActParamsList(
+                                                      ActParam(
+                                                        ActPar(
+                                                          OneTerm(
+                                                            OneFactor(
+                                                              FactDesign(
+                                                                Design(
+                                                                 t
+                                                                ) [Design]
+                                                              ) [FactDesign]
+                                                            ) [OneFactor]
+                                                          ) [OneTerm]
+                                                        ) [ActPar]
+                                                      ) [ActParam]
+                                                    ) [ActParamsList]
+                                                  ) [DesignFuncCall]
+                                                ) [DesignStm]
+                                              ) [StmtList]
+                                              DesignStm(
+                                                DesignInc(
+                                                  Design(
+                                                   i
+                                                  ) [Design]
+                                                ) [DesignInc]
+                                              ) [DesignStm]
+                                            ) [StmtList]
+                                          ) [Stm]
+                                          WhileLoopEnd(
+                                          ) [WhileLoopEnd]
+                                        ) [WhileStm]
+                                      ) [StmtList]
+                                      DesignStm(
+                                        DesignAssign(
+                                          Design(
+                                           zapreminaS
+                                          ) [Design]
+                                          OneTerm(
+                                            OneFactor(
+                                              FactNum(
+                                               0
+                                              ) [FactNum]
+                                            ) [OneFactor]
+                                          ) [OneTerm]
+                                        ) [DesignAssign]
+                                      ) [DesignStm]
+                                    ) [StmtList]
+                                    DesignStm(
+                                      DesignAssign(
+                                        Design(
+                                         tezinaS
+                                        ) [Design]
+                                        OneTerm(
+                                          OneFactor(
+                                            FactNum(
+                                             0
+                                            ) [FactNum]
+                                          ) [OneFactor]
+                                        ) [OneTerm]
+                                      ) [DesignAssign]
+                                    ) [DesignStm]
+                                  ) [StmtList]
+                                  DesignStm(
+                                    DesignAssign(
+                                      Design(
+                                       i
+                                      ) [Design]
+                                      OneTerm(
+                                        OneFactor(
+                                          FactNum(
+                                           1
+                                          ) [FactNum]
+                                        ) [OneFactor]
+                                      ) [OneTerm]
+                                    ) [DesignAssign]
+                                  ) [DesignStm]
+                                ) [StmtList]
+                                WhileStm(
+                                  WhileCond(
+                                  ) [WhileCond]
+                                  OneCondition(
+                                    OneCondTerm(
+                                      CondFacts(
+                                        OneTerm(
+                                          OneFactor(
+                                            FactDesign(
+                                              Design(
+                                               i
+                                              ) [Design]
+                                            ) [FactDesign]
+                                          ) [OneFactor]
+                                        ) [OneTerm]
+                                        Less(
+                                        ) [Less]
+                                        OneTerm(
+                                          OneFactor(
+                                            FactNum(
+                                             6
+                                            ) [FactNum]
+                                          ) [OneFactor]
+                                        ) [OneTerm]
+                                      ) [CondFacts]
+                                    ) [OneCondTerm]
+                                  ) [OneCondition]
+                                  WhileStart(
+                                  ) [WhileStart]
+                                  Stm(
+                                    StmtList(
+                                      StmtList(
+                                        StmtList(
+                                          StmtList(
+                                            StmtList(
+                                              NoStmt(
+                                              ) [NoStmt]
+                                              UnmatchedIf(
+                                                IfStart(
+                                                ) [IfStart]
+                                                IfCond(
+                                                  OneCondition(
+                                                    OneCondTerm(
+                                                      CondFacts(
+                                                        OneTerm(
+                                                          TermMul(
+                                                            OneFactor(
+                                                              FactDesign(
+                                                                Design(
+                                                                 i
+                                                                ) [Design]
+                                                              ) [FactDesign]
+                                                            ) [OneFactor]
+                                                            Mod(
+                                                            ) [Mod]
+                                                            FactNum(
+                                                             2
+                                                            ) [FactNum]
+                                                          ) [TermMul]
+                                                        ) [OneTerm]
+                                                        EqualTo(
+                                                        ) [EqualTo]
+                                                        OneTerm(
+                                                          OneFactor(
+                                                            FactNum(
+                                                             0
+                                                            ) [FactNum]
+                                                          ) [OneFactor]
+                                                        ) [OneTerm]
+                                                      ) [CondFacts]
+                                                    ) [OneCondTerm]
+                                                  ) [OneCondition]
+                                                  CheckOrCond(
+                                                  ) [CheckOrCond]
+                                                ) [IfCond]
+                                                Stm(
+                                                  StmtList(
+                                                    StmtList(
+                                                      NoStmt(
+                                                      ) [NoStmt]
+                                                      DesignStm(
+                                                        DesignInc(
+                                                          Design(
+                                                           i
+                                                          ) [Design]
+                                                        ) [DesignInc]
+                                                      ) [DesignStm]
+                                                    ) [StmtList]
+                                                    ContinueStm(
+                                                    ) [ContinueStm]
+                                                  ) [StmtList]
+                                                ) [Stm]
+                                              ) [UnmatchedIf]
+                                            ) [StmtList]
+                                            DesignStm(
+                                              DesignAssign(
+                                                Design(
+                                                 zapreminaS
+                                                ) [Design]
+                                                PlusTerm(
+                                                  OneTerm(
+                                                    OneFactor(
+                                                      FactDesign(
+                                                        Design(
+                                                         zapreminaS
+                                                        ) [Design]
+                                                      ) [FactDesign]
+                                                    ) [OneFactor]
+                                                  ) [OneTerm]
+                                                  Plus(
+                                                  ) [Plus]
+                                                  OneFactor(
+                                                    FactFuncCall(
+                                                      DesignField(
+                                                        DesignArray(
+                                                          ArrayDes(
+                                                            Design(
+                                                             predmeti
+                                                            ) [Design]
+                                                          ) [ArrayDes]
+                                                          PlusTerm(
+                                                            OneTerm(
+                                                              OneFactor(
+                                                                FactDesign(
+                                                                  Design(
+                                                                   i
+                                                                  ) [Design]
+                                                                ) [FactDesign]
+                                                              ) [OneFactor]
+                                                            ) [OneTerm]
+                                                            Minus(
+                                                            ) [Minus]
+                                                            OneFactor(
+                                                              FactNum(
+                                                               1
+                                                              ) [FactNum]
+                                                            ) [OneFactor]
+                                                          ) [PlusTerm]
+                                                        ) [DesignArray]
+                                                       zapremina
+                                                      ) [DesignField]
+                                                      FunctionCalled(
+                                                      ) [FunctionCalled]
+                                                      NoActParamsList(
+                                                      ) [NoActParamsList]
+                                                    ) [FactFuncCall]
+                                                  ) [OneFactor]
+                                                ) [PlusTerm]
+                                              ) [DesignAssign]
+                                            ) [DesignStm]
+                                          ) [StmtList]
+                                          DesignStm(
+                                            DesignAssign(
+                                              Design(
+                                               tezinaS
+                                              ) [Design]
+                                              PlusTerm(
+                                                OneTerm(
+                                                  OneFactor(
+                                                    FactDesign(
+                                                      Design(
+                                                       tezinaS
+                                                      ) [Design]
+                                                    ) [FactDesign]
+                                                  ) [OneFactor]
+                                                ) [OneTerm]
+                                                Plus(
+                                                ) [Plus]
+                                                OneFactor(
+                                                  FactFuncCall(
+                                                    DesignField(
+                                                      DesignArray(
+                                                        ArrayDes(
+                                                          Design(
+                                                           predmeti
+                                                          ) [Design]
+                                                        ) [ArrayDes]
+                                                        PlusTerm(
+                                                          OneTerm(
+                                                            OneFactor(
+                                                              FactDesign(
+                                                                Design(
+                                                                 i
+                                                                ) [Design]
+                                                              ) [FactDesign]
+                                                            ) [OneFactor]
+                                                          ) [OneTerm]
+                                                          Minus(
+                                                          ) [Minus]
+                                                          OneFactor(
+                                                            FactNum(
+                                                             1
+                                                            ) [FactNum]
+                                                          ) [OneFactor]
+                                                        ) [PlusTerm]
+                                                      ) [DesignArray]
+                                                     Q
+                                                    ) [DesignField]
+                                                    FunctionCalled(
+                                                    ) [FunctionCalled]
+                                                    NoActParamsList(
+                                                    ) [NoActParamsList]
+                                                  ) [FactFuncCall]
+                                                ) [OneFactor]
+                                              ) [PlusTerm]
+                                            ) [DesignAssign]
+                                          ) [DesignStm]
+                                        ) [StmtList]
+                                        DesignStm(
+                                          DesignFuncCall(
+                                            Design(
+                                             ispis
+                                            ) [Design]
+                                            FunctionCalled(
+                                            ) [FunctionCalled]
+                                            ActParamsList(
+                                              ActParam(
+                                                ActPar(
+                                                  OneTerm(
+                                                    OneFactor(
+                                                      FactDesign(
+                                                        DesignArray(
+                                                          ArrayDes(
+                                                            Design(
+                                                             predmeti
+                                                            ) [Design]
+                                                          ) [ArrayDes]
+                                                          PlusTerm(
+                                                            OneTerm(
+                                                              OneFactor(
+                                                                FactDesign(
+                                                                  Design(
+                                                                   i
+                                                                  ) [Design]
+                                                                ) [FactDesign]
+                                                              ) [OneFactor]
+                                                            ) [OneTerm]
+                                                            Minus(
+                                                            ) [Minus]
+                                                            OneFactor(
+                                                              FactNum(
+                                                               1
+                                                              ) [FactNum]
+                                                            ) [OneFactor]
+                                                          ) [PlusTerm]
+                                                        ) [DesignArray]
+                                                      ) [FactDesign]
+                                                    ) [OneFactor]
+                                                  ) [OneTerm]
+                                                ) [ActPar]
+                                              ) [ActParam]
+                                            ) [ActParamsList]
+                                          ) [DesignFuncCall]
+                                        ) [DesignStm]
+                                      ) [StmtList]
+                                      DesignStm(
+                                        DesignInc(
+                                          Design(
+                                           i
+                                          ) [Design]
+                                        ) [DesignInc]
+                                      ) [DesignStm]
+                                    ) [StmtList]
+                                  ) [Stm]
+                                  WhileLoopEnd(
+                                  ) [WhileLoopEnd]
+                                ) [WhileStm]
+                              ) [StmtList]
+                              DesignStm(
+                                DesignAssign(
+                                  Design(
+                                   zapreminaK
+                                  ) [Design]
+                                  OneTerm(
+                                    OneFactor(
+                                      FactNum(
+                                       0
+                                      ) [FactNum]
+                                    ) [OneFactor]
+                                  ) [OneTerm]
+                                ) [DesignAssign]
+                              ) [DesignStm]
+                            ) [StmtList]
+                            DesignStm(
+                              DesignAssign(
+                                Design(
+                                 tezinaK
+                                ) [Design]
+                                OneTerm(
+                                  OneFactor(
+                                    FactNum(
+                                     0
+                                    ) [FactNum]
+                                  ) [OneFactor]
+                                ) [OneTerm]
+                              ) [DesignAssign]
+                            ) [DesignStm]
+                          ) [StmtList]
+                          DesignStm(
+                            DesignAssign(
+                              Design(
+                               i
+                              ) [Design]
+                              OneTerm(
+                                OneFactor(
+                                  FactNum(
+                                   1
+                                  ) [FactNum]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [DesignAssign]
+                          ) [DesignStm]
+                        ) [StmtList]
+                        WhileStm(
+                          WhileCond(
+                          ) [WhileCond]
+                          OneCondition(
+                            OneCondTerm(
+                              CondFacts(
+                                OneTerm(
+                                  OneFactor(
+                                    FactDesign(
+                                      Design(
+                                       i
+                                      ) [Design]
+                                    ) [FactDesign]
+                                  ) [OneFactor]
+                                ) [OneTerm]
+                                Less(
+                                ) [Less]
+                                OneTerm(
+                                  OneFactor(
+                                    FactNum(
+                                     6
+                                    ) [FactNum]
+                                  ) [OneFactor]
+                                ) [OneTerm]
+                              ) [CondFacts]
+                            ) [OneCondTerm]
+                          ) [OneCondition]
+                          WhileStart(
+                          ) [WhileStart]
+                          Stm(
+                            StmtList(
+                              StmtList(
+                                StmtList(
+                                  StmtList(
+                                    StmtList(
+                                      NoStmt(
+                                      ) [NoStmt]
+                                      UnmatchedIf(
+                                        IfStart(
+                                        ) [IfStart]
+                                        IfCond(
+                                          OneCondition(
+                                            OneCondTerm(
+                                              CondFacts(
+                                                OneTerm(
+                                                  TermMul(
+                                                    OneFactor(
+                                                      FactDesign(
+                                                        Design(
+                                                         i
+                                                        ) [Design]
+                                                      ) [FactDesign]
+                                                    ) [OneFactor]
+                                                    Mod(
+                                                    ) [Mod]
+                                                    FactNum(
+                                                     2
+                                                    ) [FactNum]
+                                                  ) [TermMul]
+                                                ) [OneTerm]
+                                                EqualTo(
+                                                ) [EqualTo]
+                                                OneTerm(
+                                                  OneFactor(
+                                                    FactNum(
+                                                     1
+                                                    ) [FactNum]
+                                                  ) [OneFactor]
+                                                ) [OneTerm]
+                                              ) [CondFacts]
+                                            ) [OneCondTerm]
+                                          ) [OneCondition]
+                                          CheckOrCond(
+                                          ) [CheckOrCond]
+                                        ) [IfCond]
+                                        Stm(
+                                          StmtList(
+                                            StmtList(
+                                              NoStmt(
+                                              ) [NoStmt]
+                                              DesignStm(
+                                                DesignInc(
+                                                  Design(
+                                                   i
+                                                  ) [Design]
+                                                ) [DesignInc]
+                                              ) [DesignStm]
+                                            ) [StmtList]
+                                            ContinueStm(
+                                            ) [ContinueStm]
+                                          ) [StmtList]
+                                        ) [Stm]
+                                      ) [UnmatchedIf]
+                                    ) [StmtList]
+                                    DesignStm(
+                                      DesignAssign(
+                                        Design(
+                                         zapreminaS
+                                        ) [Design]
+                                        PlusTerm(
+                                          OneTerm(
+                                            OneFactor(
+                                              FactDesign(
+                                                Design(
+                                                 zapreminaS
+                                                ) [Design]
+                                              ) [FactDesign]
+                                            ) [OneFactor]
+                                          ) [OneTerm]
+                                          Plus(
+                                          ) [Plus]
+                                          OneFactor(
+                                            FactFuncCall(
+                                              DesignField(
+                                                DesignArray(
+                                                  ArrayDes(
+                                                    Design(
+                                                     predmeti
+                                                    ) [Design]
+                                                  ) [ArrayDes]
+                                                  PlusTerm(
+                                                    OneTerm(
+                                                      OneFactor(
+                                                        FactDesign(
+                                                          Design(
+                                                           i
+                                                          ) [Design]
+                                                        ) [FactDesign]
+                                                      ) [OneFactor]
+                                                    ) [OneTerm]
+                                                    Minus(
+                                                    ) [Minus]
+                                                    OneFactor(
+                                                      FactNum(
+                                                       1
+                                                      ) [FactNum]
+                                                    ) [OneFactor]
+                                                  ) [PlusTerm]
+                                                ) [DesignArray]
+                                               zapremina
+                                              ) [DesignField]
+                                              FunctionCalled(
+                                              ) [FunctionCalled]
+                                              NoActParamsList(
+                                              ) [NoActParamsList]
+                                            ) [FactFuncCall]
+                                          ) [OneFactor]
+                                        ) [PlusTerm]
+                                      ) [DesignAssign]
+                                    ) [DesignStm]
+                                  ) [StmtList]
+                                  DesignStm(
+                                    DesignAssign(
+                                      Design(
+                                       tezinaS
+                                      ) [Design]
+                                      PlusTerm(
+                                        OneTerm(
+                                          OneFactor(
+                                            FactDesign(
+                                              Design(
+                                               tezinaS
+                                              ) [Design]
+                                            ) [FactDesign]
+                                          ) [OneFactor]
+                                        ) [OneTerm]
+                                        Plus(
+                                        ) [Plus]
+                                        OneFactor(
+                                          FactFuncCall(
+                                            DesignField(
+                                              DesignArray(
+                                                ArrayDes(
+                                                  Design(
+                                                   predmeti
+                                                  ) [Design]
+                                                ) [ArrayDes]
+                                                PlusTerm(
+                                                  OneTerm(
+                                                    OneFactor(
+                                                      FactDesign(
+                                                        Design(
+                                                         i
+                                                        ) [Design]
+                                                      ) [FactDesign]
+                                                    ) [OneFactor]
+                                                  ) [OneTerm]
+                                                  Minus(
+                                                  ) [Minus]
+                                                  OneFactor(
+                                                    FactNum(
+                                                     1
+                                                    ) [FactNum]
+                                                  ) [OneFactor]
+                                                ) [PlusTerm]
+                                              ) [DesignArray]
+                                             Q
+                                            ) [DesignField]
+                                            FunctionCalled(
+                                            ) [FunctionCalled]
+                                            NoActParamsList(
+                                            ) [NoActParamsList]
+                                          ) [FactFuncCall]
+                                        ) [OneFactor]
+                                      ) [PlusTerm]
+                                    ) [DesignAssign]
+                                  ) [DesignStm]
+                                ) [StmtList]
+                                DesignStm(
+                                  DesignFuncCall(
+                                    Design(
+                                     ispis
+                                    ) [Design]
+                                    FunctionCalled(
+                                    ) [FunctionCalled]
+                                    ActParamsList(
+                                      ActParam(
+                                        ActPar(
+                                          OneTerm(
+                                            OneFactor(
+                                              FactDesign(
+                                                DesignArray(
+                                                  ArrayDes(
+                                                    Design(
+                                                     predmeti
+                                                    ) [Design]
+                                                  ) [ArrayDes]
+                                                  PlusTerm(
+                                                    OneTerm(
+                                                      OneFactor(
+                                                        FactDesign(
+                                                          Design(
+                                                           i
+                                                          ) [Design]
+                                                        ) [FactDesign]
+                                                      ) [OneFactor]
+                                                    ) [OneTerm]
+                                                    Minus(
+                                                    ) [Minus]
+                                                    OneFactor(
+                                                      FactNum(
+                                                       1
+                                                      ) [FactNum]
+                                                    ) [OneFactor]
+                                                  ) [PlusTerm]
+                                                ) [DesignArray]
+                                              ) [FactDesign]
+                                            ) [OneFactor]
+                                          ) [OneTerm]
+                                        ) [ActPar]
+                                      ) [ActParam]
+                                    ) [ActParamsList]
+                                  ) [DesignFuncCall]
+                                ) [DesignStm]
+                              ) [StmtList]
+                              DesignStm(
+                                DesignInc(
+                                  Design(
+                                   i
+                                  ) [Design]
+                                ) [DesignInc]
+                              ) [DesignStm]
+                            ) [StmtList]
+                          ) [Stm]
+                          WhileLoopEnd(
+                          ) [WhileLoopEnd]
+                        ) [WhileStm]
+                      ) [StmtList]
+                      PrintStm(
+                        OneTerm(
+                          OneFactor(
+                            FactDesign(
+                              Design(
+                               zapreminaS
+                              ) [Design]
+                            ) [FactDesign]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                        NoNumConstant(
+                        ) [NoNumConstant]
+                      ) [PrintStm]
+                    ) [StmtList]
+                    PrintStm(
+                      OneTerm(
+                        OneFactor(
+                          FactDesign(
+                            Design(
+                             eol
+                            ) [Design]
+                          ) [FactDesign]
+                        ) [OneFactor]
+                      ) [OneTerm]
+                      NoNumConstant(
+                      ) [NoNumConstant]
+                    ) [PrintStm]
+                  ) [StmtList]
+                  PrintStm(
+                    OneTerm(
+                      OneFactor(
+                        FactDesign(
+                          Design(
+                           zapreminaK
+                          ) [Design]
+                        ) [FactDesign]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                    NoNumConstant(
+                    ) [NoNumConstant]
+                  ) [PrintStm]
+                ) [StmtList]
+                PrintStm(
+                  OneTerm(
+                    OneFactor(
+                      FactDesign(
+                        Design(
+                         eol
+                        ) [Design]
+                      ) [FactDesign]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                  NoNumConstant(
+                  ) [NoNumConstant]
+                ) [PrintStm]
+              ) [StmtList]
+              PrintStm(
+                OneTerm(
+                  OneFactor(
+                    FactDesign(
+                      Design(
+                       tezinaS
+                      ) [Design]
+                    ) [FactDesign]
+                  ) [OneFactor]
+                ) [OneTerm]
+                NoNumConstant(
+                ) [NoNumConstant]
+              ) [PrintStm]
+            ) [StmtList]
+            PrintStm(
+              OneTerm(
+                OneFactor(
+                  FactDesign(
+                    Design(
+                     eol
+                    ) [Design]
+                  ) [FactDesign]
+                ) [OneFactor]
+              ) [OneTerm]
+              NoNumConstant(
+              ) [NoNumConstant]
+            ) [PrintStm]
+          ) [StmtList]
+          PrintStm(
+            OneTerm(
+              OneFactor(
+                FactDesign(
+                  Design(
+                   tezinaK
+                  ) [Design]
+                ) [FactDesign]
+              ) [OneFactor]
+            ) [OneTerm]
+            NoNumConstant(
+            ) [NoNumConstant]
+          ) [PrintStm]
+        ) [StmtList]
+        PrintStm(
+          OneTerm(
+            OneFactor(
+              FactDesign(
+                Design(
+                 eol
+                ) [Design]
+              ) [FactDesign]
+            ) [OneFactor]
+          ) [OneTerm]
+          NoNumConstant(
+          ) [NoNumConstant]
+        ) [PrintStm]
+      ) [StmtList]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  15:23:27,114 - ===================================
+INFO  15:23:27,119 - Definisana je konstanta cinilac cija je vrednost = 4 na liniji 5
+INFO  15:23:27,119 - Definisana je konstanta delilac cija je vrednost = 3 na liniji 5
+INFO  15:23:27,119 - Obradjuje se klasa Predmet na liniji 7
+INFO  15:23:27,119 - Definisana je promenljiva tezina na liniji 9
+INFO  15:23:27,119 - Definisana je promenljiva vrsta na liniji 10
+INFO  15:23:27,119 - Obradjuje se funkcija postaviTezinu na liniji 13
+INFO  15:23:27,119 - Definisan je formalni argument tezina na liniji 13
+INFO  15:23:27,119 - Pristup promenljivoj this na liniji 13
+ERROR 15:23:27,120 - Semanticka greska na liniji 13: polje/metoda tezina ne postoji u okviru klase this na liniji 13
+INFO  15:23:27,120 - Pristup promenljivoj tezina na liniji 13
+ERROR 15:23:27,121 - Semanticka greska na liniji 13: tipovi moraju biti kompatibilni.
+INFO  15:23:27,121 - Obradjuje se funkcija ucitajTezinu na liniji 14
+INFO  15:23:27,121 - Pristup promenljivoj tezina na liniji 14
+INFO  15:23:27,121 - Obradjuje se funkcija zapremina na liniji 15
+INFO  15:23:27,122 - Obradjuje se funkcija Q na liniji 16
+INFO  15:23:27,122 - Pristup funkciji zapremina na liniji 16
+INFO  15:23:27,122 - Pronadjen poziv funkcije zapremina na liniji 16
+ERROR 15:23:27,122 - Semanticka greska na liniji 16: broj argumenata funkcije se mora poklapati sa brojem formalnih parametara funcije!
+INFO  15:23:27,122 - Pristup promenljivoj tezina na liniji 16
+INFO  15:23:27,122 - Obradjuje se funkcija postaviVrstu na liniji 17
+INFO  15:23:27,122 - Definisan je formalni argument vrsta na liniji 17
+INFO  15:23:27,122 - Pristup promenljivoj this na liniji 17
+ERROR 15:23:27,122 - Semanticka greska na liniji 17: polje/metoda vrsta ne postoji u okviru klase this na liniji 17
+INFO  15:23:27,122 - Pristup promenljivoj vrsta na liniji 17
+ERROR 15:23:27,122 - Semanticka greska na liniji 17: tipovi moraju biti kompatibilni.
+INFO  15:23:27,122 - Obradjuje se funkcija dohvVrstu na liniji 18
+INFO  15:23:27,122 - Pristup promenljivoj vrsta na liniji 18
+INFO  15:23:27,122 - Obradjuje se funkcija dohvTezinu na liniji 19
+INFO  15:23:27,122 - Pristup promenljivoj tezina na liniji 19
+INFO  15:23:27,122 - Obradjuje se funkcija ispisi na liniji 20
+INFO  15:23:27,122 - Pristup promenljivoj vrsta na liniji 21
+INFO  15:23:27,122 - Pristup funkciji Q na liniji 22
+INFO  15:23:27,122 - Pronadjen poziv funkcije Q na liniji 22
+ERROR 15:23:27,122 - Semanticka greska na liniji 22: broj argumenata funkcije se mora poklapati sa brojem formalnih parametara funcije!
+INFO  15:23:27,123 - Obradjuje se klasa Sfera na liniji 27
+INFO  15:23:27,123 - Definisana je promenljiva r na liniji 29
+INFO  15:23:27,123 - Obradjuje se klasa Kvadar na liniji 47
+INFO  15:23:27,123 - Definisana je promenljiva a na liniji 49
+INFO  15:23:27,123 - Definisana je promenljiva b na liniji 49
+INFO  15:23:27,123 - Definisana je promenljiva c na liniji 49
+INFO  15:23:27,123 - Definisana je promenljiva zapreminaK na liniji 67
+INFO  15:23:27,123 - Definisana je promenljiva zapreminaS na liniji 67
+INFO  15:23:27,123 - Definisana je promenljiva tezinaK na liniji 68
+INFO  15:23:27,123 - Definisana je promenljiva tezinaS na liniji 68
+INFO  15:23:27,123 - Obradjuje se funkcija ispis na liniji 71
+INFO  15:23:27,123 - Definisan je formalni argument p na liniji 71
+INFO  15:23:27,123 - Pristup promenljivoj p na liniji 73
+INFO  15:23:27,123 - Poziva se metod ispisi klase p na liniji 73
+ERROR 15:23:27,123 - Semanticka greska ispisi ne moze se koristiti u izrazima jer nema povratnu vrednost  na liniji 73
+INFO  15:23:27,123 - Pristup promenljivoj eol na liniji 74
+INFO  15:23:27,123 - Pristup promenljivoj p na liniji 75
+INFO  15:23:27,123 - Poziva se metod dohvTezinu klase p na liniji 75
+ERROR 15:23:27,123 - Semanticka greska na liniji 75: funkcija dohvTezinu nije deklarisana. na liniji 75
+INFO  15:23:27,123 - Obradjuje se funkcija main na liniji 78
+INFO  15:23:27,124 - Definisana je promenljiva i na liniji 78
+INFO  15:23:27,124 - Definisana je promenljiva s1 na liniji 78
+INFO  15:23:27,124 - Definisana je promenljiva s2 na liniji 78
+INFO  15:23:27,124 - Definisana je promenljiva s3 na liniji 78
+INFO  15:23:27,124 - Definisana je promenljiva k1 na liniji 78
+INFO  15:23:27,124 - Definisana je promenljiva k2 na liniji 78
+INFO  15:23:27,124 - Definisana je promenljiva k3 na liniji 78
+INFO  15:23:27,124 - Definisana je promenljiva t na liniji 78
+INFO  15:23:27,124 - Pristup promenljivoj predmeti na liniji 80
+INFO  15:23:27,124 - Pristup promenljivoj s1 na liniji 81
+INFO  15:23:27,124 - Pristup promenljivoj s2 na liniji 82
+INFO  15:23:27,124 - Pristup promenljivoj s3 na liniji 83
+INFO  15:23:27,124 - Pristup promenljivoj k3 na liniji 85
+INFO  15:23:27,124 - Pristup promenljivoj k1 na liniji 86
+INFO  15:23:27,124 - Pristup promenljivoj k2 na liniji 87
+INFO  15:23:27,124 - Pristup promenljivoj predmeti na liniji 89
+INFO  15:23:27,124 - Pristup clanu niza predmeti na liniji 89
+INFO  15:23:27,124 - Pristup promenljivoj s1 na liniji 89
+ERROR 15:23:27,124 - Semanticka greska na liniji 89: tipovi moraju biti kompatibilni.
+INFO  15:23:27,124 - Pristup promenljivoj predmeti na liniji 90
+INFO  15:23:27,124 - Pristup clanu niza predmeti na liniji 90
+INFO  15:23:27,124 - Pristup promenljivoj s2 na liniji 90
+ERROR 15:23:27,124 - Semanticka greska na liniji 90: tipovi moraju biti kompatibilni.
+INFO  15:23:27,124 - Pristup promenljivoj predmeti na liniji 91
+INFO  15:23:27,124 - Pristup clanu niza predmeti na liniji 91
+INFO  15:23:27,124 - Pristup promenljivoj s3 na liniji 91
+ERROR 15:23:27,124 - Semanticka greska na liniji 91: tipovi moraju biti kompatibilni.
+INFO  15:23:27,124 - Pristup promenljivoj predmeti na liniji 92
+INFO  15:23:27,124 - Pristup clanu niza predmeti na liniji 92
+INFO  15:23:27,124 - Pristup promenljivoj k1 na liniji 92
+ERROR 15:23:27,124 - Semanticka greska na liniji 92: tipovi moraju biti kompatibilni.
+INFO  15:23:27,124 - Pristup promenljivoj predmeti na liniji 93
+INFO  15:23:27,124 - Pristup clanu niza predmeti na liniji 93
+INFO  15:23:27,124 - Pristup promenljivoj k2 na liniji 93
+ERROR 15:23:27,124 - Semanticka greska na liniji 93: tipovi moraju biti kompatibilni.
+INFO  15:23:27,124 - Pristup promenljivoj predmeti na liniji 94
+INFO  15:23:27,124 - Pristup clanu niza predmeti na liniji 94
+INFO  15:23:27,125 - Pristup promenljivoj k3 na liniji 94
+ERROR 15:23:27,125 - Semanticka greska na liniji 94: tipovi moraju biti kompatibilni.
+INFO  15:23:27,125 - Pristup promenljivoj t na liniji 96
+INFO  15:23:27,125 - Pristup promenljivoj i na liniji 97
+INFO  15:23:27,125 - Pristup promenljivoj i na liniji 98
+INFO  15:23:27,125 - Pristup promenljivoj predmeti na liniji 99
+INFO  15:23:27,125 - Pristup promenljivoj i na liniji 99
+INFO  15:23:27,125 - Pristup clanu niza predmeti na liniji 99
+ERROR 15:23:27,125 - Semanticka greska na liniji 99: tip rs.etf.pp1.symboltable.concepts.Obj@4d405ef7 nije klasa
+INFO  15:23:27,125 - Pristup promenljivoj t na liniji 99
+ERROR 15:23:27,125 - Semanticka greska na liniji 99: noObj mora biti globalna funkcija ili metoda klase.
+INFO  15:23:27,125 - Pristup promenljivoj i na liniji 100
+INFO  15:23:27,125 - Pristup promenljivoj zapreminaS na liniji 103
+INFO  15:23:27,125 - Pristup promenljivoj tezinaS na liniji 104
+INFO  15:23:27,125 - Pristup promenljivoj i na liniji 105
+INFO  15:23:27,125 - Pristup promenljivoj i na liniji 106
+INFO  15:23:27,125 - Pristup promenljivoj i na liniji 107
+INFO  15:23:27,125 - Pristup promenljivoj i na liniji 108
+INFO  15:23:27,125 - Pristup promenljivoj zapreminaS na liniji 111
+INFO  15:23:27,125 - Pristup promenljivoj zapreminaS na liniji 111
+INFO  15:23:27,125 - Pristup promenljivoj predmeti na liniji 111
+INFO  15:23:27,125 - Pristup promenljivoj i na liniji 111
+INFO  15:23:27,125 - Pristup clanu niza predmeti na liniji 111
+ERROR 15:23:27,125 - Semanticka greska na liniji 111: tip rs.etf.pp1.symboltable.concepts.Obj@4d405ef7 nije klasa
+ERROR 15:23:27,126 - Semanticka greska na liniji 111: funkcija noObj nije deklarisana. na liniji 111
+ERROR 15:23:27,126 - Semanticka greska na liniji 111: oba operanda moraju biti tipa int na liniji 111
+ERROR 15:23:27,126 - Semanticka greska na liniji 111: tipovi moraju biti kompatibilni.
+INFO  15:23:27,126 - Pristup promenljivoj tezinaS na liniji 112
+INFO  15:23:27,126 - Pristup promenljivoj tezinaS na liniji 112
+INFO  15:23:27,126 - Pristup promenljivoj predmeti na liniji 112
+INFO  15:23:27,126 - Pristup promenljivoj i na liniji 112
+INFO  15:23:27,126 - Pristup clanu niza predmeti na liniji 112
+ERROR 15:23:27,126 - Semanticka greska na liniji 112: tip rs.etf.pp1.symboltable.concepts.Obj@4d405ef7 nije klasa
+ERROR 15:23:27,126 - Semanticka greska na liniji 112: funkcija noObj nije deklarisana. na liniji 112
+ERROR 15:23:27,126 - Semanticka greska na liniji 112: oba operanda moraju biti tipa int na liniji 112
+ERROR 15:23:27,126 - Semanticka greska na liniji 112: tipovi moraju biti kompatibilni.
+INFO  15:23:27,126 - Pristup funkciji ispis na liniji 113
+INFO  15:23:27,126 - Pristup promenljivoj predmeti na liniji 113
+INFO  15:23:27,126 - Pristup promenljivoj i na liniji 113
+INFO  15:23:27,126 - Pristup clanu niza predmeti na liniji 113
+ERROR 15:23:27,126 - Semanticka greska ispis ne moze se koristiti u izrazima jer nema povratnu vrednost  na liniji 113
+INFO  15:23:27,126 - Pristup promenljivoj i na liniji 114
+INFO  15:23:27,126 - Pristup promenljivoj zapreminaK na liniji 118
+INFO  15:23:27,126 - Pristup promenljivoj tezinaK na liniji 119
+INFO  15:23:27,126 - Pristup promenljivoj i na liniji 120
+INFO  15:23:27,126 - Pristup promenljivoj i na liniji 121
+INFO  15:23:27,126 - Pristup promenljivoj i na liniji 122
+INFO  15:23:27,126 - Pristup promenljivoj i na liniji 123
+INFO  15:23:27,126 - Pristup promenljivoj zapreminaS na liniji 126
+INFO  15:23:27,126 - Pristup promenljivoj zapreminaS na liniji 126
+INFO  15:23:27,126 - Pristup promenljivoj predmeti na liniji 126
+INFO  15:23:27,126 - Pristup promenljivoj i na liniji 126
+INFO  15:23:27,126 - Pristup clanu niza predmeti na liniji 126
+ERROR 15:23:27,126 - Semanticka greska na liniji 126: tip rs.etf.pp1.symboltable.concepts.Obj@4d405ef7 nije klasa
+ERROR 15:23:27,126 - Semanticka greska na liniji 126: funkcija noObj nije deklarisana. na liniji 126
+ERROR 15:23:27,126 - Semanticka greska na liniji 126: oba operanda moraju biti tipa int na liniji 126
+ERROR 15:23:27,126 - Semanticka greska na liniji 126: tipovi moraju biti kompatibilni.
+INFO  15:23:27,126 - Pristup promenljivoj tezinaS na liniji 127
+INFO  15:23:27,126 - Pristup promenljivoj tezinaS na liniji 127
+INFO  15:23:27,126 - Pristup promenljivoj predmeti na liniji 127
+INFO  15:23:27,126 - Pristup promenljivoj i na liniji 127
+INFO  15:23:27,126 - Pristup clanu niza predmeti na liniji 127
+ERROR 15:23:27,126 - Semanticka greska na liniji 127: tip rs.etf.pp1.symboltable.concepts.Obj@4d405ef7 nije klasa
+ERROR 15:23:27,127 - Semanticka greska na liniji 127: funkcija noObj nije deklarisana. na liniji 127
+ERROR 15:23:27,127 - Semanticka greska na liniji 127: oba operanda moraju biti tipa int na liniji 127
+ERROR 15:23:27,127 - Semanticka greska na liniji 127: tipovi moraju biti kompatibilni.
+INFO  15:23:27,127 - Pristup funkciji ispis na liniji 128
+INFO  15:23:27,127 - Pristup promenljivoj predmeti na liniji 128
+INFO  15:23:27,127 - Pristup promenljivoj i na liniji 128
+INFO  15:23:27,127 - Pristup clanu niza predmeti na liniji 128
+ERROR 15:23:27,127 - Semanticka greska ispis ne moze se koristiti u izrazima jer nema povratnu vrednost  na liniji 128
+INFO  15:23:27,127 - Pristup promenljivoj i na liniji 129
+INFO  15:23:27,127 - Pristup promenljivoj zapreminaS na liniji 132
+INFO  15:23:27,127 - Pristup promenljivoj eol na liniji 132
+INFO  15:23:27,127 - Pristup promenljivoj zapreminaK na liniji 133
+INFO  15:23:27,127 - Pristup promenljivoj eol na liniji 133
+INFO  15:23:27,127 - Pristup promenljivoj tezinaS na liniji 134
+INFO  15:23:27,127 - Pristup promenljivoj eol na liniji 134
+INFO  15:23:27,127 - Pristup promenljivoj tezinaK na liniji 135
+INFO  15:23:27,127 - Pristup promenljivoj eol na liniji 135
+INFO  15:23:27,127 - ===================================
+ERROR 15:23:27,128 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,790 @@
+INFO  20:24:33,621 - Compiling source file: C:\pp1\workspace\MJCompiler\test\sintaksnaAnalizaTest1.mj
+INFO  20:24:33,667 - #2 program
+INFO  20:24:33,667 - #47 sintaksnaAnalizaGreske
+INFO  20:24:33,667 - #47 bool
+INFO  20:24:33,668 - #47 a
+INFO  20:24:33,668 - #35 ;
+INFO  20:24:33,668 - #6 const
+INFO  20:24:33,668 - #47 bool
+INFO  20:24:33,668 - #47 c
+INFO  20:24:33,668 - #32 =
+INFO  20:24:33,668 - #49 true
+INFO  20:24:33,668 - #35 ;
+INFO  20:24:33,669 - #6 const
+INFO  20:24:33,670 - #47 bool
+INFO  20:24:33,670 - #47 b
+INFO  20:24:33,670 - #32 =
+INFO  20:24:33,670 - #46 231
+INFO  20:24:33,671 - #35 ;
+INFO  20:24:33,671 - #47 int
+INFO  20:24:33,671 - #47 a1
+INFO  20:24:33,671 - #32 =
+ERROR 20:24:33,671 - 
+Sintaksna greska na liniji 9
+INFO  20:24:33,671 - #46 1
+INFO  20:24:33,671 - #35 ;
+INFO  20:24:33,672 - #6 const
+INFO  20:24:33,672 - #47 int
+INFO  20:24:33,672 - #47 b1
+ERROR 20:24:33,672 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 9
+INFO  20:24:33,673 - #32 =
+INFO  20:24:33,673 - #20 -
+ERROR 20:24:33,673 - 
+Sintaksna greska na liniji 11
+INFO  20:24:33,673 - #21 *
+INFO  20:24:33,673 - #46 1
+INFO  20:24:33,673 - #35 ;
+INFO  20:24:33,673 - #6 const
+INFO  20:24:33,673 - #47 int
+INFO  20:24:33,673 - #47 c1
+INFO  20:24:33,673 - #32 =
+ERROR 20:24:33,674 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 8
+INFO  20:24:33,674 - #47 faaaalse
+ERROR 20:24:33,674 - 
+Sintaksna greska na liniji 13
+INFO  20:24:33,674 - #35 ;
+INFO  20:24:33,674 - #47 char
+INFO  20:24:33,674 - #47 a2
+INFO  20:24:33,674 - #41 [
+INFO  20:24:33,675 - #48 c
+ERROR 20:24:33,675 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 8
+ERROR 20:24:33,675 - 
+Sintaksna greska na liniji 15
+INFO  20:24:33,675 - #42 ]
+INFO  20:24:33,675 - #35 ;
+INFO  20:24:33,675 - #6 const
+INFO  20:24:33,675 - #47 char
+INFO  20:24:33,675 - #47 b2
+ERROR 20:24:33,676 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 15
+INFO  20:24:33,676 - #32 =
+INFO  20:24:33,676 - #48 v
+INFO  20:24:33,676 - #35 ;
+INFO  20:24:33,676 - #6 const
+INFO  20:24:33,676 - #47 char
+INFO  20:24:33,676 - #47 c3
+INFO  20:24:33,676 - #32 =
+INFO  20:24:33,676 - #49 true
+INFO  20:24:33,677 - #37 ,
+INFO  20:24:33,677 - #47 c4
+INFO  20:24:33,677 - #32 =
+INFO  20:24:33,677 - #46 0
+INFO  20:24:33,677 - #32 =
+ERROR 20:24:33,677 - 
+Sintaksna greska na liniji 19
+INFO  20:24:33,677 - #46 0
+INFO  20:24:33,678 - #35 ;
+INFO  20:24:33,678 - #6 const
+INFO  20:24:33,678 - #47 a4
+INFO  20:24:33,678 - #35 ;
+INFO  20:24:33,678 - #47 int
+INFO  20:24:33,678 - #47 var1
+INFO  20:24:33,678 - #35 ;
+INFO  20:24:33,678 - #47 char
+ERROR 20:24:33,678 - Uspesan oporavak od greske pri deklaraciji promenljivih na liniji 8
+INFO  20:24:33,678 - #47 var2
+INFO  20:24:33,678 - #35 ;
+INFO  20:24:33,678 - #47 bool
+INFO  20:24:33,678 - #47 var3
+INFO  20:24:33,679 - #35 ;
+INFO  20:24:33,679 - #44 {
+INFO  20:24:33,679 - #13 void
+INFO  20:24:33,679 - #47 voidFun
+INFO  20:24:33,680 - #39 (
+INFO  20:24:33,681 - #47 int
+INFO  20:24:33,681 - #47 i
+INFO  20:24:33,681 - #40 )
+INFO  20:24:33,682 - #44 {
+INFO  20:24:33,682 - #45 }
+INFO  20:24:33,683 - #47 int
+INFO  20:24:33,683 - #47 intFun
+INFO  20:24:33,683 - #39 (
+INFO  20:24:33,683 - #47 int
+INFO  20:24:33,683 - #47 i
+INFO  20:24:33,683 - #37 ,
+INFO  20:24:33,683 - #47 char
+INFO  20:24:33,683 - #47 c
+INFO  20:24:33,683 - #40 )
+INFO  20:24:33,684 - #44 {
+INFO  20:24:33,684 - #45 }
+INFO  20:24:33,684 - #47 int
+INFO  20:24:33,684 - #47 intFun1
+INFO  20:24:33,684 - #39 (
+INFO  20:24:33,684 - #47 int
+INFO  20:24:33,684 - #47 i
+INFO  20:24:33,684 - #37 ,
+INFO  20:24:33,684 - #47 char
+INFO  20:24:33,684 - #47 c
+INFO  20:24:33,684 - #32 =
+ERROR 20:24:33,684 - 
+Sintaksna greska na liniji 33
+INFO  20:24:33,684 - #48 a
+INFO  20:24:33,684 - #40 )
+INFO  20:24:33,685 - #44 {
+INFO  20:24:33,685 - #45 }
+INFO  20:24:33,685 - #47 bool
+ERROR 20:24:33,685 - Uspesan oporavak od greske pri deklaraciji formalnih parametara funkcije na liniji 12
+INFO  20:24:33,685 - #47 boolFun
+INFO  20:24:33,685 - #39 (
+INFO  20:24:33,685 - #47 int
+INFO  20:24:33,686 - #47 a
+INFO  20:24:33,686 - #21 *
+ERROR 20:24:33,686 - 
+Sintaksna greska na liniji 35
+INFO  20:24:33,686 - #40 )
+INFO  20:24:33,686 - #44 {
+INFO  20:24:33,686 - #45 }
+INFO  20:24:33,686 - #13 void
+ERROR 20:24:33,686 - Uspesan oporavak od greske pri deklaraciji formalnih parametara funkcije na liniji 13
+INFO  20:24:33,686 - #47 main
+INFO  20:24:33,686 - #39 (
+INFO  20:24:33,686 - #40 )
+INFO  20:24:33,687 - #44 {
+INFO  20:24:33,687 - #47 var1
+INFO  20:24:33,688 - #19 +
+ERROR 20:24:33,688 - 
+Sintaksna greska na liniji 39
+INFO  20:24:33,688 - #35 ;
+INFO  20:24:33,688 - #47 var1
+INFO  20:24:33,688 - #32 =
+INFO  20:24:33,688 - #49 false
+ERROR 20:24:33,688 - Uspesan oporavak od greske do ";" pri dodeli vrednosti na liniji 1
+INFO  20:24:33,689 - #35 ;
+INFO  20:24:33,689 - #47 var1
+INFO  20:24:33,689 - #32 =
+INFO  20:24:33,689 - #35 ;
+ERROR 20:24:33,689 - 
+Sintaksna greska na liniji 43
+INFO  20:24:33,689 - #46 0
+INFO  20:24:33,690 - #47 var1
+INFO  20:24:33,690 - #32 =
+INFO  20:24:33,690 - #46 1
+INFO  20:24:33,690 - #35 ;
+INFO  20:24:33,690 - #47 var2
+INFO  20:24:33,690 - #32 =
+INFO  20:24:33,690 - #41 [
+ERROR 20:24:33,690 - Uspesan oporavak od greske do ";" pri dodeli vrednosti na liniji 1
+ERROR 20:24:33,690 - 
+Sintaksna greska na liniji 47
+INFO  20:24:33,690 - #42 ]
+INFO  20:24:33,690 - #35 ;
+INFO  20:24:33,690 - #47 var2
+INFO  20:24:33,690 - #32 =
+INFO  20:24:33,690 - #47 var1
+ERROR 20:24:33,690 - Uspesan oporavak od greske do ";" pri dodeli vrednosti na liniji 1
+INFO  20:24:33,690 - #21 *
+INFO  20:24:33,690 - #35 ;
+ERROR 20:24:33,690 - 
+Sintaksna greska na liniji 49
+INFO  20:24:33,690 - #47 var3
+INFO  20:24:33,691 - #32 =
+INFO  20:24:33,691 - #47 truuuuuue
+ERROR 20:24:33,691 - Uspesan oporavak od greske do ";" pri dodeli vrednosti na liniji 1
+INFO  20:24:33,691 - #35 ;
+INFO  20:24:33,691 - #47 var3
+INFO  20:24:33,691 - #32 =
+INFO  20:24:33,691 - #49 true
+INFO  20:24:33,691 - #35 ;
+INFO  20:24:33,691 - #7 if
+INFO  20:24:33,691 - #39 (
+INFO  20:24:33,692 - #47 var1
+INFO  20:24:33,692 - #26 >
+INFO  20:24:33,692 - #47 a1
+INFO  20:24:33,693 - #40 )
+INFO  20:24:33,693 - #44 {
+INFO  20:24:33,693 - #45 }
+INFO  20:24:33,694 - #5 else
+INFO  20:24:33,694 - #44 {
+INFO  20:24:33,694 - #45 }
+INFO  20:24:33,694 - #7 if
+INFO  20:24:33,694 - #39 (
+INFO  20:24:33,694 - #47 var1
+INFO  20:24:33,694 - #21 *
+INFO  20:24:33,695 - #47 a1
+INFO  20:24:33,695 - #40 )
+INFO  20:24:33,696 - #44 {
+INFO  20:24:33,696 - #45 }
+INFO  20:24:33,696 - #7 if
+INFO  20:24:33,696 - #39 (
+INFO  20:24:33,696 - #40 )
+ERROR 20:24:33,696 - 
+Sintaksna greska na liniji 60
+INFO  20:24:33,696 - #44 {
+INFO  20:24:33,696 - #45 }
+INFO  20:24:33,696 - #5 else
+ERROR 20:24:33,696 - Uspesan oporavak od greske do ")" pri definisanju logickog izraza na liniji 60
+INFO  20:24:33,697 - #44 {
+INFO  20:24:33,697 - #47 i
+INFO  20:24:33,697 - #33 ++
+INFO  20:24:33,697 - #33 ++
+ERROR 20:24:33,697 - 
+Sintaksna greska na liniji 61
+INFO  20:24:33,697 - #35 ;
+INFO  20:24:33,697 - #45 }
+INFO  20:24:33,697 - #7 if
+INFO  20:24:33,697 - #39 (
+ERROR 20:24:33,697 - Uspesan oporavak od greske do ";" pri dodeli vrednosti na liniji 6
+INFO  20:24:33,697 - #47 var1
+INFO  20:24:33,697 - #21 *
+INFO  20:24:33,697 - #47 a1
+INFO  20:24:33,697 - #24 ==
+INFO  20:24:33,697 - #46 0
+INFO  20:24:33,697 - #40 )
+INFO  20:24:33,697 - #44 {
+INFO  20:24:33,698 - #12 return
+INFO  20:24:33,698 - #35 ;
+INFO  20:24:33,698 - #45 }
+INFO  20:24:33,699 - #45 }
+INFO  20:24:33,699 - #45 }
+INFO  20:24:33,709 - Program(
+  ProgramName(
+   sintaksnaAnalizaGreske
+  ) [ProgramName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              DeclarationList(
+                DeclarationList(
+                  DeclarationList(
+                    DeclarationList(
+                      DeclarationList(
+                        DeclarationList(
+                          NoDecl(
+                          ) [NoDecl]
+                          VarDeclaration(
+                            VarDeclar(
+                              Type(
+                               bool
+                              ) [Type]
+                              OneVar(
+                                OneVariable(
+                                 a
+                                ) [OneVariable]
+                              ) [OneVar]
+                            ) [VarDeclar]
+                          ) [VarDeclaration]
+                        ) [DeclarationList]
+                        ConstDeclaration(
+                          ConstDecl(
+                            Type(
+                             bool
+                            ) [Type]
+                            SingleConstDecl(
+                             c
+                              BoolConstant(
+                               true
+                              ) [BoolConstant]
+                            ) [SingleConstDecl]
+                            NoConstDeclarList(
+                            ) [NoConstDeclarList]
+                          ) [ConstDecl]
+                        ) [ConstDeclaration]
+                      ) [DeclarationList]
+                      ConstDeclaration(
+                        ConstDecl(
+                          Type(
+                           bool
+                          ) [Type]
+                          SingleConstDecl(
+                           b
+                            IntConstant(
+                             231
+                            ) [IntConstant]
+                          ) [SingleConstDecl]
+                          NoConstDeclarList(
+                          ) [NoConstDeclarList]
+                        ) [ConstDecl]
+                      ) [ConstDeclaration]
+                    ) [DeclarationList]
+                    VarDeclaration(
+                      VarDeclar(
+                        Type(
+                         int
+                        ) [Type]
+                        ErrVarDeclarCOMMA(
+                        ) [ErrVarDeclarCOMMA]
+                      ) [VarDeclar]
+                    ) [VarDeclaration]
+                  ) [DeclarationList]
+                  VarDeclaration(
+                    ErrVarDeclarSEMI(
+                    ) [ErrVarDeclarSEMI]
+                  ) [VarDeclaration]
+                ) [DeclarationList]
+                VarDeclaration(
+                  ErrVarDeclarSEMI(
+                  ) [ErrVarDeclarSEMI]
+                ) [VarDeclaration]
+              ) [DeclarationList]
+              VarDeclaration(
+                VarDeclar(
+                  Type(
+                   char
+                  ) [Type]
+                  ErrVarDeclarCOMMA(
+                  ) [ErrVarDeclarCOMMA]
+                ) [VarDeclar]
+              ) [VarDeclaration]
+            ) [DeclarationList]
+            ConstDeclaration(
+              ConstDecl(
+                Type(
+                 char
+                ) [Type]
+                SingleConstDecl(
+                 b2
+                  CharConstant(
+                   v
+                  ) [CharConstant]
+                ) [SingleConstDecl]
+                NoConstDeclarList(
+                ) [NoConstDeclarList]
+              ) [ConstDecl]
+            ) [ConstDeclaration]
+          ) [DeclarationList]
+          VarDeclaration(
+            ErrVarDeclarSEMI(
+            ) [ErrVarDeclarSEMI]
+          ) [VarDeclaration]
+        ) [DeclarationList]
+        VarDeclaration(
+          VarDeclar(
+            Type(
+             int
+            ) [Type]
+            OneVar(
+              OneVariable(
+               var1
+              ) [OneVariable]
+            ) [OneVar]
+          ) [VarDeclar]
+        ) [VarDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDeclar(
+          Type(
+           char
+          ) [Type]
+          OneVar(
+            OneVariable(
+             var2
+            ) [OneVariable]
+          ) [OneVar]
+        ) [VarDeclar]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDeclar(
+        Type(
+         bool
+        ) [Type]
+        OneVar(
+          OneVariable(
+           var3
+          ) [OneVariable]
+        ) [OneVar]
+      ) [VarDeclar]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethDeclList(
+    MethDeclList(
+      MethDeclList(
+        MethDeclList(
+          MethDeclList(
+            NoMethDeclList(
+            ) [NoMethDeclList]
+            Method(
+              MethDeclTypeAndName(
+                MethodVoid(
+                ) [MethodVoid]
+               voidFun
+              ) [MethDeclTypeAndName]
+              FormParamsList(
+                NoFormParamsList(
+                ) [NoFormParamsList]
+                FormParam(
+                  FormParameter(
+                    Type(
+                     int
+                    ) [Type]
+                   i
+                  ) [FormParameter]
+                ) [FormParam]
+              ) [FormParamsList]
+              NoVarDeclarList(
+              ) [NoVarDeclarList]
+              NoStmt(
+              ) [NoStmt]
+            ) [Method]
+          ) [MethDeclList]
+          Method(
+            MethDeclTypeAndName(
+              MethodType(
+                Type(
+                 int
+                ) [Type]
+              ) [MethodType]
+             intFun
+            ) [MethDeclTypeAndName]
+            FormParamsList(
+              NoFormParamsList(
+              ) [NoFormParamsList]
+              FormParams(
+                FormParam(
+                  FormParameter(
+                    Type(
+                     int
+                    ) [Type]
+                   i
+                  ) [FormParameter]
+                ) [FormParam]
+                FormParameter(
+                  Type(
+                   char
+                  ) [Type]
+                 c
+                ) [FormParameter]
+              ) [FormParams]
+            ) [FormParamsList]
+            NoVarDeclarList(
+            ) [NoVarDeclarList]
+            NoStmt(
+            ) [NoStmt]
+          ) [Method]
+        ) [MethDeclList]
+        Method(
+          MethDeclTypeAndName(
+            MethodType(
+              Type(
+               int
+              ) [Type]
+            ) [MethodType]
+           intFun1
+          ) [MethDeclTypeAndName]
+          FormParamsList(
+            NoFormParamsList(
+            ) [NoFormParamsList]
+            ErrFormParams(
+            ) [ErrFormParams]
+          ) [FormParamsList]
+          NoVarDeclarList(
+          ) [NoVarDeclarList]
+          NoStmt(
+          ) [NoStmt]
+        ) [Method]
+      ) [MethDeclList]
+      Method(
+        MethDeclTypeAndName(
+          MethodType(
+            Type(
+             bool
+            ) [Type]
+          ) [MethodType]
+         boolFun
+        ) [MethDeclTypeAndName]
+        FormParamsList(
+          NoFormParamsList(
+          ) [NoFormParamsList]
+          ErrFormParams(
+          ) [ErrFormParams]
+        ) [FormParamsList]
+        NoVarDeclarList(
+        ) [NoVarDeclarList]
+        NoStmt(
+        ) [NoStmt]
+      ) [Method]
+    ) [MethDeclList]
+    Method(
+      MethDeclTypeAndName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethDeclTypeAndName]
+      NoFormParamsList(
+      ) [NoFormParamsList]
+      NoVarDeclarList(
+      ) [NoVarDeclarList]
+      StmtList(
+        StmtList(
+          StmtList(
+            StmtList(
+              StmtList(
+                StmtList(
+                  StmtList(
+                    StmtList(
+                      StmtList(
+                        StmtList(
+                          StmtList(
+                            NoStmt(
+                            ) [NoStmt]
+                            DesignStm(
+                              ErrAssignment(
+                              ) [ErrAssignment]
+                            ) [DesignStm]
+                          ) [StmtList]
+                          DesignStm(
+                            DesignAssign(
+                              Design(
+                               var1
+                              ) [Design]
+                              OneTerm(
+                                OneFactor(
+                                  FactBool(
+                                   false
+                                  ) [FactBool]
+                                ) [OneFactor]
+                              ) [OneTerm]
+                            ) [DesignAssign]
+                          ) [DesignStm]
+                        ) [StmtList]
+                        DesignStm(
+                          ErrAssignment(
+                          ) [ErrAssignment]
+                        ) [DesignStm]
+                      ) [StmtList]
+                      DesignStm(
+                        ErrAssignment(
+                        ) [ErrAssignment]
+                      ) [DesignStm]
+                    ) [StmtList]
+                    DesignStm(
+                      ErrAssignment(
+                      ) [ErrAssignment]
+                    ) [DesignStm]
+                  ) [StmtList]
+                  DesignStm(
+                    DesignAssign(
+                      Design(
+                       var3
+                      ) [Design]
+                      OneTerm(
+                        OneFactor(
+                          FactDesign(
+                            Design(
+                             truuuuuue
+                            ) [Design]
+                          ) [FactDesign]
+                        ) [OneFactor]
+                      ) [OneTerm]
+                    ) [DesignAssign]
+                  ) [DesignStm]
+                ) [StmtList]
+                DesignStm(
+                  DesignAssign(
+                    Design(
+                     var3
+                    ) [Design]
+                    OneTerm(
+                      OneFactor(
+                        FactBool(
+                         true
+                        ) [FactBool]
+                      ) [OneFactor]
+                    ) [OneTerm]
+                  ) [DesignAssign]
+                ) [DesignStm]
+              ) [StmtList]
+              MatchedIfElseStatement(
+                IfStart(
+                ) [IfStart]
+                IfCond(
+                  OneCondition(
+                    OneCondTerm(
+                      CondFacts(
+                        OneTerm(
+                          OneFactor(
+                            FactDesign(
+                              Design(
+                               var1
+                              ) [Design]
+                            ) [FactDesign]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                        Greater(
+                        ) [Greater]
+                        OneTerm(
+                          OneFactor(
+                            FactDesign(
+                              Design(
+                               a1
+                              ) [Design]
+                            ) [FactDesign]
+                          ) [OneFactor]
+                        ) [OneTerm]
+                      ) [CondFacts]
+                    ) [OneCondTerm]
+                  ) [OneCondition]
+                  CheckOrCond(
+                  ) [CheckOrCond]
+                ) [IfCond]
+                Stm(
+                  NoStmt(
+                  ) [NoStmt]
+                ) [Stm]
+                ElseStart(
+                ) [ElseStart]
+                Stm(
+                  NoStmt(
+                  ) [NoStmt]
+                ) [Stm]
+              ) [MatchedIfElseStatement]
+            ) [StmtList]
+            UnmatchedIf(
+              IfStart(
+              ) [IfStart]
+              IfCond(
+                OneCondition(
+                  OneCondTerm(
+                    OneCondFact(
+                      OneTerm(
+                        TermMul(
+                          OneFactor(
+                            FactDesign(
+                              Design(
+                               var1
+                              ) [Design]
+                            ) [FactDesign]
+                          ) [OneFactor]
+                          Mul(
+                          ) [Mul]
+                          FactDesign(
+                            Design(
+                             a1
+                            ) [Design]
+                          ) [FactDesign]
+                        ) [TermMul]
+                      ) [OneTerm]
+                    ) [OneCondFact]
+                  ) [OneCondTerm]
+                ) [OneCondition]
+                CheckOrCond(
+                ) [CheckOrCond]
+              ) [IfCond]
+              Stm(
+                NoStmt(
+                ) [NoStmt]
+              ) [Stm]
+            ) [UnmatchedIf]
+          ) [StmtList]
+          MatchedIfElseStatement(
+            IfStart(
+            ) [IfStart]
+            ErrIfCond(
+            ) [ErrIfCond]
+            Stm(
+              NoStmt(
+              ) [NoStmt]
+            ) [Stm]
+            ElseStart(
+            ) [ElseStart]
+            Stm(
+              StmtList(
+                NoStmt(
+                ) [NoStmt]
+                DesignStm(
+                  ErrAssignment(
+                  ) [ErrAssignment]
+                ) [DesignStm]
+              ) [StmtList]
+            ) [Stm]
+          ) [MatchedIfElseStatement]
+        ) [StmtList]
+        UnmatchedIf(
+          IfStart(
+          ) [IfStart]
+          IfCond(
+            OneCondition(
+              OneCondTerm(
+                CondFacts(
+                  OneTerm(
+                    TermMul(
+                      OneFactor(
+                        FactDesign(
+                          Design(
+                           var1
+                          ) [Design]
+                        ) [FactDesign]
+                      ) [OneFactor]
+                      Mul(
+                      ) [Mul]
+                      FactDesign(
+                        Design(
+                         a1
+                        ) [Design]
+                      ) [FactDesign]
+                    ) [TermMul]
+                  ) [OneTerm]
+                  EqualTo(
+                  ) [EqualTo]
+                  OneTerm(
+                    OneFactor(
+                      FactNum(
+                       0
+                      ) [FactNum]
+                    ) [OneFactor]
+                  ) [OneTerm]
+                ) [CondFacts]
+              ) [OneCondTerm]
+            ) [OneCondition]
+            CheckOrCond(
+            ) [CheckOrCond]
+          ) [IfCond]
+          Stm(
+            StmtList(
+              NoStmt(
+              ) [NoStmt]
+              NoReturnValueStm(
+              ) [NoReturnValueStm]
+            ) [StmtList]
+          ) [Stm]
+        ) [UnmatchedIf]
+      ) [StmtList]
+    ) [Method]
+  ) [MethDeclList]
+) [Program]
+INFO  20:24:33,709 - ===================================
+INFO  20:24:33,714 - Definisana je promenljiva a na liniji 3
+INFO  20:24:33,714 - Definisana je konstanta c cija je vrednost = 1 na liniji 5
+ERROR 20:24:33,714 - Semanticka greska na liniji 7: konstanta i tip konstante se ne poklapaju.
+INFO  20:24:33,714 - Definisana je konstanta b2 cija je vrednost = 118 na liniji 17
+INFO  20:24:33,714 - Definisana je promenljiva var1 na liniji 23
+INFO  20:24:33,714 - Definisana je promenljiva var2 na liniji 24
+INFO  20:24:33,714 - Definisana je promenljiva var3 na liniji 25
+INFO  20:24:33,715 - Obradjuje se funkcija voidFun na liniji 29
+INFO  20:24:33,715 - Definisan je formalni argument i na liniji 29
+INFO  20:24:33,715 - Obradjuje se funkcija intFun na liniji 31
+INFO  20:24:33,715 - Definisan je formalni argument i na liniji 31
+INFO  20:24:33,715 - Definisan je formalni argument c na liniji 31
+ERROR 20:24:33,715 - Semanticka greska na liniji 31: funkcija intFun nema return iskaz!
+INFO  20:24:33,715 - Obradjuje se funkcija intFun1 na liniji 33
+ERROR 20:24:33,715 - Semanticka greska na liniji 33: funkcija intFun1 nema return iskaz!
+INFO  20:24:33,715 - Obradjuje se funkcija boolFun na liniji 35
+ERROR 20:24:33,715 - Semanticka greska na liniji 35: funkcija boolFun nema return iskaz!
+INFO  20:24:33,715 - Obradjuje se funkcija main na liniji 37
+INFO  20:24:33,715 - Pristup promenljivoj var1 na liniji 41
+ERROR 20:24:33,716 - Semanticka greska na liniji 41: tipovi moraju biti kompatibilni.
+INFO  20:24:33,716 - Pristup promenljivoj var3 na liniji 51
+ERROR 20:24:33,716 - Semanticka greska na liniji 51: promenljiva truuuuuue ne postoji
+INFO  20:24:33,716 - Pristup promenljivoj truuuuuue na liniji 51
+ERROR 20:24:33,716 - Semanticka greska na liniji 51: tipovi moraju biti kompatibilni.
+INFO  20:24:33,716 - Pristup promenljivoj var3 na liniji 53
+INFO  20:24:33,716 - Pristup promenljivoj var1 na liniji 55
+ERROR 20:24:33,717 - Semanticka greska na liniji 55: promenljiva a1 ne postoji
+INFO  20:24:33,717 - Pristup promenljivoj a1 na liniji 55
+ERROR 20:24:33,717 - Semanticka greska na liniji 55: tipovi promenljivih moraju biti kompatibilni.
+ERROR 20:24:33,717 - Greska na liniji 55 : tip uslova mora biti BOOL!
+INFO  20:24:33,717 - Pristup promenljivoj var1 na liniji 58
+ERROR 20:24:33,717 - Semanticka greska na liniji 58: promenljiva a1 ne postoji
+INFO  20:24:33,717 - Pristup promenljivoj a1 na liniji 58
+ERROR 20:24:33,717 - Semanticka greska na liniji 58: oba operanda moraju biti tipa int na liniji 58
+ERROR 20:24:33,717 - Greska na liniji 58 : tip uslova mora biti BOOL!
+INFO  20:24:33,717 - Pristup promenljivoj var1 na liniji 63
+ERROR 20:24:33,717 - Semanticka greska na liniji 63: promenljiva a1 ne postoji
+INFO  20:24:33,717 - Pristup promenljivoj a1 na liniji 63
+ERROR 20:24:33,717 - Semanticka greska na liniji 63: oba operanda moraju biti tipa int na liniji 63
+ERROR 20:24:33,717 - Semanticka greska na liniji 63: tipovi promenljivih moraju biti kompatibilni.
+ERROR 20:24:33,717 - Greska na liniji 63 : tip uslova mora biti BOOL!
+INFO  20:24:33,717 - ===================================
+ERROR 20:24:33,718 - Parsiranje NIJE uspesno zavrseno!
